@@ -1,0 +1,1035 @@
+{
+    "ADMIN": {
+        "password_hash": "scrypt:32768:8:1$Pcp8IAG9tiSZDSQw$b20b0084d9f2286bdbe66a5597bc292b9cce40cabb7fb2afeb3d8f440af7c01e699b9a93283184699f600b1e7961e2031519bceacb65b99d9c5c3d0676d7a2c2",
+        "role": "admin",
+        "email": "crhradiology1@gmail.com",
+        "notify_on_updates": false
+    },
+    "JROSE": {
+        "password_hash": "scrypt:32768:8:1$BMhAuBvL3b21622A$8512c9f16a2b86ec741a17019846e23acc55781fc9b22cbf46890108f46b392a808c4ed3ba7aa3585e3b7c0c777b640eb7f1acf52efbaa08c35d29edf25ac9a4",
+        "role": "admin",
+        "email": "lordvyce1@gmail.com",
+        "notify_on_updates": true
+    },
+    "RANGREY": {
+        "password_hash": "scrypt:32768:8:1$Fg1ImGsTzeyZ2y22$33c104af7d67b6eabf5b55cd9fe3702ebcc00abd370825f865df8246497f5e50bbcb0deca1fabd28a12a40eb51c06c060de165a5ae0f03cab5b0878f6669c076",
+        "role": "default",
+        "email": "",
+        "notify_on_updates": true
+    },
+    "SHANTB": {
+        "password_hash": "scrypt:32768:8:1$6Kt6PMd9iWJfVabQ$0195764d9b052a01b4f10dde0573387e942fc313cae394e537c94f4d344e10ff3ad271b9754713bcab149f071cbb84ee418a401ab04bd19e8e706765a837300e",
+        "role": "doctor",
+        "full_name": "Dr Shanika Barnes",
+        "email": "",
+        "notify_on_updates": true
+    },
+    "NWILLIAMS": {
+        "password_hash": "scrypt:32768:8:1$ut3DxJ56Em06BSiX$9ed36ed6a0d84f912d6d24520804881d454eac2e880ff226d35b8da4b13591cb7c171e8e04cc9c99fdca97312a078a5c4473a160148253a581047ffc91a0ae3f",
+        "role": "doctor",
+        "full_name": "Dr Nakisha Williams",
+        "email": "williamsnak@gmail.com",
+        "notify_on_updates": true
+    },
+    "SWILL": {
+        "password_hash": "scrypt:32768:8:1$ALqafq23kmeAznQe$cce412b237d449d148d1f511cac93ee66c8d0d65130c07fb8bbcbd06766369cef7998a4eb88d09d1cd20cfe0c290d7e6316ccb28129ee28bf135caffce2d43f3",
+        "role": "staff",
+        "full_name": "Sharifa Williams",
+        "email": "",
+        "notify_on_updates": true
+    },
+    "EHENRY": {
+        "password_hash": "scrypt:32768:8:1$TlVIku9jWH4t6Wng$bfa817b3a461c1af90f3a4179bc2f62cae9d7faa21faa48303cac2438937a7a469fe7bd05b2d9c5fb971269efb4e081b2f205b40e92c0d3e76597db71426ede9",
+        "role": "radiology_staff",
+        "full_name": "Easton Henry ",
+        "email": "e.rhenry@live.com",
+        "notify_on_updates": true
+    },
+    "DRDEO": {
+        "password_hash": "scrypt:32768:8:1$7M2ElqqjShdiyt27$f728c2593cd8a72a7f003becd34610df2350f2ceda54bf4da74a0de3139350299431f77619e852c9622b8699d8815c643335c18ade5442ee6fa6b1c6cf73e043",
+        "role": "doctor",
+        "full_name": "Dr N Deokaran",
+        "email": "nandani.deokaran@wrha.gov.jm",
+        "notify_on_updates": false
+    },
+    "IMANICALDAWK": {
+        "password_hash": "scrypt:32768:8:1$grmew3RDVrfh6Rf0$03b7275c6df7b95190437d435be79cbf7cfffb2902c617f726696fb960267ad433289a8a1590c4e504463d31e657cd45ac4f26516b1871bc88ba90182efa7d23",
+        "role": "radiology_staff",
+        "full_name": "Dr. Imani Caldwell",
+        "email": "caldwellimani@gmail.com",
+        "notify_on_updates": false
+    },
+    "SKILLAZ": {
+        "password_hash": "scrypt:32768:8:1$cjb0sQaiRsepqgDP$f471c6b2ccad3cb378fed13338fb5bba518c6a094158da7b98a11d0b1853f6e4609da8b378b0a6bc3239b20709228a4c05345d77701e0ac225ddab0140ce9e2f",
+        "role": "staff",
+        "full_name": "Havon James",
+        "email": "hjames@stu.ucc.edu.jm",
+        "notify_on_updates": false
+    },
+    "EM6IX": {
+        "password_hash": "scrypt:32768:8:1$0Fwf1rTEXHUmYAfN$c0c3280bca43c57644ccb19710fdc7e1e3f96262e322d694b660f71d4634e0876022d346b9d175945ed453d25d738ff6c6e160ad588d4611db03e096e60a8066",
+        "role": "doctor",
+        "full_name": "Dr. Fadare",
+        "email": "olumuyiwafadare@gmail.com",
+        "notify_on_updates": true
+    },
+    "CHANTYLOVE": {
+        "password_hash": "scrypt:32768:8:1$2aO9hl2kZo0eSIYN$3742ec0c8a9a5f5761d2da482ac9adf20996da0cfb6e323a16c7c205bafdb2147116d06ff332171be9acdd448793d6cd7f7a4f7cb79d7cc6a20d614f7e733474",
+        "role": "radiology_staff",
+        "full_name": "Chantoy Ottey",
+        "email": "",
+        "notify_on_updates": true
+    },
+    "MMCFARLANE": {
+        "password_hash": "scrypt:32768:8:1$oiYv5TueZWUeNqlS$626647eab07840927ae2ba3fa5f48c62711fd9c5d618f82ae0e341fcd1840de9e5faff4d01f4a003e327b9aafa7d69a2e0351c1689f35e6784023b6bf8b721f2",
+        "role": "radiology_staff",
+        "full_name": "Mellissa Mcfarlane",
+        "email": "marricamcfarlane1991@gmail.com",
+        "notify_on_updates": true
+    },
+    "YALLEN": {
+        "password_hash": "scrypt:32768:8:1$Fpbfri4MWusoUWl7$6c7c3b914545502016eb4d48b73da1b8468c1961d34d2ee056acbb464a8ff0dab4d8a47471f3bed96d83c282e5a7ad9fd0dc1181c5970c366f6f37c7483efd37",
+        "role": "doctor",
+        "full_name": "Dr. Yawneke Allen",
+        "email": "toniannallen@outlook.com",
+        "notify_on_updates": true
+    },
+    "KC": {
+        "password_hash": "scrypt:32768:8:1$kcgeawV6fH6OsvU9$c667ba1547b37c6f683092349e8c1113bf5d176ef52b8306c35a847c6533e71375715f0ec35e28ab4c2c65c2ab2bb74be3e17772ffe94e4340c458ca9e6d87d5",
+        "role": "doctor",
+        "full_name": "Dr. Khani Coleman",
+        "email": "khanicoleman96@gmail.com",
+        "notify_on_updates": true
+    },
+    "OLUWATOOBI": {
+        "password_hash": "scrypt:32768:8:1$rFsdgmHxYpgwk4hv$cb3851983943fb13e92b95c95fd3ee52f84a841387d964b5ea98bb5079e7c9676a3cdbf26691056f6a826b1f8b5beb3a017f25218d4ab4a2070b676bd5f6e2ba",
+        "role": "doctor",
+        "full_name": "Oluwatobi Ope-Ojo",
+        "email": "",
+        "notify_on_updates": true
+    },
+    "HEWAN876": {
+        "password_hash": "scrypt:32768:8:1$I6a7NJJ3iQNVIY1o$f587705c7ee5134b39c7a837d848f1f0a4b9510523a5232bd2c2b4682081a1144929f48a7386484cec674febef5c13a4b7bb3ce73ca793ac087713b1334e3ae1",
+        "role": "doctor",
+        "full_name": "Michael Hewan",
+        "email": "michael.a.hewan@gmail.com",
+        "notify_on_updates": false
+    },
+    "AECONSULTANT": {
+        "password_hash": "scrypt:32768:8:1$yVGDelVRZrG7z1iu$44088a4fb6f2b6069ce4418e0724ba2130b492088eceb28d60d287bb109be7150a9772033da105da998ef831ed51494964bf28c29481fbad0f9983b1ebd9c2b5",
+        "role": "doctor",
+        "full_name": "Dr. Dena Kirnon",
+        "email": "crhaande@gmail.com",
+        "notify_on_updates": true
+    },
+    "DRTB": {
+        "password_hash": "scrypt:32768:8:1$ymavcM1Ru20XBhOa$372d8fdb323163a06880207be7bd26b80cec86d133dba15419cd94111267971257ed1e3359c32cdefb5bd0ade449c5a7de3fcd9bf7316602f070ebcaf9916914",
+        "role": "doctor",
+        "full_name": "Dr. T. Branford",
+        "email": "tbranford101@gmail.com",
+        "notify_on_updates": true
+    },
+    "TALLEN": {
+        "password_hash": "scrypt:32768:8:1$1Dt7zVuMx9baoHyu$8bd6b2e67f101703e90cbce27493742e99ee29309e841a05c375a5b9bf4829ca7363115a9ef06632117094f575cac1e9b7761423970ea18a0b5da595977fb3e3",
+        "role": "doctor",
+        "full_name": "Dr. Tionette Allen",
+        "email": "",
+        "notify_on_updates": true
+    },
+    "JENBRO": {
+        "password_hash": "scrypt:32768:8:1$FBXHgDTz6diEjkb5$8da67e0734cc29bf1f31b1fc50251dbb7515ae592f06e944dab36abcf8b8fe864616c9b6c729dae1d1984e4ee0f604418350257e70166c74a81cf271f6a81788",
+        "role": "doctor",
+        "full_name": "Dr Jenielle Brown",
+        "email": "munchybrown@hotmail.com",
+        "notify_on_updates": true
+    },
+    "SHANIQUEA": {
+        "password_hash": "scrypt:32768:8:1$kUSP9mKINQaYJMsy$c1825e3bb56fa04e406a73addfde31f4602d3fcfa05824d388219b83d882e6d297746bb590c67b3301714ff2a009d0c279a09080aa031ae2dd0009cf27423a33",
+        "role": "doctor",
+        "full_name": "Shanique Allen",
+        "email": "allenshanique39@gmail.com",
+        "notify_on_updates": true
+    },
+    "BULLOCK101": {
+        "password_hash": "scrypt:32768:8:1$4y6Api2o4BIrRdQT$2b34914b3af2187691e6c7b436f40505cd4640155baeb591492f0994bafb712edd60461461924177f35f789c76c54645f09d71ae753f3a42e6d1ae94c69537a9",
+        "role": "doctor",
+        "full_name": "Ankier Bullock",
+        "email": "ankara2ankier@gmail.com",
+        "notify_on_updates": true
+    },
+    "JAMIRASHI": {
+        "password_hash": "scrypt:32768:8:1$UHQ5hrOdGPqMkyS5$cbadc5bc9be8299dd67287c291835cfdc75d340fdd4cd72529ba02ee57e3e7910df11cdb41fe646c0b6d73a62dc605bbc44a5c1c3e5e041c4f64cf6fa1234638",
+        "role": "doctor",
+        "full_name": "Jamila",
+        "email": "brownjamila2009@gmail.com",
+        "notify_on_updates": true
+    },
+    "TSOMMERVILLE": {
+        "password_hash": "scrypt:32768:8:1$NsTRvBME17mEazHs$af08cce24ba980af72234ba32adb67050b5c71bf005c6cf5b5fd73d0786d272ce2897797da8a438c149a33caf71c075cec53f089b441b8592cb7188606e3fe32",
+        "role": "doctor",
+        "full_name": "Tina-Shae Sommerville",
+        "email": "tinashaesommerville@gmail.com",
+        "notify_on_updates": true
+    },
+    "KFORBES": {
+        "password_hash": "scrypt:32768:8:1$RrfTtjzOQdZOIWWM$195839344b00410ccfa7a62bc1d2e4d4ae4feeb6d8fec76f0a4f26fc163028a41b219ff90ce5fcb7814e77d0ba62e58a129211af18c799f7d99e82fa3c105ec0",
+        "role": "doctor",
+        "full_name": "Krysten Forbes",
+        "email": "",
+        "notify_on_updates": true
+    },
+    "ECHAN": {
+        "password_hash": "scrypt:32768:8:1$nHEyR5Ju6ib5VbRy$c0620fa2d1dac12d6edb8e2d963f56ae2dd357c9874f43161afb8af28145c29d87c04b637106aac19127d5cc493221d0f90db36418079705abce61bc26ce7830",
+        "role": "doctor",
+        "full_name": "Eddie Chan",
+        "email": "chaneddie95@gmail.com",
+        "notify_on_updates": true
+    },
+    "TPULIKANTI": {
+        "password_hash": "scrypt:32768:8:1$8rLVfYPQWtSLUn4s$f4b6c22ead8ae99ced49d1691d6738e1b427c59f5cd0b93e7d5de06091247ba4e6729b28e4fdb7d45c4c3c972970adb4207f9c555f8e63ca1f0b0659409b8215",
+        "role": "doctor",
+        "full_name": "Thejasree Pulikanti",
+        "email": "",
+        "notify_on_updates": true
+    },
+    "MEL": {
+        "password_hash": "scrypt:32768:8:1$iz3CGNJb8q0EUaNJ$951944f8b63e5d3d27c280337ca5a1a7eecbd27a4784706173458958c9b593c70bd19b6968599ecc1ae4f7f2cd75127af9f14e51ad37efd235cc9a12eeb7afc2",
+        "role": "staff",
+        "full_name": "Melissa Winder",
+        "email": "",
+        "notify_on_updates": true
+    },
+    "NORMS": {
+        "password_hash": "scrypt:32768:8:1$iSIFBUHb5nilG3th$d5e84119c20f8c88077c2318eed3e2c1592728745f88f306105f654a57aa214c47f55f2760ac1b849245613d652242cfaf9ae0ca539f7bcbbb819b385d053150",
+        "role": "staff",
+        "full_name": "Sharna Kay Norman",
+        "email": "radiotherapy25@gmail.com",
+        "notify_on_updates": true
+    },
+    "CAMJOHN": {
+        "password_hash": "scrypt:32768:8:1$9FWJOEeCOyQA7vMz$5f730e27c6756272f80577213c3d29fd3effbecf83c3ad18d97132eea6a90718caf85e7f1aa3319ba1853c38dcb6879f80ce4403254921d18001f75d8a55c699",
+        "role": "staff",
+        "full_name": "Cameal Johnson",
+        "email": "",
+        "notify_on_updates": true
+    },
+    "MITCH": {
+        "password_hash": "scrypt:32768:8:1$3my8Xj8in8oCznbx$4152f8a978fab3d7d57683b89539f1a0cd33924e527859dc50a27115cec06c25f5fcce5393416d0a3040eb77d4f1e4aeebdec0634fcd1604500c5f8a64b9d4a1",
+        "role": "staff",
+        "full_name": "Karie Williams-Mitchell",
+        "email": "williamsmitchell1211@gmail.com",
+        "notify_on_updates": true
+    },
+    "CTHOMPSON": {
+        "password_hash": "scrypt:32768:8:1$0ZWmp75cENgHQYeh$29b6e97131450d0b805f6f48ffcd33e50d2eb7dc9d962a06c9b328d091bda6300ae50fb1f323863bc99ff58fe9f87afa371441dd8942e4701f2c25b6d07e400a",
+        "role": "doctor",
+        "full_name": "Courtnie Thompson",
+        "email": "",
+        "notify_on_updates": true
+    },
+    "GBROWN": {
+        "password_hash": "scrypt:32768:8:1$heF0fBmug95OPhyH$5d5c1d8024020f7893e8426716838f86c520093923bfdc192b07927b5cb3428ce1311c9617f3ac79c8bfa22b36f620d269a94ad8a505a0a942ed20e2c070e077",
+        "role": "doctor",
+        "full_name": "Gifonique Brown",
+        "email": "",
+        "notify_on_updates": true
+    },
+    "SLAW": {
+        "password_hash": "scrypt:32768:8:1$1L89GGJ6ZVwRyjhi$effc85d707653377a015c8b1b5d98989ba6881fae5f6cac3b27e713ce98d12d485e68bf5a3674910535ba56b30d0c176305ae2c0b0c7e409b1bf2adc82aac5dc",
+        "role": "admin",
+        "full_name": "Stuart Lawrence",
+        "email": "steweenator@gmail.com",
+        "notify_on_updates": true
+    },
+    "SBLY": {
+        "password_hash": "scrypt:32768:8:1$QPQtuJvPbASjcoph$bf08bea027ecc8a56e49de44d006fc78f93a0cdff77749ca080741fd3b2bfed861e1982c53b24473a8ed50f8488b628905df805c221e2604fdd132423471888e",
+        "role": "doctor",
+        "full_name": "Selena Blythe",
+        "email": "selena.blyteh@gmail.com",
+        "notify_on_updates": true
+    },
+    "SINGHGAGANOOOQ": {
+        "password_hash": "scrypt:32768:8:1$bFdRb9Yf9pscWsVE$bfcb3d463fac7a4031213f8ca1ddcf0f690e1e442e85c9a8ec8b2693a838d569a137074a1514a8c64da85be8a394f6850d874c3766d0f693ce4a61c2a3f132c7",
+        "role": "doctor",
+        "full_name": "Dr Gagan Singh",
+        "email": "singhgaganoooq@gmail.com",
+        "notify_on_updates": true
+    },
+    "LANCEONRAD": {
+        "password_hash": "scrypt:32768:8:1$2GnfYtvgz9jVQTgV$dab9566f9734d28332378607fc08c87c689f9e369e01028a26c85abfd1f9c655031dbc70f7a17ce714c1d942d8fbe4c5c0d5e7a59f34610501ed06a73b941408",
+        "role": "doctor",
+        "full_name": "Dr Lance Barnes",
+        "email": "lancebarnesmd@gmail.com",
+        "notify_on_updates": true
+    },
+    "CAROLNMADU": {
+        "password_hash": "scrypt:32768:8:1$eVwwg6DIkMB1H8gm$bba629c4fc7e9c662734f9544871eda8fb677db341ebd8f05bd717ead099bfcaae912018e91381171704229ec7d9d0a12ec501d7a06d8c1ce333c8256792bc81",
+        "role": "doctor",
+        "full_name": "Dr Carol Madu",
+        "email": "carol_madu@yahoo.com",
+        "notify_on_updates": true
+    },
+    "JHEN": {
+        "password_hash": "scrypt:32768:8:1$0NlyVodr6wiJkyej$9743b8793721b32efd9ee1658ffa2d57b6ed10681fbc8d786d208cea24d3ffd905b8bdb4f61447855b0f9e992e4a4d70eb005face81b428e2588f1a9fe437420",
+        "role": "doctor",
+        "full_name": "Dr Jheneille Nicholson",
+        "email": "njheneille@yahoo.com",
+        "notify_on_updates": true
+    },
+    "REJAUN": {
+        "password_hash": "scrypt:32768:8:1$qCNHbjC3TDg9CR67$74e71e943241f86eb49fdb42ba7a75168f71724e81a9472a2eefa1752f1042bc7c23d794d57355baac5162f48bf80fef2abf9e40a442957cd05ba9a4009fd2c6",
+        "role": "radiology_staff",
+        "full_name": "Dr. Rejaun Jones",
+        "email": "rejaunjones@gmail.com",
+        "notify_on_updates": true
+    },
+    "BRANDON.GILBERT": {
+        "password_hash": "scrypt:32768:8:1$hIp2Hsc7oExBF6sa$6cbafb87340472413e87d43752cd940a2011d5965ffc12513d1d2b8ceb15824f94cf1b57e1b99248c9c4b51d8180eba167eec9964890b291bfcb0e49ac95e903",
+        "role": "doctor",
+        "full_name": "Brandon Gilbert",
+        "email": "brandongilbert.a@gmail.com",
+        "notify_on_updates": true
+    },
+    "MCCATTY": {
+        "password_hash": "scrypt:32768:8:1$5HZiReCK3bWs9z1k$249e1595940b44088d9fb54cd72adc649d3b2c81628753ad01d285db00bb39cfb67221cb5a797918fec883aea011a98271d503a4982d7a2f5d53325654890a36",
+        "role": "doctor",
+        "full_name": "Michelle-Ann Mccatty",
+        "email": "",
+        "notify_on_updates": true
+    },
+    "TCUNNY": {
+        "password_hash": "scrypt:32768:8:1$zHYu1Yk0TeHqwwlH$462ff4414af9fbe26ff2dbd8a7337591c619e30c008d2396388b83c157f3fb1bdd7adbfe8da0acffd7fe1bcc6dc04327990da09bf66c6382a76f19e133d9b581",
+        "role": "staff",
+        "full_name": "Teleisha Cunningham",
+        "email": "",
+        "notify_on_updates": true
+    },
+    "M.OGUNBIYI": {
+        "password_hash": "scrypt:32768:8:1$RlPbdiqZwHA4h1yX$0bc1c4c35653cc5496d89f5bc795d3db6844c582d0b67132c8c1cb6665e8d1405fdbf967ab7731c9e4c0aa8bf6460fcd846a7112af1ce72a69fa92e8a8c9bf93",
+        "role": "doctor",
+        "full_name": "Mary Ogunbiyi",
+        "email": "maryogunbiyi35@yahoo.com",
+        "notify_on_updates": true
+    },
+    "BOND": {
+        "password_hash": "scrypt:32768:8:1$QNI424n0qsJgT0g1$2fecc4ae3e346d4b3bc2ab0838f8bd970433bc51e79f14f95e4408162080256d459571b32b5f3c0750a967c1427fbaf96ef7b9c06109c4d1ecada99ef6b8f8d7",
+        "role": "doctor",
+        "full_name": "Bradley Bond",
+        "email": "crhanereports@gmail.com",
+        "notify_on_updates": false
+    },
+    "TROBINSON": {
+        "password_hash": "scrypt:32768:8:1$EP0jnqSBSmANSCy7$326f2cff0f63ead7573f3eb5d39096d74f02e28b135eee005f5a2a4bafd03722f32db34ebbee69643739ae2edf2df27dd31547ea8866333646223bdbae1cdfb2",
+        "role": "doctor",
+        "full_name": "Tremaine Robinson",
+        "email": "trobison8726@yahoo.com",
+        "notify_on_updates": true
+    },
+    "WABALDINHO": {
+        "password_hash": "scrypt:32768:8:1$2zmvMCsgyLUeZMuS$0290a0878c52c8ce10c589b9d4f450118b3dbdb87b91550c4e669269f4ecdd4c6c7665aa02fa1452bdae70426682e5c470515939aff36eb5b566ff67836130cd",
+        "role": "doctor",
+        "full_name": "Dorian Rodney",
+        "email": "",
+        "notify_on_updates": true
+    },
+    "TAJAY.MYERS": {
+        "password_hash": "scrypt:32768:8:1$GeSHrmewlA96Sbei$a77f9a4f35962a66c49d193bcba1067439036c673919b616a08819ca3e796e8b226bb81efb74eff9f01669621f91740871363e817829400f2b4ce4b2b2e7260f",
+        "role": "doctor",
+        "full_name": "Tajay Myers",
+        "email": "tajaymyers@gmail.com",
+        "notify_on_updates": false
+    },
+    "LMILLER": {
+        "password_hash": "scrypt:32768:8:1$XgQC00eoF8QDI0G3$4bb45c98706c5acb40f33149fe4439b990eef54843687cdf6472416636e9d9be1a27c3454e44ea25284b5a16d0d3050e54d99cd2075bf4d8dcd352abdbaabf1d",
+        "role": "admin",
+        "full_name": "Dr. Lori-Ann Miller",
+        "email": "crhradioloy1@gmail.com",
+        "notify_on_updates": false
+    },
+    "SGIBSON": {
+        "password_hash": "scrypt:32768:8:1$SV1N3yy6S1Fr6rNT$92e677e297222fe044c006824954c215de4b9552c316149be528dd1258ad4b87771e8830edbf7d6aba4f97a9de7043b5ab823345b41bee2f45c07f8fde154334",
+        "role": "doctor",
+        "full_name": "Shaneeli Gibson-Gordon",
+        "email": "shaneeli_gibson@hotmail.com",
+        "notify_on_updates": false
+    },
+    "RWILL25": {
+        "password_hash": "scrypt:32768:8:1$A96WBhU6NHI1JgGO$18b17ed926c35cce73e7e8a82529ccb92ce4bb360f0806b34f965a0ed4e9568847311047f0ef5dc6ca2b2102c590ed98d5a373ae3c9ad64813c6333f507cc681",
+        "role": "doctor",
+        "full_name": "Rachel Williams",
+        "email": "",
+        "notify_on_updates": true
+    },
+    "NPALMERWIL": {
+        "password_hash": "scrypt:32768:8:1$uoX42RhDmkLUOHW6$bb7d24db5bea56a2f41149adfee3f62441683ce5540687c623de0f0c610fa1fc56fe5444fa42207e752cf6781693b6e38fc94fd1a3b8ba4627f9002dfbfc971d",
+        "role": "admin",
+        "full_name": "Dr.  Nasheva Palmer",
+        "email": "npalmern30@gmail.com",
+        "notify_on_updates": true
+    },
+    "LASHAUNIE": {
+        "password_hash": "scrypt:32768:8:1$N0nGrz0fcac8ntPK$d4d06a7866daa599260519fba80994b230e27ccc4b4a04cd58739fb28b24d2584f17d04061ef077acc9e690f896feab40537294072a87e0ab8f6e42ee1141366",
+        "role": "doctor",
+        "full_name": "Dr. Lashaunie Lindo",
+        "email": "",
+        "notify_on_updates": true
+    },
+    "CRICKETTS": {
+        "password_hash": "scrypt:32768:8:1$zn7CJ9bPDVvFlx22$021c0f0c7ddb1e199ee27530b92b96e2dbd0797ce525b9de942818c4376afb1135bedced8c3b79868ef91f6dfbc549c9fbb5a465f960a0e54d101f71c3fee6d2",
+        "role": "radiology_staff",
+        "full_name": "Curlene Ricketts",
+        "email": "curlenericketts@gmail.com",
+        "notify_on_updates": true
+    },
+    "TWEBB": {
+        "password_hash": "scrypt:32768:8:1$Bvxi1ojsI3SFDu5t$411ae85fb66043bfac3a198db216b340402ed89fe554c5cf5d83e2c735711da77396b4af0f594fd73c6fb9d0c275bb895cc26df5b0a6925ae39a90341caed0d1",
+        "role": "radiology_staff",
+        "full_name": "Toni-Ann Webb",
+        "email": "toni_ann_webb@yahoo.com",
+        "notify_on_updates": true
+    },
+    "SGRANT": {
+        "password_hash": "scrypt:32768:8:1$VEgCM1DXJTRKIgJP$408105b69de835b7ed2bf4bb9eeb498bf5c7d3da507affa82cb21c57a84fdefa601b29e016cd8fed4be01e60516441400200b3427798790b8a6a4f59992718aa",
+        "role": "radiology_staff",
+        "full_name": "Sanecia Grant",
+        "email": "csanecia10@gmail.com",
+        "notify_on_updates": true
+    },
+    "LESHA": {
+        "password_hash": "scrypt:32768:8:1$CQAyzi8dgjGUIy36$80b74631504f25cc96d9c0935a5408aef558cd9cfbe547998cf471b1d3743d24af375f05cafe822bbacf0377d54fa5d78ae5b9af9c771a711b572b19783c4d15",
+        "role": "staff",
+        "full_name": "Alecia Mckenzie",
+        "email": "alkenzie96@gmail.com",
+        "notify_on_updates": true
+    },
+    "CHILL": {
+        "password_hash": "scrypt:32768:8:1$Sti7TX1soN0m3zZr$a077930cbda371946738057f9d9ba5e0c142a92c5128b1e176cb4d648735078a3d5a15c47e160f1cf56026e1d015c19e36037f1e978871af60485dc5a27d9d1d",
+        "role": "staff",
+        "full_name": "Charlene Hill",
+        "email": "",
+        "notify_on_updates": true
+    },
+    "ELISSA.MORLE": {
+        "password_hash": "scrypt:32768:8:1$CNjqK6MQphaqEyXY$6e2fda5d165c6def6cd8453ab2554eb697b17120bfb739dafdd3c03ba417daa667ffebca9a65c63174dcd0997c61f4f6f802029102028c4c00bd4da08f861642",
+        "role": "radiology_staff",
+        "full_name": "Elissa Morle-Mckoy",
+        "email": "elissamorle@gmail.com",
+        "notify_on_updates": true
+    },
+    "BRENT": {
+        "password_hash": "scrypt:32768:8:1$XUUl5oAYp8d52VQ9$0315cad5de1f6e67be4c0dd7fa8197542e02075e6cd831e6223710fd3c1543987c83703103b360f279d7a92b04a51c3e6c66e5b6b669c0c1e50974771ff90513",
+        "role": "doctor",
+        "full_name": "Brent Morris",
+        "email": "bomorri@yahoo.com",
+        "notify_on_updates": true
+    },
+    "RROYE": {
+        "password_hash": "scrypt:32768:8:1$uFvlbrVKr9sav9co$d4cb46eea033681cf4343e259abf86767aea59f65aed36fb023007dbaa7c7dd17616b4f85405f7f6c88ad25243044e5b9086b431b082053dfd5830ea81bd259c",
+        "role": "doctor",
+        "full_name": "Renae Roye",
+        "email": "",
+        "notify_on_updates": true
+    },
+    "TEST": {
+        "password_hash": "scrypt:32768:8:1$TgHRwIKgA1Cd8wsW$e33f97f138a56d01c8e3d999d1845442e4a4b1669c85e757a7f0a7dc774f64230c016aea25733cbc6ceefc0a823e29771f5fe8ba82c7cae715eb5d5439a8d9f9",
+        "role": "staff",
+        "full_name": "Test",
+        "email": "test@test.com",
+        "notify_on_updates": true
+    },
+    "SANYAY": {
+        "password_hash": "scrypt:32768:8:1$A93h4C4wBZ1jdW3Z$77fa16c015a1bd8620ee7c283e9651f38c6872327429c4136f6435ff25fc92191719bc77cfd204b9f88f7064549c416c9c379d8c918631f6ab0cd35a86dd2514",
+        "role": "doctor",
+        "full_name": "Dr San Tun",
+        "email": "sanyayhaythi93@icloud.com",
+        "notify_on_updates": true
+    },
+    "PIZZA1": {
+        "password_hash": "scrypt:32768:8:1$PtM2eOxQKISVK0W1$5af62db5e999de1dce4bca341029d3ddfe2f216c1b3875630df2c791d1e576bc92e1f24bf89f48573d7da419eff809676997e0964f9c5e9458d659d5f9683874",
+        "role": "doctor",
+        "full_name": "Camoy Mcfarlane",
+        "email": "camoymcfarlane@yahoo.com",
+        "notify_on_updates": false
+    },
+    "SJONES": {
+        "password_hash": "scrypt:32768:8:1$pKZq2N7FE16tjvGX$26c3291b7692e167529d572c4d7abe7a17a761c780dad3ad93a90102478e18327a430eda304fb7ac8e0a01796bb9207824f54ffee5fcae7c329fb96c92fa8db6",
+        "role": "staff",
+        "full_name": "Sharyl Pearson Jones",
+        "email": "Sharyl.Pearson-Jones@wrha.gov.jm",
+        "notify_on_updates": true
+    },
+    "SANDY": {
+        "password_hash": "scrypt:32768:8:1$9PagaOancRwA8C4w$424f177c005ab42fe9882d9824c6ae6e2cce2186379e628624d12ee5320f6deffb0fdde362ca8e6ddb2bce5c4198af05442ce20005b9d7ab3d3208f04e68ad83",
+        "role": "radiology_staff",
+        "full_name": "Sandra Senior",
+        "email": "sandrasenior@wrha.gov.jm",
+        "notify_on_updates": true
+    },
+    "SHAMANE.H": {
+        "password_hash": "scrypt:32768:8:1$2Dxv2xrgrwn2sgKG$d325242f6c9c73b817ac27a74bc7e8589f4414623901b88855e27ca7da1de545381db564be68d96b4553062f78f501c8ecde839a088a08e68f6a1a85408b0bf5",
+        "role": "doctor",
+        "full_name": "Dr. Shamane Hughes",
+        "email": "shamanehughesf@gmail.com",
+        "notify_on_updates": true
+    },
+    "CHRISTIET": {
+        "password_hash": "scrypt:32768:8:1$efYUkOdYnAB6aneD$c828803503e9d9f9af64ebdb8daecb2f5e350cac5b980a663c5478cf1ccb30078c4834c86ee66dc93178501739fdb2a36dad88b12df3ed7f4506ebe333fce261",
+        "role": "doctor",
+        "full_name": "Tashian Christie",
+        "email": "tashian.christie@wrha.gov.jm",
+        "notify_on_updates": false
+    },
+    "MHINES": {
+        "password_hash": "scrypt:32768:8:1$ztG81MEviR5B0aeX$6c58b1126554040dab49081277040ef80a0b1baccc4f999c7a4fb72ecd4ebcb43abc163bd0fd3dafcf6382695ec87572174e01710bd730ad5c9e4a93086bef90",
+        "role": "doctor",
+        "full_name": "Mark Hines",
+        "email": "crhanereports@gmail.com",
+        "notify_on_updates": true
+    },
+    "TASHAG": {
+        "password_hash": "scrypt:32768:8:1$xLaI9CYv8zcej7Ou$0f5723442013d863ff1a3c99d8691bd7fd12c32763323e6009f832a4118284b4eda73f300342b6fcdf5d8a1fe376c55ff9af6bd99461bf545f39fb81156147eb",
+        "role": "doctor",
+        "full_name": "Tasha Campbell",
+        "email": "tashagaycampbell2@gmail.com",
+        "notify_on_updates": true
+    },
+    "NEIKA": {
+        "password_hash": "scrypt:32768:8:1$sh2ufHm6Hdeswu9p$a279c24d3612f778b03b5f8982c1b97c1c33b21060fc0295ced0c25009f009286eaa3680d6262965126b73aa7d948dfd22e3277f6cdfc4a3512a35a1c827754d",
+        "role": "doctor",
+        "full_name": "Aneika Griffiths",
+        "email": "aneikagriffiths@gmail.com",
+        "notify_on_updates": true
+    },
+    "CHRISSYP33": {
+        "password_hash": "scrypt:32768:8:1$S3Kb100TP6n0wwNB$f21097992c70180d1d986a8ee1ad5f4728e65b883a9a977218dc93ea559e9edca566232db060456b4fc96d2d28d92d1bacee9c83bfcadb9373d13a8797f986db",
+        "role": "doctor",
+        "full_name": "Dr. Crystal Murray",
+        "email": "chrissyp33@live.com",
+        "notify_on_updates": true
+    },
+    "RASMITH98": {
+        "password_hash": "scrypt:32768:8:1$jGL0ztrt3RHpYpyS$b5521173aa58e96cd1b54df1571bb70d643c38327e63594413f5bf44d8daab93ff81afd782c0666e145b682c55b1dff7b32cf1d1090a99b70b3e6e2154af6a79",
+        "role": "doctor",
+        "full_name": "Rashawn Smith",
+        "email": "rasmith502@gmail.com",
+        "notify_on_updates": true
+    },
+    "MNOELKING": {
+        "password_hash": "scrypt:32768:8:1$XCkQA4OAtiSko77B$5165ce1ceeddcc6264388013579862726f92adfc261cb522e2c8cf66173f674b74e2dd41810bd8ded5aecff3d9ad52ab3986e1f1d11ee95dc46c02c3ba63ea62",
+        "role": "doctor",
+        "full_name": "Dr. Marlon King",
+        "email": "",
+        "notify_on_updates": true
+    },
+    "TIPHLEWIS": {
+        "password_hash": "scrypt:32768:8:1$QVl5aMGm81agPWgF$79f5d8e6e38a76b72c8d35aa1ce2a10cdfbc74aea2614c8f1b98f4079e1df11a20396b95354ecd86cc63f13bfc63c2dce2c7a6144db8d69fd291ae18ea83fe8a",
+        "role": "staff",
+        "full_name": "Tiphaney Lewis",
+        "email": "tiphaney.lewis32@gmail.com",
+        "notify_on_updates": true
+    },
+    "SWILLIAMS": {
+        "password_hash": "scrypt:32768:8:1$l1EZpeZke134MJ3I$953500c945a1b098930f9e35111292f137e5076bcdc00bc0b253c64b61ac8074b0b1a9b777bfb0dc74edb256735938b9b6c079ccc5e90c0fa8b0803cb046e9fa",
+        "role": "staff",
+        "full_name": "Sabrina Williams",
+        "email": "shaniquewilliams482@gmail.com",
+        "notify_on_updates": true
+    },
+    "DHARVEY": {
+        "password_hash": "scrypt:32768:8:1$zqwV67DBwbjiOHuk$be65046ce3138b768c618d75fbe945afbbbcb8ba182052e89f2d18bbc55245e91ff24bde78b5845508069708cdc2db3e3a4b08a49774cb89767a3c249ee6d393",
+        "role": "doctor",
+        "full_name": "Dr. Derek Harvey",
+        "email": "stmcaudiovisual@gmail.com",
+        "notify_on_updates": true
+    },
+    "OLUFOLAKUNMI": {
+        "password_hash": "scrypt:32768:8:1$cynJDUtMegMLxQIi$d123921e775a789e6d252fb4b698e860075056805bdc588115f518e7f792d85b2b0b72ba8d29fcb345e3afeac5dfe4344fd8511fb5be3c2bac1ba09cc24e2d78",
+        "role": "doctor",
+        "full_name": "Olufolakunmi Kehinde",
+        "email": "darionkehinde@gmail.com",
+        "notify_on_updates": true
+    },
+    "AABROWN": {
+        "password_hash": "scrypt:32768:8:1$mzrzYprl7T1D084U$ec50b8cb4b415dafb49c199771d8357dda85ca6c338c0f7a09f2cd09b2cd54e1ca9238ce862937ea8d27f6e1dd6c035cea569e9cc71f8e5a438509b4acd42d42",
+        "role": "doctor",
+        "full_name": "Dr Anaijah Brown",
+        "email": "banaijah6122@gmail.com",
+        "notify_on_updates": true
+    },
+    "JOEIJEAN": {
+        "password_hash": "scrypt:32768:8:1$l9xArl0BzvBlc7Ny$cc382c834fcf547045c2f7524d23cb68219acf21a5bd6e592543d64a34820c1c2cb5e16a234a0987721de72f7ed3542fc8d38cf67dc3f900a6cc6f97410a30a8",
+        "role": "doctor",
+        "full_name": "Dr Joei-Ann Jeannite",
+        "email": "joeicamjean@gmail.com",
+        "notify_on_updates": true
+    },
+    "AYSHABROWN": {
+        "password_hash": "scrypt:32768:8:1$T7TnPfQmNXGFauIf$63171c147868d9c2687a56c330defc18ce1b798a56d8f58b3a76c1a83bcc705206c7cd1075b59c064c7aa38baade07042789a1a7dcb3899ffa8365aead360928",
+        "role": "doctor",
+        "full_name": "Dr Aysha-Simone Brown",
+        "email": "ayshasimonebrown@gmail.com",
+        "notify_on_updates": true
+    },
+    "VBROWN": {
+        "password_hash": "scrypt:32768:8:1$QUsQIXYKlCkp5wUY$449a71b7c89060bce38c75e6c6b385275b25f1b080806e6689ce9a3f7aae124bcc9dab8086b32b21b4bb4637d115889d9c45ea0bc9171c3a0069713461486178",
+        "role": "doctor",
+        "full_name": "Dr Velrita Brown",
+        "email": "velritabrown@yahoo.com",
+        "notify_on_updates": true
+    },
+    "RNJNPIERRE": {
+        "password_hash": "scrypt:32768:8:1$4P7MkR5SrEG257EA$3ed1496ebf8ca7f9c2b2bd4f6377b7f697470fb78864cbdbf38d87c0625cbec5c592a3757c1fa75d77eca5d5b3ce44b752d91f00812628fd3b0d6d65be27a244",
+        "role": "doctor",
+        "full_name": "Dr Nisa Rei Jn Pierre",
+        "email": "rnjnpierre@gmail.com",
+        "notify_on_updates": true
+    },
+    "KENO404": {
+        "password_hash": "scrypt:32768:8:1$ckFq80J94qNp8ytt$b96e61c13f8ac35392f887c33350ece6db1dfde892eb0e1eecfa8441b16bc71e1bfa727aabf9f7a69dbf0d136dd00b3a469c52394a7ff07a43c2cf5c595517a7",
+        "role": "doctor",
+        "full_name": "Dr Alkeno Brown",
+        "email": "raymianb@gmail.com",
+        "notify_on_updates": true
+    },
+    "JODIB": {
+        "password_hash": "scrypt:32768:8:1$tPxNVVGnPyksc8jS$c448111ff58f4b7f428c2cabedf7bf966a6d8a0675af28ce6565c5d9de9bd02010e0e9e4fcceb6b90388d22ac9c35d18c6a677f4e0328ffa686b344dcb26679a",
+        "role": "doctor",
+        "full_name": "Dr Jodi Barton",
+        "email": "jodibarton07@gmail.com",
+        "notify_on_updates": true
+    },
+    "JREID": {
+        "password_hash": "scrypt:32768:8:1$HQqkox8bv73EDxhz$11cb4208a3dde64ffed8c729c6b837414e9b6a047e3c3eef18a764661879308a74c85794ca87bfe3974fcc05e293b357a1c3436c8664ee128c23a701cde385e6",
+        "role": "doctor",
+        "full_name": "Jusanne Reid",
+        "email": "jusannereid@hotmail.com",
+        "notify_on_updates": true
+    },
+    "LEE": {
+        "password_hash": "scrypt:32768:8:1$Bq1S9YNPYSgdjZY9$7f016472d45662deb1e181e92dba49bbe88a5b0544354ee914c14af7a5dcf2eef2522b540da4172699b053238270663d1b029be0b2fdde976955eb47a7083874",
+        "role": "doctor",
+        "full_name": "Dr Bianca Lee",
+        "email": "nokima_2@yahoo.com",
+        "notify_on_updates": true
+    },
+    "AISHAYINDE": {
+        "password_hash": "scrypt:32768:8:1$eEEF9ttrTj5O4eXg$880800c4c0a3f567cfa84e7e0d8e0a574c6a2bdd3fbad70643c847d1379e0ea55d029b02905f11f8ccdd0184abcb1cb8a679fbc7209928441656b7f224007332",
+        "role": "doctor",
+        "full_name": "Dr Aisha Ayinde",
+        "email": "ashayinde@gmail.com",
+        "notify_on_updates": true
+    },
+    "ANYACHUCK": {
+        "password_hash": "scrypt:32768:8:1$QYkdoSq9kR1MxdMq$ae0d4ba3e439db5f97927236ec7af84f2d3e55933b5e839732364a034eb13e5a620fb89442c0fb332d92cfe11f504e64ebe53770bed65883448b97aa92ee99cd",
+        "role": "doctor",
+        "full_name": "Dr. Anya Chuck",
+        "email": "anyachuck@gmail.com",
+        "notify_on_updates": true
+    },
+    "OMAR.MUNROE": {
+        "password_hash": "scrypt:32768:8:1$QHeFXJEYw2QtSfKq$35b99419ad27b1b7e3002b49834f251c30bda47c8b1f2915e99f94037ef1382c9c65e91799a919e85788e0f919d7bfd702ec3537930c1ab2f8c18f527f6a9169",
+        "role": "doctor",
+        "full_name": "Dr. Omar Munroe",
+        "email": "omarmunroe@gmail.com",
+        "notify_on_updates": true
+    },
+    "MARCUS": {
+        "password_hash": "scrypt:32768:8:1$HTrbVs6ccaH9Zvnq$47094f5700f21816a647e385b367be59c183ba1ce15b42fa898da5fcad78900a984768d2d9533dd57712c15e1de22e89285001e162ce3e2487d506ccd66fc400",
+        "role": "doctor",
+        "full_name": "Dr Mark Suckoo",
+        "email": "msuckoo@yahoo.com",
+        "notify_on_updates": true
+    },
+    "DR TINESHA BESS": {
+        "password_hash": "scrypt:32768:8:1$lnQ3HTL3Vb5oPnVI$f8bbb73f2cc788136cc94f90916d44310ee14527d09c5e81b5463165f73601934bf5703410b9ca8815542519e063f99755b3ecee0ce494c1778c6c112e9fc00a",
+        "role": "doctor",
+        "full_name": "Dr Tinesha Bess",
+        "email": "tineshabess@gmail.com",
+        "notify_on_updates": true
+    },
+    "CHANTAEB": {
+        "password_hash": "scrypt:32768:8:1$Vp2eYSq5TFygMrx0$02bad83e838adee13a903ac5f6ef9575bfae9725c39c0849f22ac032ab59400b0fa297cf1c9df85cc79d2aca586b75a9c8e5da39f91c73c4117799992da0f1ab",
+        "role": "doctor",
+        "full_name": "Dr Chantae Bardowell",
+        "email": "chantaeb16@gmail.com",
+        "notify_on_updates": true
+    },
+    "RCLARKE": {
+        "password_hash": "scrypt:32768:8:1$j1vhayuKKKvQJ7K2$0dbc1d13e8ca9fb48c4f7c0cecc44ac24d6b36a21ffa9b55e8bdac801b349823c6d8a50a0d018befc8d10fc4437ebb47b6fd8f6c34de3c14cf2b8d37f8467a47",
+        "role": "doctor",
+        "full_name": "Rushane Clarke",
+        "email": "rushaneclarke15@gmail.com",
+        "notify_on_updates": true
+    },
+    "L.A.LAWRENCE": {
+        "password_hash": "scrypt:32768:8:1$L0QbRwNptdXksTCg$e74320a5e21cf3e355bb627663ab6fa2ef2ddd094c0ca33a3338919384748ad69af0e463ec3c66eec43b9e584adfd069a1453eb60c4bc31349fea5b6b694c9e9",
+        "role": "staff",
+        "full_name": "Lacy-Ann Lawrence",
+        "email": "",
+        "notify_on_updates": true
+    },
+    "AAKASH": {
+        "password_hash": "scrypt:32768:8:1$Lg0JJz6wc2w2pgT7$ccc9c4db1c5846ec9f4accc1475832f83a8aac3fa0f62c7b803d3141093888aed729fa44d86a80afa8ff207f81493ba997d2dcb2eb7427cd4d2582be24842aea",
+        "role": "doctor",
+        "full_name": "Dr. Aakash Vejendla",
+        "email": "aakashvejendla@gmail.com",
+        "notify_on_updates": true
+    },
+    "AS4434397": {
+        "password_hash": "scrypt:32768:8:1$Fk4cCFAGIfi5pnlx$915ca1fdadf90bc8ce33f6456bea204b35b38647a98693aafe07cf8dd85b1731cd5b1bb01990ba93cce0994d484161e3405937a7107acfff09d8eaa599c945cd",
+        "role": "staff",
+        "full_name": "Angrean Anglin-Smith",
+        "email": "angre123hannah@gmail.com",
+        "notify_on_updates": true
+    },
+    "CTHOMAS": {
+        "password_hash": "scrypt:32768:8:1$gCoS1SoaXPar0Kdy$603c59c113003921ab87d93b7c4b99fdfd4ed1fc5adaa3fef127003edc4acb86e3c0163de93652bad78fa4e2335a6222cd112340ef7f5d8152594c619cfe4473",
+        "role": "doctor",
+        "full_name": "Dr Candice Thomas",
+        "email": "c-y-thomas@hotmail.com",
+        "notify_on_updates": true
+    },
+    "DREID": {
+        "password_hash": "scrypt:32768:8:1$dqOL4PoJ7dZYkc8C$fb3549b50f2028b91271dbc97e2cdbc091e72475599700b84894b8e33a93093740cf024d4a80b034927240c7994a8a8ebe4d657620a431910ee8d7d92bc45178",
+        "role": "doctor",
+        "full_name": "Dr Davia Reid",
+        "email": "davia_damr@hotmail.com",
+        "notify_on_updates": true
+    },
+    "BUIKE": {
+        "password_hash": "scrypt:32768:8:1$Nqief6YihMzz9oCW$02c8ade01e6f762a2e6d3bcc319acc79198b360b28dffc93e2672a865ae3da13a20260e484b9ad602221923456d8def1f42fc2f734a94a95ab31972ae9a88fc2",
+        "role": "doctor",
+        "full_name": "Nnabuike Nwegbu",
+        "email": "nwegbunnabuike@gmail.com",
+        "notify_on_updates": true
+    },
+    "DANIELLEDAWKINS": {
+        "password_hash": "scrypt:32768:8:1$k9IhcWgw0AIanytv$d2c282e59b963075893180093c51b4d9c7741e0b42c4e43aeaf95d356fd005e0c68052ea73593b426d99e3df491a8c8abbf065c19242a153fd39111fc6e6d1bd",
+        "role": "doctor",
+        "full_name": "Dr. Danielle Dawkins",
+        "email": "danielledawkins7@gmail.com",
+        "notify_on_updates": true
+    },
+    "DAHUNTER": {
+        "password_hash": "scrypt:32768:8:1$8kS0pSGxwLM25wnA$85d9f6f39c6525743792155d742c5d9a7be320f15e44fa09403ff3512cd475f6283e1d42fb6e66e77c33f1b1fcc410cd9d9a34bdcdffd5bfe0c4873c07dbaece",
+        "role": "doctor",
+        "full_name": "Dr David Hunter",
+        "email": "davhunter22@gmail.com",
+        "notify_on_updates": true
+    },
+    "AKERR": {
+        "password_hash": "scrypt:32768:8:1$XNNDRYBFxyuI5DmA$76c886d1bbc7426f0e55ea466efdb315757b135e6d3ded0d12fc0178e38225b782f0eb368f353ec0b8de02167b802cb8d2b8a8247da2af9f109c090fd909cc3e",
+        "role": "staff",
+        "full_name": "Andre Kerr",
+        "email": "andrekerrofficial@gmail.com",
+        "notify_on_updates": true
+    },
+    "FOSTA": {
+        "password_hash": "scrypt:32768:8:1$2VLX5cC3uiS9QUmz$f57d4d457c6db972e6686424a75d016b4910726497a6617fe72d197474ec0ddc4ddb506f15ece95ac779a82d4980fe9f580fd1ac694254fa1a7c9678c64b5e41",
+        "role": "staff",
+        "full_name": "Andrea Foster",
+        "email": "adfosta77@gmail.com",
+        "notify_on_updates": true
+    },
+    "NICOLE1985": {
+        "password_hash": "scrypt:32768:8:1$4rkjdbASeKd9XpvT$02fca20da49e7926e3ea4eb8e469ec159ef3475ad8b9d391cfc1f287c4b069aa81617a2f110a198c9b0a979dfcf7710cd3153cb866dac2d3dd8c18a5b7bc9ec6",
+        "role": "staff",
+        "full_name": "Charmaine Barrett-Samuels",
+        "email": "charmainebarrett29@gmail.com",
+        "notify_on_updates": true
+    },
+    "MURRO": {
+        "password_hash": "scrypt:32768:8:1$rmacLTCHZfhMPHac$7ea89ff0aa37796c20b3b36b497f9aed07c891ea0513d5e42958d648ad694962920b68c56ae71ecc388fd9185e374dade3a78b56328de7d674cd9169f7102232",
+        "role": "staff",
+        "full_name": "Olive Murray",
+        "email": "olivemurray736@gmail.com",
+        "notify_on_updates": true
+    },
+    "GANDERSON": {
+        "password_hash": "scrypt:32768:8:1$3viiURB2jGOCpqYL$65ef16b0bb5b8b98fe37ed1e6e5d2f71bc17b17854b222ac391b27d44d6c786d8b0c36b45fa56a1c7e571ec753039dd1bcdf04c2590898b7662623a4792fb758",
+        "role": "doctor",
+        "full_name": "Dr. Georgia Anderson",
+        "email": "gyelims@gmail.com",
+        "notify_on_updates": true
+    },
+    "MWALWYN": {
+        "password_hash": "scrypt:32768:8:1$QSZ7ITaSFf44nMnF$4c213530408655429c47bb216edbf352000d466fd2cbe73a839321b2ba6d8047ddb1d116b5ca9d2e57b999a05bafda940e3e2b16d316dc6866eaac84e8fb4982",
+        "role": "doctor",
+        "full_name": "Dr Maria Walwyn",
+        "email": "mariawalwyn@gmail.com",
+        "notify_on_updates": true
+    },
+    "EDANIEL": {
+        "password_hash": "scrypt:32768:8:1$nXpCx4NBeYQYfQ1D$7e9ba12242d9062238fee5125629c891bc629902aef222f1501032dd182a24e2b48e06b3f7497cdf2dc6c7fdaf61bda8c8f1439dfd8f17037a97b41a76865d53",
+        "role": "doctor",
+        "full_name": "Dr Ehiaghe Edeawe-Daniel",
+        "email": "ehiaghe.edeawedaniel@gmail.com",
+        "notify_on_updates": true
+    },
+    "DMCGOWAN": {
+        "password_hash": "scrypt:32768:8:1$ufSTm2jfCRHVxu0k$c298ef558f7c85d60110954aa2e146445403fe3c128de1ff2b0a19bf4753b53d9297d00a6c1bcab5ec194ceae7ca54d2ffc281638a847a46afb39704650aced6",
+        "role": "doctor",
+        "full_name": "David Mc Gowan",
+        "email": "mcgowanmd1@gmail.com",
+        "notify_on_updates": true
+    },
+    "YSHAW2025": {
+        "password_hash": "scrypt:32768:8:1$rWEQGJN5JAwswPE5$125deaa47676c7ffd36525b4625042612f361559cbec9a91dc9edaf83887c1986674766cf62335684c3620b1ad50bcdc1f4b90b31fe6a556404a135861770d62",
+        "role": "doctor",
+        "full_name": "Dr Yovaan Shaw",
+        "email": "yovaan.shaw@gmail.com",
+        "notify_on_updates": true
+    },
+    "COREY": {
+        "password_hash": "scrypt:32768:8:1$T8jBvMXSfhTiRfY7$78cba7bccaa5dd2789af5bba2a6a668b9656f32d16707c41836b492f03508f4274b6f1c0b3c68fed28892e97ee1e5be569664980cbe47e91b34fd6e9859bf63f",
+        "role": "staff",
+        "full_name": "Corey Morris",
+        "email": "cmorris0220@yahoo.com",
+        "notify_on_updates": true
+    },
+    "DORON": {
+        "password_hash": "scrypt:32768:8:1$P2yVKlVD6QK4ugqz$12bcb86dce01566d443d8bfc1eebfe74f80b40b60e52e50a64ba6af5281f355bcf6e8901e3b14f0340a56235b6c60d1897a9406bab05cf81e8debb649fc91690",
+        "role": "doctor",
+        "full_name": "Dr. Doron Beckford",
+        "email": "Doronbeckford@yahoo.com",
+        "notify_on_updates": true
+    },
+    "DOMSUCKOO": {
+        "password_hash": "scrypt:32768:8:1$4fcqwA488qyv5qt5$8b905f76e64fbc14d5249dee3ab6f4bb2329dccfd86cdf5582b8ab237739ccb10ffcdb677f78f6da166bde58a499524c5065fb5a3d7ba9e3306a1f0ec7b6c278",
+        "role": "doctor",
+        "full_name": "Dr. Dominique Suckoo",
+        "email": "nicosuckoo@gmail.com",
+        "notify_on_updates": true
+    },
+    "SLYNCH": {
+        "password_hash": "scrypt:32768:8:1$Iv8Ft5hdqD52Pau3$cd8640226797efc8f94447e7c31fa78d091126278bfa53e52edc4c55ce150013da9a4c3037fbd3677434e08cf1d8bd0b81cb849a1461f6eee60128e4af458b2c",
+        "role": "staff",
+        "full_name": "Subriena Lynch",
+        "email": "subrienalynch1994@gmail.com",
+        "notify_on_updates": true
+    },
+    "NALDIE": {
+        "password_hash": "scrypt:32768:8:1$TMnpE86tooUmb5l1$d46a6957c5572f4c6ae656950f1aa7e024e1c1824f11f89a42f04f04d9323205dc793b37ba412291ce302ca0666a5681c037401b249fb42a80cf22b01f78a0de",
+        "role": "staff",
+        "full_name": "Lenna Cornaldie",
+        "email": "lennamcornaldie@gmail.com",
+        "notify_on_updates": true
+    },
+    "LMOODIE": {
+        "password_hash": "scrypt:32768:8:1$5rX4QbtUEQemqQHc$f2c37261ecffddb150ca5e59a523d956cf113c14a63964536511743b008edb9333b250de35119dae3ead930195d907cdfab2bb0405c01c4c907d4c1a60c213f7",
+        "role": "doctor",
+        "full_name": "Dr. Lorenzo Moodie",
+        "email": "lmoodie16@gmail.com",
+        "notify_on_updates": true
+    },
+    "RICHONE123": {
+        "password_hash": "scrypt:32768:8:1$BmpmIJF35ME7D6RK$fd4473cee6297352693101aae726fc5969d010cde947ac06a7d65bfb1462a6cb37be1a7289c1049809ed288b87f433a885c3549871c5e57ca7b134ef16636d1f",
+        "role": "doctor",
+        "full_name": "Dr.Richard Phillips",
+        "email": "phillipsrichard129@gmail.com",
+        "notify_on_updates": true
+    },
+    "MSTEW": {
+        "password_hash": "scrypt:32768:8:1$PuSirKqoMEP1PA22$d6663f22115898b645678bc667af96264bab76d79ab32ed1d8a9f9e7e0e21d370dc89132a5d3aa882469ad55be23d686eb006d4fc5f7f91507bc51fd9a2ddb5a",
+        "role": "admin",
+        "full_name": "Monique Stewart",
+        "email": "monique.stewart@wrha.gov.jm",
+        "notify_on_updates": true
+    },
+    "SHUR": {
+        "password_hash": "scrypt:32768:8:1$DjxA0nSNiJACqoJG$604eba1b15b7268469df4e9dee4986706366214f584a9e94b097e5563f863a36223aad2049c331930fd71b7beed2f488366ba7888f8ce1d02774141bcbbdec08",
+        "role": "radiology_staff",
+        "full_name": "Dr Aleksandar Georgiev",
+        "email": "al.georgiev@gmail.com",
+        "notify_on_updates": true
+    },
+    "MICAH": {
+        "password_hash": "scrypt:32768:8:1$dfQ2cyLWvJ7Yd26L$efb9f680e03de465c81a9be324b57456830ba797613cf63d58de2fd142f4f883aac316a45cf7ed28f55ed8e78aa6ed1853d718b35175643521623d2d451cf039",
+        "role": "staff",
+        "full_name": "Allison Johnson",
+        "email": "olive8483@gmail.com",
+        "notify_on_updates": true
+    },
+    "GILLIAN123": {
+        "password_hash": "scrypt:32768:8:1$JY9khYHKXnyXvKQT$05276f5365db308998c920a7db4c1f0faffba580eed55a5237154813d8db7d3593420c8551a6ddbc9cba505d850fd2db3d017a70d3f5d47f3e54c607d59f3b74",
+        "role": "staff",
+        "full_name": "Gillian Mushington",
+        "email": "gillmushie@yahoo.com",
+        "notify_on_updates": true
+    },
+    "RAD": {
+        "password_hash": "scrypt:32768:8:1$msEIaUZUm2EZtso6$44d5c9b38c3d14787c6235c92ae984910b15c1ad1cd700d04564aa257c0ea1d1a6a3e20566aaef3c4ff2f5c138111cdc540a195b7976633797db19a87d24f381",
+        "role": "radiology_staff",
+        "full_name": "Rad",
+        "email": "rad@rad.com",
+        "notify_on_updates": true
+    },
+    "IKEMIKE": {
+        "password_hash": "scrypt:32768:8:1$rcZj2FjRYGsJUZ1d$d95ff639c9fbe85f7a577cccc8066224b0bec18f5c18c9cf0ae5d3c2819e493a10faa46ce9173daafdbf7a01dc70aea32354611b4a2555fb60ef504f92fb9ba8",
+        "role": "doctor",
+        "full_name": "Dr Tukpaere Ikemike",
+        "email": "tukpaere@gmail.com",
+        "notify_on_updates": true
+    },
+    "CURTIS YEATES": {
+        "password_hash": "scrypt:32768:8:1$AwWuTpqST6m6wYke$48cc1d6f366e7bc01c729462bc71eaeb0fcc77cfb7d7e5592feb6d06e9b6d9bbc3f01f532809726d6bec605819383076bd44609fe35fa7e9f68b36b332218793",
+        "role": "doctor",
+        "full_name": "Dr Curtis Yeates",
+        "email": "CURTISYEATES@GMAIL.COM",
+        "notify_on_updates": true
+    },
+    "AMITCHELLDALEY": {
+        "password_hash": "scrypt:32768:8:1$Kk9KgxUEyoc6VjzU$fcac00e8e63914a05603472b9890dc618eeaafd1f0364256e003ffc7ea6d7f011ea1a5e125d5cb1d83b5837d923602a56f9ddef63d43f2b7263002b09fcb87ef",
+        "role": "doctor",
+        "full_name": "Dr Anika Mitchell-Daley",
+        "email": "entdaley@gmail.com",
+        "notify_on_updates": true
+    },
+    "BDAVIS": {
+        "password_hash": "scrypt:32768:8:1$HpixmmXtNnuQusz9$efccc9859611a271cbf8c38433567a7425416690932fde4b45c1e9c0dc0c7a1871d67e81915404c4209eb385f684f399557deda9a8ff9f079ba248890bf66c81",
+        "role": "staff",
+        "full_name": "Britanya Kimoya Davis",
+        "email": "BRITANYA371@GMAIL.COM",
+        "notify_on_updates": true
+    },
+    "DRELLIS": {
+        "password_hash": "scrypt:32768:8:1$Klog25UVzTzZ26ra$9c5499d18564e9b7b09ead5b031781a9eae50eebb71508416b07d427189f35626e6de2d83b74ecbed867c42ea4b897df3a4f7ab9119dd6d2fd96526a7ed965a3",
+        "role": "doctor",
+        "full_name": "Dr Oshea Ellis",
+        "email": "oshysheaa@gmail.com",
+        "notify_on_updates": true
+    },
+    "RASHAUN.STEWART": {
+        "password_hash": "scrypt:32768:8:1$FvD4gc8rowaGkwZO$bbf72f4ff8e49e1b63c410d3fe20b04d2749db22ebce0e1ef7ddf2c746cc68cbfe0c12095417db2e2c1adcca15a8d7dda83db737ba1dfdae0d2cf5dbe0f4bf89",
+        "role": "doctor",
+        "full_name": "Dr. Rashaun Stewart",
+        "email": "stewartrashaun2014@gmail.com",
+        "notify_on_updates": true
+    },
+    "SURABHIS": {
+        "password_hash": "scrypt:32768:8:1$Zr79CC3M6fLMLdcm$58431717a7b8ff41e39d3070235d33bc104384ac82e2c612daa9b819aa403cffa345fe9efa9b2645e0dfa2d1908a86ac54889ee28e8551d9e690dca3c7cdd741",
+        "role": "doctor",
+        "full_name": "Dr Surabhi Sadhwani",
+        "email": "surabhisadhwani28@gmail.com",
+        "notify_on_updates": true
+    },
+    "HJONES": {
+        "password_hash": "scrypt:32768:8:1$TZvkTeHio63fvhex$4c216b03129e8c5f856b9d7e39874e39f8607ae8ad008adae705b6818ba877253a8b5dd1c88ddcb41f28809ec34e3ddcec1f8d40b212be81e13b65c694fe2e68",
+        "role": "doctor",
+        "full_name": "Dr Hugh-Lloyd Jones",
+        "email": "hughlloydjones273@gmail.com",
+        "notify_on_updates": true
+    },
+    "PYR0K1NG": {
+        "password_hash": "scrypt:32768:8:1$owA2KJgmy1ZY9F2V$450f84a0d354eb80c174ee54f6a8153e257a032e149871521c36e211fe52cdfd7379758a3e5f2dac0d2a37c211a7bce3484de30a2cf067cd497780b6c44f9800",
+        "role": "doctor",
+        "full_name": "Tajmarone Brydson",
+        "email": "tajbry@hotmail.com",
+        "notify_on_updates": true
+    },
+    "PHAMILTON": {
+        "password_hash": "scrypt:32768:8:1$vFeatLTSfnUK0mlg$e1a7dcd2efc92dabe2058e30d48696b33935025787dd55d64def0cc54bf7a1d133fc8bdaa976a292d62152798ed350425001d8e9f5e308a17df7f1ac952818a6",
+        "role": "doctor",
+        "full_name": "Dr. Preci Hamilton",
+        "email": "preci.hamilton@wrha.gov.jm",
+        "notify_on_updates": true
+    },
+    "LBOOTHE": {
+        "password_hash": "scrypt:32768:8:1$lgz2pY2lQFsLfPkf$a4c033c19acd25d5df08f4341f58e55620f149c808a2549d2d473cd387992615370492f7a99d9dcf11f485ffb1c15d14dd6e199be33cf2dadc2e2951ac290972",
+        "role": "radiology_staff",
+        "full_name": "Leighton Boothe",
+        "email": "leightonboothe@hotmail.com",
+        "notify_on_updates": true
+    },
+    "SIR VON OF THE WIND": {
+        "password_hash": "scrypt:32768:8:1$9lhhxuHtcj6iYDka$325749e64da9fd851c166594f94e4e04d667d22f2305d0683f50eb24802b462e60faf5eff77be8e7d0d808395bc5f0e7ae46c329a0199efc28cffc8877572393",
+        "role": "doctor",
+        "full_name": "Dr Lewis Anschutz",
+        "email": "anschutz.quick@gmail.com",
+        "notify_on_updates": true
+    },
+    "SSMITH": {
+        "password_hash": "scrypt:32768:8:1$IRT3tFVoW7hMNJRg$50fa1c83dfa18fa03ea66fad40e331be156d09fea8f12721ecc5c81c0829b753f48a9c133bc0fa3ac9e6031b4a5d9328b3aac481a6c6b024fcb52b5228c1bfa8",
+        "role": "doctor",
+        "full_name": "Dr. Sanya Smith",
+        "email": "sanyasmith876@gmail.com",
+        "notify_on_updates": true
+    },
+    "MHENRY": {
+        "password_hash": "scrypt:32768:8:1$Qotk8Mrn7r3j2tu6$6c2209abdc65159b685de562f94abc2742f077cdaf558759e358decccb048919d6f62a3093d2a9476db8e753e29f44d2014851ba97b0e719843428d17591d086",
+        "role": "doctor",
+        "full_name": "Dr. Mark Henry",
+        "email": "mark.henry@wrha.gov.jm",
+        "notify_on_updates": true
+    },
+    "HHOGG": {
+        "password_hash": "scrypt:32768:8:1$yKWBF5D0HQ6Goolj$bce7fb188653b718637cc0595f9e1c04bf91b0554b1db96c32e30a07584d094663634d4373ca03e88520b395c52bad288e24abe2039bca62b297efe94707af88",
+        "role": "doctor",
+        "full_name": "Dr Husani Hogg",
+        "email": "sani.hogg@gmail.com",
+        "notify_on_updates": true
+    },
+    "SHEREE180": {
+        "password_hash": "scrypt:32768:8:1$fwbOZUj8GwTFxAZt$90ffd9fe91d588d835860edb4ebc667380d25bd9c500bde6fd142bd3e87aa49752bb8503f035be985ec75f3a3c30cb44c58a6e4c88b6aab3da2b3eb19c221fc7",
+        "role": "doctor",
+        "full_name": "Dr Sheree Samuels",
+        "email": "sheree.samuels@gmail.com",
+        "notify_on_updates": true
+    },
+    "JOHNO": {
+        "password_hash": "scrypt:32768:8:1$zTpCJJ1YBf1pp9lI$f64c83618cce84f4283f0f34dba5dbd6959d971cb2b4f77b277776b73d977636464de3c53c09b75150f5d4c62fd5313780e5d04e6195272a53a6cb8599a8691b",
+        "role": "staff",
+        "full_name": "Jordaine Johnson",
+        "email": "jordainejohnson1876@gmail.com",
+        "notify_on_updates": true
+    },
+    "DOC": {
+        "password_hash": "scrypt:32768:8:1$4BgFxxJxQqBXy3wI$0af5fc6aa841f1e3e49f728ec431bfb24f612fa7b1307c32fc4114eb6262cb49f155397ec8e6abbf1b7d3901935e6ec251a0cf11422ddec4d28e93ed00aa5315",
+        "role": "doctor",
+        "full_name": "doc",
+        "email": "doc@doc.com",
+        "notify_on_updates": true
+    },
+    "MCBENX": {
+        "password_hash": "scrypt:32768:8:1$ESt8WitE11IbCgY9$024a5277c0ded0812d93f44cf03bf9ccb470ca003ec5f0b4f70d1e740f9e66748e3215d904027100d6d41ae37e5a586c42513ad1a150ef3be63790ebdf4bd328",
+        "role": "doctor",
+        "full_name": "Dr Macpherson Uzukwu",
+        "email": "muzukwu@yahoo.com",
+        "notify_on_updates": true
+    },
+    "MANI": {
+        "password_hash": "scrypt:32768:8:1$dLejatopS7mtIQuR$3166200ada02a75c64cfc483603a75072b5b2ec208d30a7805e18c8f0013e436bd626839e80b627d4f4f99cb1ef2469cdeb5a78249b4badb78e22079bfe51942",
+        "role": "doctor",
+        "full_name": "Dr. Imani Russell",
+        "email": "russell2imani@yahoo.com",
+        "notify_on_updates": true
+    },
+    "JHAUGHTON": {
+        "password_hash": "scrypt:32768:8:1$J2edVJ4OZAIlAIPT$772fa88da6fea21de247ce272e8f8d99bc5244be261a0a9cf4deb3877dadcd1686c8f3978a0090065ecfcab48d1d3a6fe15adb74774fccf4a312039eccc81f4e",
+        "role": "staff",
+        "full_name": "Janelle Haughton",
+        "email": "janellehaughton28@yahoo.com",
+        "notify_on_updates": true
+    },
+    "AGARDENER": {
+        "password_hash": "scrypt:32768:8:1$VaYdG6UAN47OsU3j$374ce31734fe7b6be977e15fbdffc6f3c47820c5e50e21906f74b65f9b088c15cd6adad0a01d9c2bae4afd39dce2707c2a6898113dea60fd9089d3957965e574",
+        "role": "doctor",
+        "full_name": "Dr. Akil Gardener",
+        "email": "gardenerakil@gmail.com",
+        "notify_on_updates": true
+    },
+    "JTAYLOR": {
+        "password_hash": "scrypt:32768:8:1$1apzdrL1rHVOHYqF$d499228e4a983bbd28feef0a152f848a83d2e6abfc72a5b8cab5a53c38722e94324cbb784931c0151e500c9e941d2a29358998198f25df98cfa16b2b3d9dc50b",
+        "role": "doctor",
+        "full_name": "DR JAYDAH TAYLOR",
+        "email": "taylorjaydah10@gmail.com",
+        "notify_on_updates": true
+    },
+    "EMUVWIMI": {
+        "password_hash": "scrypt:32768:8:1$Zd1Sj1R8TV3OJ6Ex$9509014644e55ce21e7287fd94ad9eb734550f4d21410a3e957706d1558ca3888a952f4987f4de8ba43eb7b5f2c4cd6b51066caa413e4bb8e9f124f1b3fc5bcd",
+        "role": "doctor",
+        "full_name": "DR.Elijah Muvwimi",
+        "email": "ejay.hunter@gmail.com",
+        "notify_on_updates": true
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "PACS_IP": "10.48.25.35",
+    "PACS_PORT": 11121,
+    "PACS_AE_TITLE": "BOXOUTSIDE",
+    "LOCAL_AE_TITLE": "CT_TRACKER",
+    "PDF_FOLDERS": [
+        "C:\\Users\\Administrator\\Box\\Dr. Jones\\CT\\Signed",
+        "C:\\Users\\Administrator\\Box\\Dr. Aleks\\CT\\Signed",
+        "C:\\Users\\Administrator\\Box\\Dr. Palmer\\CT\\Signed",
+        "C:\\Users\\Administrator\\Box\\CT Signed"
+    ],
+    "JPG_WATCH_FOLDERS": [
+        "C:\\Users\\Administrator\\Box\\Dr. Jones\\CT\\DAILY WORKLIST\\TODAY",
+        "C:\\Users\\Administrator\\Box\\Dr. Palmer\\CT\\DAILY WORKLIST\\TODAY",
+        "C:\\Users\\Administrator\\Box\\Dr. Aleks\\CT\\DAILY WORKLIST\\TODAY"
+    ],
+    "WORKER_WATCH_FOLDER": "C:\\Users\\konicaminolta\\Box",
+    "PACS_POLL_INTERVAL": 61,
+    "WORKER_POLL_INTERVAL": 60,
+    "APPROVAL_POLL_INTERVAL": 59,
+    "EMAIL_ENABLED": true,
+    "EMAIL_INTERVAL_MINUTES": 40,
+    "RADIOLOGIST_EMAILS": [
+        "steweenator@gmail.com",
+        "al.georgiev@gmail.com",
+        "nasheva.palmer@wrha.gov.jm",
+        "rejaunjones@gmail.com"
+    ],
+    "EMAIL_SUBJECT": "New CT Studies Detected",
+    "SMTP_HOST": "mail.wrha.gov.jm",
+    "SMTP_PORT": 25,
+    "SMTP_USER": "crhradiologyreports",
+    "DOCX_TEMPLATE_PATH": "C:\\Users\\Administrator\\Box\\RADIOLOGY - ADMIN\\New folder\\RADTEMPLATE.docx",
+    "SMTP_PASSWORD": "Reports25*",
+    "SMTP_SENDER_EMAIL": "crhradiologyreports@wrha.gov.jm",
+    "EMAIL_TEMPLATES": {
+        "base_template": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset=\"utf-8\">\n<style>\n    body {{ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; }}\n    .main-container {{ width: 100%; max-width: 600px; margin: 0 auto; border-collapse: collapse; }}\n    .header {{ background-color: #003366; color: white; padding: 15px; font-size: 24px; text-align: center; }}\n    .header img {{ max-height: 40px; vertical-align: middle; margin-right: 15px; }}\n    .content-body {{ padding: 25px; background-color: #f8f9fa; border: 1px solid #dee2e6; border-top: none; border-bottom: none; }}\n    .content-body h3 {{ color: #003366; margin-top: 0; }}\n    .note {{ background-color: #e9ecef; padding: 15px; border-left: 4px solid #0056b3; margin: 15px 0; }}\n    .footer {{ background-color: #f1f1f1; color: #666; padding: 15px; font-size: 12px; text-align: center; }}\n    .activity-table {{ border-collapse: collapse; width: 100%; margin-top: 15px; }}\n    .activity-table th, .activity-table td {{ border: 1px solid #ddd; padding: 8px; text-align: left; }}\n    .activity-table th {{ background-color: #e9ecef; }}\n</style>\n</head>\n<body>\n<table class=\"main-container\">\n    <tr><td class=\"header\">{app_logo_html}CRH Radiology Tracker</td></tr>\n    <tr><td class=\"content-body\">{email_content}</td></tr>\n    <tr><td class=\"footer\">This is an automated notification from the CRH CT Tracker. Please do not reply to this email.</td></tr>\n</table>\n</body>\n</html>",
+        "new_subscriber": "\n<h3>Subscription Confirmed</h3>\n<p>Hello {user_full_name},</p>\n<p>This email confirms your subscription to updates for patient <strong>{patient_name}</strong> (ID: {patient_id}).</p>\n<p>The current status of this request is: <strong>{status}</strong>.</p>\n<p>You will be notified of any further changes to this request.</p>\n<hr>\n<h4>Recent Activity</h4>\n{activity_history_table}\n",
+        "status_update": "\n<h3>Status Update for {patient_name}</h3>\n<p>The status of the imaging request for patient <strong>{patient_name}</strong> has been updated to <strong>{status}</strong> by {user_full_name}.</p>\n",
+        "new_note": "\n<h3>New Note for {patient_name}</h3>\n<p>A new note has been added by {user_full_name} regarding the request for <strong>{patient_name}</strong>:</p>\n<p class=\"note\"><em>\"{note_text}\"</em></p>\n",
+        "request_completed": "\n<h3>Request Completed for {patient_name}</h3>\n<p>The imaging study for patient <strong>{patient_name}</strong> (Accession: {accession_number}) has been successfully received by PACS.</p>\n<p>The associated approval request has been automatically marked as 'Completed' in the tracker.</p>\n",
+        "report_ready": "\n<h3>Signed Report Ready for {patient_name}</h3>\n<p>The signed radiology report for patient <strong>{patient_name}</strong> (ID: {patient_id}) is now available.</p>\n<p>You can view the report by logging into the CT Tracker dashboard.</p>\n",
+        "report_uploaded_subscriber": "\n<h3>Report Uploaded for {patient_name}</h3>\n<p>A new report has been uploaded for patient <strong>{patient_name}</strong> (Accession: {accession_number}) by {user_full_name}.</p>\n<p>You can view the report by logging into the CT Tracker dashboard.</p>\n",
+        "report_archive": "\n<h3>{action} Report: {patient_name}</h3>\n<p>This is an automated notification for archival purposes.</p>\n<p>A report for patient <strong>{patient_name}</strong> (Accession: {accession_number}) was <strong>{action_past_tense}</strong> by user <strong>{user_full_name}</strong> at {timestamp}.</p>\n<p>The report file is attached to this email for your records.</p>\n"
+    },
+    "MWL_ENABLED": true,
+    "MWL_AE_TITLE": "FDSERVER",
+    "MWL_PORT": 11122,
+    "MWL_MPPS_ENABLED": true,
+    "DEFAULT_ACCESSION_PREFIX": "CRH",
+    "DEFAULT_SCHEDULED_STATION_AE": "ANY_MODALITY",
+    "DOCX_OUTPUT_FOLDERS": {
+        "General": "C:\\Users\\Administrator\\Desktop\\PatientRegistrationData\\Reports\\Default",
+        "CT": "C:\\Users\\Administrator\\Box\\PREFILL REPORT\\CT PREFILL REPORT",
+        "DX": "C:\\Users\\Administrator\\Box\\PREFILL REPORT\\DX PREFILL REPORT",
+        "US": "C:\\Users\\Administrator\\Box\\PREFILL REPORT\\US PREFILL REPORT",
+        "MG": "C:\\Users\\Administrator\\Box\\PREFILL REPORT\\MG PREFILL REPORT",
+        "MR": "C:\\Users\\Administrator\\Box\\PREFILL REPORT\\MR PREFILL REPORT"
+    },
+    "USER_ROLE_PERMISSIONS": {
+        "admin": [
+            "view_dashboard",
+            "view_approval_tracker",
+            "view_us_approval_tracker",
+            "view_mwl_server",
+            "view_admin_page",
+            "view_settings_page",
+            "upload_reports",
+            "delete_reports",
+            "manage_approvals",
+            "add_approval_notes",
+            "manage_all_subscriptions",
+            "manage_own_subscriptions",
+            "manage_users",
+            "manage_mwl_entries",
+            "test_smtp",
+            "preregister_patient",
+            "download_images",
+            "view_resources_page",
+            "manage_resources"
+        ],
+        "radiology_staff": [
+            "view_dashboard",
+            "view_approval_tracker",
+            "view_us_approval_tracker",
+            "view_mwl_server",
+            "upload_reports",
+            "manage_approvals",
+            "add_approval_notes",
+            "manage_own_subscriptions",
+            "manage_mwl_entries",
+            "preregister_patient",
+            "download_images",
+            "view_resources_page"
+        ],
+        "doctor": [
+            "view_dashboard",
+            "view_approval_tracker",
+            "view_us_approval_tracker",
+            "add_approval_notes",
+            "manage_own_subscriptions",
+            "view_resources_page"
+        ],
+        "staff": [
+            "view_dashboard",
+            "view_approval_tracker",
+            "view_resources_page"
+        ]
+    },
+    "ROOT_STORAGE_FOLDER": "D:/CT OUTSIDE",
+    "DB_PATH": "D:/CT OUTSIDE/.Database/PacsDBv2.db",
+    "REPORTING": {
+        "ENABLED": true,
+        "PATIENT_DB_PATH": "reporting_patients.json",
+        "CASE_DB_PATH": "reporting_cases.json",
+        "TEMPLATE_DIR": "report_templates",
+        "OUTPUT_DIR": "GeneratedReports",
+        "PDF_WATCH_FOLDER": "SignedReportsWatchFolder",
+        "DOCX2PDF_ENABLED": true,
+        "PDF_MERGE_ENABLED": true
+    },
+    "DICOM_ROOT": "D:\\CT OUTSIDE",
+    "ARCHIVING_EMAILS": [
+        "cornwall.hospital@wrha.gov.jm",
+        "crhradiologyreports@wrha.gov.jm",
+        "crhxray.secretary@wrha.gov.jm",
+        "radiologydpt.crh@gmail.com"
+    ],
+    "INSTITUTION_NAME": "CRH Radiology",
+    "US_WATCH_FOLDERS": [
+        "C:\\Users\\Administrator\\Box\\FOR VETTING\\ULTRASOUND VETTING\\INPATIENT"
+    ]
+}

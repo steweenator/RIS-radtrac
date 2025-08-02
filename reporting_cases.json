@@ -1,0 +1,19 @@
+{
+    "19AC23": {
+        "patient_id": "457395 DN",
+        "template": "Default_Template.docx",
+        "accession_number": "CRHDX23 98976T87",
+        "study_date": "2025-07-24",
+        "status": "draft",
+        "created_by": "Stuart Lawrence",
+        "created_at": "2025-07-24T06:04:55.458267",
+        "content": {
+            "patient_name": "",
+            "docket_number": "",
+            "accession_number": "",
+            "clinical_indication": "",
+            "findings": "",
+            "impression": ""
+        }
+    }
+}

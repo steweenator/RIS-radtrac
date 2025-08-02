@@ -1,0 +1,4862 @@
+{
+    "CRHCT25 321": {
+        "status": "timed_out",
+        "patient_id": "308195 VS",
+        "patient_name": "Stoddart Viviene",
+        "detection_time": "2025-07-06T21:01:56.255254",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.58931707502356452421997955824189944055",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 320": {
+        "status": "timed_out",
+        "patient_id": "708973 AW",
+        "patient_name": "Watson Anita",
+        "detection_time": "2025-07-06T21:01:56.280650",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.2592801091997606231184922644915176050",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 322": {
+        "status": "timed_out",
+        "patient_id": "411250 EB",
+        "patient_name": "Bicarie Esmie",
+        "detection_time": "2025-07-06T21:01:56.306998",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.38146043577553011804543364161587832390",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 319": {
+        "status": "timed_out",
+        "patient_id": "119166 YF",
+        "patient_name": "Farquharson Yvette",
+        "detection_time": "2025-07-06T21:01:56.332618",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.83770443133414181558726446839200659397",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 316": {
+        "status": "completed",
+        "patient_id": "350099 SM",
+        "patient_name": "Mcfarlane Simone",
+        "detection_time": "2025-07-06T21:01:56.357623",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.44075722779274384702353677211475845263",
+        "search_attempts": 1
+    },
+    "CRHCT25 315": {
+        "status": "timed_out",
+        "patient_id": "708471 ZH",
+        "patient_name": "Haughton Zaharie",
+        "detection_time": "2025-07-06T21:01:56.382757",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.29890876823174974348717483056868464663",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 317": {
+        "status": "timed_out",
+        "patient_id": "526829 GF",
+        "patient_name": "Foster Gregory",
+        "detection_time": "2025-07-06T21:01:56.407425",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.6973953390756708604066704556508585061",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 318": {
+        "status": "timed_out",
+        "patient_id": "709583 SH",
+        "patient_name": "Hastings Shana",
+        "detection_time": "2025-07-06T21:01:56.432948",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.55533766596291969416642674982398030668",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 323": {
+        "status": "timed_out",
+        "patient_id": "318269 RS",
+        "patient_name": "Stone Rupert",
+        "detection_time": "2025-07-06T21:01:56.457954",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.26409415932388996590550475967080660587",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 325": {
+        "status": "timed_out",
+        "patient_id": "686092 CM",
+        "patient_name": "Mcdonald Clifford",
+        "detection_time": "2025-07-06T21:01:56.481724",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.83165414385805233663216549651494772084",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 0324": {
+        "status": "timed_out",
+        "patient_id": "70074 RY",
+        "patient_name": "Young Rosalee",
+        "detection_time": "2025-07-06T21:01:56.506094",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.70529961116134326018223345286303386915",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 326": {
+        "status": "timed_out",
+        "patient_id": "NHH073582 SA",
+        "patient_name": "Archer Sadina",
+        "detection_time": "2025-07-06T21:01:56.530189",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.25486302678222051918851741819371419130",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 334": {
+        "status": "timed_out",
+        "patient_id": "567544 LL",
+        "patient_name": "Lawrence London",
+        "detection_time": "2025-07-06T21:01:56.555456",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.49992227544112074667214664198349953557",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 339": {
+        "status": "timed_out",
+        "patient_id": "253975 MS",
+        "patient_name": "Smith Marcia",
+        "detection_time": "2025-07-06T21:01:56.580413",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.65502373677428417812382525692905885845",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 341": {
+        "status": "timed_out",
+        "patient_id": "SPGH 319345 AM",
+        "patient_name": "Mcleod Armando",
+        "detection_time": "2025-07-06T21:01:56.605331",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.22986981121454751205932404508378226354",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 340": {
+        "status": "timed_out",
+        "patient_id": "NHH25 340 NC",
+        "patient_name": "Craib Nicola",
+        "detection_time": "2025-07-06T21:01:56.630103",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.53602628010654905433484663486102597789",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 335": {
+        "status": "timed_out",
+        "patient_id": "367496 DH",
+        "patient_name": "Hendrick Dudley",
+        "detection_time": "2025-07-06T21:01:56.655282",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.57317049264034413240616900539993306305",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 333": {
+        "status": "timed_out",
+        "patient_id": "063650 DD",
+        "patient_name": "Dillon David",
+        "detection_time": "2025-07-06T21:01:56.679902",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.44959015411344180004382747987965071897",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 338": {
+        "status": "timed_out",
+        "patient_id": "244824 LW",
+        "patient_name": "Wallace Lennox",
+        "detection_time": "2025-07-06T21:01:56.704546",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.80616597681521689350477711609263435282",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 337": {
+        "status": "timed_out",
+        "patient_id": "710761 DF",
+        "patient_name": "Francis Dwayne",
+        "detection_time": "2025-07-06T21:01:56.729393",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.48995704695582990869633348251178728086",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 342": {
+        "status": "timed_out",
+        "patient_id": "280504 LH",
+        "patient_name": "Hood Lazanya",
+        "detection_time": "2025-07-06T21:01:56.754261",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.6850570400458435472156147762546233647",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 343": {
+        "status": "timed_out",
+        "patient_id": "505177 DJ",
+        "patient_name": "Julius Dane",
+        "detection_time": "2025-07-06T21:01:56.779936",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.78591789000449995828049190207065265304",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 332": {
+        "status": "timed_out",
+        "patient_id": "710680 CE",
+        "patient_name": "Earle Carroll",
+        "detection_time": "2025-07-06T21:01:56.805406",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.42550615816233524073095656719853101742",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 328": {
+        "status": "timed_out",
+        "patient_id": "586835 LB",
+        "patient_name": "Brackett Lindel",
+        "detection_time": "2025-07-06T21:01:56.831561",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.55583716524423763232480996704928122005",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 329": {
+        "status": "timed_out",
+        "patient_id": "449025 RF",
+        "patient_name": "Ferguson Robert",
+        "detection_time": "2025-07-06T21:01:56.856595",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.97656181902229183723018491813680462193",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 331": {
+        "status": "timed_out",
+        "patient_id": "710704 RS",
+        "patient_name": "Salasor Roberto",
+        "detection_time": "2025-07-06T21:01:56.881723",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.683516169013334330424463548070776384",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 330": {
+        "status": "timed_out",
+        "patient_id": "138993 MW",
+        "patient_name": "Wint Michael",
+        "detection_time": "2025-07-06T21:01:56.906916",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.48698397793414588511368259707267185194",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 327": {
+        "status": "timed_out",
+        "patient_id": "109206 PR",
+        "patient_name": "Rose Pamela",
+        "detection_time": "2025-07-06T21:01:56.931566",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.72572034341714358918200797779921291286",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 346": {
+        "status": "timed_out",
+        "patient_id": "710783 LB",
+        "patient_name": "Bartley Leon",
+        "detection_time": "2025-07-06T21:01:56.957013",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.38091954595042628333312911850323743110",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 345": {
+        "status": "timed_out",
+        "patient_id": "710650 HT",
+        "patient_name": "Thomas Hermine",
+        "detection_time": "2025-07-06T21:01:56.981249",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.89124161412042699348392401518099717936",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 348": {
+        "status": "timed_out",
+        "patient_id": "547595 MB",
+        "patient_name": "Buchanan Martel",
+        "detection_time": "2025-07-06T21:01:57.005689",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.56282502552575620838304906359063701609",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 347": {
+        "status": "timed_out",
+        "patient_id": "704719 GW",
+        "patient_name": "Williams Gloria",
+        "detection_time": "2025-07-06T21:01:57.030038",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.89859025761279316571419665358471097187",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 351": {
+        "status": "timed_out",
+        "patient_id": "710187 OM",
+        "patient_name": "Mcdonald Orville",
+        "detection_time": "2025-07-06T21:01:57.054989",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.7309407584196426978669659326913650154",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 344": {
+        "status": "timed_out",
+        "patient_id": "168869 AM",
+        "patient_name": "Mckenzie Andrea",
+        "detection_time": "2025-07-06T21:01:57.079948",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.93095176603897814281832512879886710115",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 349": {
+        "status": "timed_out",
+        "patient_id": "296687 RM",
+        "patient_name": "Moffatt Randisha",
+        "detection_time": "2025-07-06T21:01:57.106272",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.1752003363596261198006722574765032549",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 352": {
+        "status": "timed_out",
+        "patient_id": "710192 WJ",
+        "patient_name": "James Welford",
+        "detection_time": "2025-07-06T21:01:57.131429",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.96602962364552864353393835926892735238",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 350": {
+        "status": "timed_out",
+        "patient_id": "342686 EH",
+        "patient_name": "Henry Errecia",
+        "detection_time": "2025-07-06T21:01:57.156131",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.3760641570648702023674026922371474021",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 354": {
+        "status": "timed_out",
+        "patient_id": "509306 CC",
+        "patient_name": "Clarke Christopher",
+        "detection_time": "2025-07-06T21:01:57.181525",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.39098142119039336316334678258136469135",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 353": {
+        "status": "timed_out",
+        "patient_id": "225044 MJ",
+        "patient_name": "Johnson Marlando",
+        "detection_time": "2025-07-06T21:01:57.206018",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.19679078247631979671415379703510136267",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 0355": {
+        "status": "timed_out",
+        "patient_id": "710725 UM",
+        "patient_name": "Male Unknown",
+        "detection_time": "2025-07-06T21:01:57.230744",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.29110445569913813893121253278874975216",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 357": {
+        "status": "timed_out",
+        "patient_id": "445740 CH",
+        "patient_name": "Hinds Calvin",
+        "detection_time": "2025-07-06T21:01:57.255695",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.66058932289908914402526982946904525191",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 356": {
+        "status": "timed_out",
+        "patient_id": "276438 JB",
+        "patient_name": "Black Janice",
+        "detection_time": "2025-07-06T21:01:57.280990",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.54465107620711648960030912493455457116",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 359": {
+        "status": "timed_out",
+        "patient_id": "NYR25 359 SF",
+        "patient_name": "Fagan Sylvia",
+        "detection_time": "2025-07-06T21:01:57.306786",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.52440358461980290625131952090605368047",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 358": {
+        "status": "timed_out",
+        "patient_id": "269079 AS",
+        "patient_name": "Smith Anthony",
+        "detection_time": "2025-07-06T21:01:57.331274",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.60682521702672964769342251609913042740",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 360": {
+        "status": "timed_out",
+        "patient_id": "144381 JM",
+        "patient_name": "Mitchell Jacqueline",
+        "detection_time": "2025-07-06T21:01:57.355793",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.56658890578177419970841516544539673440",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 0366": {
+        "status": "timed_out",
+        "patient_id": "238695 NB",
+        "patient_name": "Brown Noel",
+        "detection_time": "2025-07-06T21:01:57.380062",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.59850954583758674124553924982666730568",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 365": {
+        "status": "timed_out",
+        "patient_id": "236424 HM",
+        "patient_name": "Morris Heather",
+        "detection_time": "2025-07-06T21:01:57.404874",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.2562918324774814311174614162603259861",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 367": {
+        "status": "timed_out",
+        "patient_id": "FGPH 236339 MB",
+        "patient_name": "Black Maxine",
+        "detection_time": "2025-07-06T21:01:57.429937",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.53056543206381310899683025871392565905",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 362": {
+        "status": "timed_out",
+        "patient_id": "673052 ML",
+        "patient_name": "Leach Maurice",
+        "detection_time": "2025-07-06T21:01:57.455296",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.68092865215198219285760395743449958692",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 361": {
+        "status": "timed_out",
+        "patient_id": "710343 WG",
+        "patient_name": "Gordon Wansymore",
+        "detection_time": "2025-07-06T21:01:57.480632",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.12600163338209398177315208626078637767",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 0363": {
+        "status": "timed_out",
+        "patient_id": "709058 AM",
+        "patient_name": "Mcintyre Anthony",
+        "detection_time": "2025-07-06T21:01:57.505355",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.39738775148839226067993907005689556021",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 0364": {
+        "status": "timed_out",
+        "patient_id": "710387 CH",
+        "patient_name": "Heywood Cleve",
+        "detection_time": "2025-07-06T21:01:57.529950",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.66181370200767987029859277267068851229",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 380": {
+        "status": "timed_out",
+        "patient_id": "147370 GR",
+        "patient_name": "Reid Gloria",
+        "detection_time": "2025-07-06T21:01:57.554961",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.75691259333930174795372276712422150585",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 379": {
+        "status": "timed_out",
+        "patient_id": "705661 ST",
+        "patient_name": "Thompson Sangia",
+        "detection_time": "2025-07-06T21:01:57.579705",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.45353884782993611114727391397466398748",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25  377": {
+        "status": "timed_out",
+        "patient_id": "705661 ST",
+        "patient_name": "Thompson Sangia",
+        "detection_time": "2025-07-06T21:01:57.604319",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.47023282892197692617902715004144650876",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 378": {
+        "status": "timed_out",
+        "patient_id": "628765 SL",
+        "patient_name": "Lawson Barnes Shanna-Lee",
+        "detection_time": "2025-07-06T21:01:57.628490",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.23804655155243655423019894270175036780",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "DFGGFDFSFD": {
+        "status": "timed_out",
+        "patient_id": "PID-20250704-182657-0132",
+        "patient_name": "Werdrfedwfd",
+        "detection_time": "2025-07-06T21:01:57.652849",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.61441320628764239065049081072628726780",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 376": {
+        "status": "timed_out",
+        "patient_id": "244620 MG",
+        "patient_name": "Graham Micheal",
+        "detection_time": "2025-07-06T21:01:57.677592",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.67226990879808982711760288420497025658",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 375": {
+        "status": "timed_out",
+        "patient_id": "358002 GT",
+        "patient_name": "Taylor Grace",
+        "detection_time": "2025-07-06T21:01:57.701768",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.3044860880954041434751300703858466040",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 374": {
+        "status": "timed_out",
+        "patient_id": "679873 IR",
+        "patient_name": "Reid Ivet",
+        "detection_time": "2025-07-06T21:01:57.721824",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.64144253166293449894696440068496129617",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 373": {
+        "status": "timed_out",
+        "patient_id": "194583 LM",
+        "patient_name": "Martin Laurel",
+        "detection_time": "2025-07-06T21:01:57.747221",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.36204001721619132573260036403281667084",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 369": {
+        "status": "completed",
+        "patient_id": "255842 TS",
+        "patient_name": "Spence Timohyah",
+        "detection_time": "2025-07-06T21:01:57.766515",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.81071690738523191809463837851323119039",
+        "search_attempts": 1
+    },
+    "CRHCT25 370": {
+        "status": "completed",
+        "patient_id": "556182 CM",
+        "patient_name": "Mckenzie Clifton",
+        "detection_time": "2025-07-06T21:01:57.791911",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.20734231727821908063748182091682804066",
+        "search_attempts": 1
+    },
+    "CRHCT25  372": {
+        "status": "completed",
+        "patient_id": "686066 OO",
+        "patient_name": "Ope-Ojo Oluwatobi",
+        "detection_time": "2025-07-06T21:01:57.816240",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.14176142746109314948900226362084685103",
+        "search_attempts": 1
+    },
+    "CRHCT25 371": {
+        "status": "completed",
+        "patient_id": "352389 GF",
+        "patient_name": "Facey Gerald",
+        "detection_time": "2025-07-06T21:01:57.835682",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.59476214099466763338745942268147317760",
+        "search_attempts": 1
+    },
+    "CRHCT25 0368": {
+        "status": "timed_out",
+        "patient_id": "648325 NG",
+        "patient_name": "Grindley Nathaniel",
+        "detection_time": "2025-07-06T21:01:57.855856",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.56041499969166556267375592539138532390",
+        "search_attempts": 4,
+        "last_search_time": "2025-07-06T22:05:56.268969"
+    },
+    "CRHCT25 381": {
+        "status": "completed",
+        "patient_id": "190817 LM",
+        "patient_name": "Mckenzie Lionel",
+        "detection_time": "2025-07-06T21:01:57.876159",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.83724337465182618747925083099258678033",
+        "search_attempts": 1
+    },
+    "CRHCT25 385": {
+        "status": "completed",
+        "patient_id": "601159 SE",
+        "patient_name": "Edwards Shanique",
+        "detection_time": "2025-07-06T21:01:57.896457",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.23828399711654680919442101066959389786",
+        "search_attempts": 1
+    },
+    "CRHCT25 384": {
+        "status": "completed",
+        "patient_id": "261445 GL",
+        "patient_name": "Leslie Gary",
+        "detection_time": "2025-07-06T21:01:57.916923",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.1574652694609543138966729287362459246",
+        "search_attempts": 1
+    },
+    "CRHCT25 0383": {
+        "status": "completed",
+        "patient_id": "710879 KB",
+        "patient_name": "Brown Kathleen",
+        "detection_time": "2025-07-06T21:01:57.937068",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.55045850650421674195443180268527706311",
+        "search_attempts": 1
+    },
+    "CRHCT25 0382": {
+        "status": "completed",
+        "patient_id": "495920 GW",
+        "patient_name": "Williams Gerald",
+        "detection_time": "2025-07-06T21:01:57.957593",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.28558139518060771038025394641617736938",
+        "search_attempts": 1
+    },
+    "CRHCT25 386": {
+        "status": "completed",
+        "patient_id": "257839 KB",
+        "patient_name": "Brown Kyle",
+        "detection_time": "2025-07-06T21:01:57.982916",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.71660939458310401523003763647803480713",
+        "search_attempts": 1
+    },
+    "CRHCT25 387": {
+        "status": "completed",
+        "patient_id": "685299 VH",
+        "patient_name": "Henry Vancy",
+        "detection_time": "2025-07-06T21:01:58.007996",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.8080429018878535416160877709072239756",
+        "search_attempts": 1
+    },
+    "CRHCT25 388": {
+        "status": "completed",
+        "patient_id": "428520 DB",
+        "patient_name": "Buchanan Dane",
+        "detection_time": "2025-07-06T21:01:58.032776",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.18343025437480753165152708565495986008",
+        "search_attempts": 1
+    },
+    "CRHCT25 389": {
+        "status": "completed",
+        "patient_id": "418738 DP",
+        "patient_name": "Patterson Dwayne",
+        "detection_time": "2025-07-06T21:01:58.057876",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.85110468020222018917410250936855759302",
+        "search_attempts": 1
+    },
+    "CRHCT25 390": {
+        "status": "completed",
+        "patient_id": "330886 RB",
+        "patient_name": "Buchanan Robert",
+        "detection_time": "2025-07-06T21:01:58.082893",
+        "study_uid_for_docs": "1.2.826.0.1.3680043.8.498.62572009084113020897164205401959339258",
+        "search_attempts": 1
+    },
+    "CRHCT25 391": {
+        "status": "completed",
+        "detection_time": "2025-07-07T11:33:27.604027",
+        "dicom_context": {
+            "PatientID": "185716 CH",
+            "PatientName": "HOWARD CLIVE",
+            "AccessionNumber": "CRHCT25 391",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.66416924399633924510694078456360135924",
+            "StudyDate": "20250707",
+            "StudyTime": "112819.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 391"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 393": {
+        "status": "timed_out",
+        "detection_time": "2025-07-07T11:53:07.836902",
+        "dicom_context": {
+            "PatientID": "518082 DT",
+            "PatientName": "THOMPSON DWAYNE",
+            "AccessionNumber": "CRHCT25 393",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.24722625939424376324924688045467761373",
+            "StudyDate": "20250707",
+            "StudyTime": "114607.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 393"
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-07T15:47:48.987791"
+    },
+    "CRHCT25 392": {
+        "status": "timed_out",
+        "detection_time": "2025-07-07T11:53:43.037783",
+        "dicom_context": {
+            "PatientID": "301891 LB",
+            "PatientName": "BURNETT LEONIE",
+            "AccessionNumber": "CRHCT25 392",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.70233594574456807327229040245463720935",
+            "StudyDate": "20250707",
+            "StudyTime": "113243.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "EYE",
+            "StudyID": "CRHCT25 392"
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-07T15:49:02.157372"
+    },
+    "CRHCT25 394": {
+        "status": "timed_out",
+        "detection_time": "2025-07-07T14:09:56.949692",
+        "dicom_context": {
+            "PatientID": "292313 NLF",
+            "PatientName": "LAWRENCE-FORRESTER NICOLE",
+            "AccessionNumber": "CRHCT25 394",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.38924676915406303436284650955045575327",
+            "StudyDate": "20250707",
+            "StudyTime": "122206.000000",
+            "StudyDescription": "CAP",
+            "ReferringPhysicianName": "OOPD",
+            "StudyID": "CRHCT25 394"
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-07T18:06:20.258077"
+    },
+    "CRHCT25 0395": {
+        "status": "completed",
+        "detection_time": "2025-07-07T14:24:30.485094",
+        "dicom_context": {
+            "PatientID": "125610 CS",
+            "PatientName": "SAMUELS CLIVE",
+            "AccessionNumber": "CRHCT25 0395",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.10890937524589464675884630949241970261",
+            "StudyDate": "20250707",
+            "StudyTime": "133845.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "9E",
+            "StudyID": "CRHCT25 0395"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 396": {
+        "status": "completed",
+        "detection_time": "2025-07-07T14:41:24.304360",
+        "dicom_context": {
+            "PatientID": "702857 PG",
+            "PatientName": "GRAHAM PHILLIP",
+            "AccessionNumber": "CRHCT25 396",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.2895498977846195690509090768561310910",
+            "StudyDate": "20250707",
+            "StudyTime": "141228.000000",
+            "StudyDescription": "CHEST WITH CONTRAST",
+            "ReferringPhysicianName": "PSOPD",
+            "StudyID": "CRHCT25 396"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 397": {
+        "status": "completed",
+        "detection_time": "2025-07-07T14:55:23.699501",
+        "dicom_context": {
+            "PatientID": "699023 GW",
+            "PatientName": "WILSON GERTRUDE",
+            "AccessionNumber": "CRHCT25 397",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.21232228164681873398183858205023031773",
+            "StudyDate": "20250707",
+            "StudyTime": "144918.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "7W",
+            "StudyID": "CRHCT25 397"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 399": {
+        "status": "completed",
+        "detection_time": "2025-07-07T15:37:09.601740",
+        "dicom_context": {
+            "PatientID": "121949 PS",
+            "PatientName": "SHETTLESWORTH PAMELIA",
+            "AccessionNumber": "CRHCT25 399",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.27698325147396143589636784224600845064",
+            "StudyDate": "20250707",
+            "StudyTime": "150952.000000",
+            "StudyDescription": "ABDOPEL",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 399"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 400": {
+        "status": "completed",
+        "detection_time": "2025-07-07T16:04:04.368333",
+        "dicom_context": {
+            "PatientID": "480986 SS",
+            "PatientName": "SALMON SARAH",
+            "AccessionNumber": "CRHCT25 400",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.70101523388289862095930126980007768384",
+            "StudyDate": "20250707",
+            "StudyTime": "154512.000000",
+            "StudyDescription": "ABD PEL+",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 400"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 402": {
+        "status": "completed",
+        "detection_time": "2025-07-07T16:30:28.402249",
+        "dicom_context": {
+            "PatientID": "705061 ST",
+            "PatientName": "THOMPSON SANGIA",
+            "AccessionNumber": "CRHCT25 402",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.54406127982697848414518109435046412450",
+            "StudyDate": "20250707",
+            "StudyTime": "161920.000000",
+            "StudyDescription": "BRAIN C+",
+            "ReferringPhysicianName": "NEURO",
+            "StudyID": "CRHCT25 402"
+        },
+        "search_attempts": 4,
+        "last_search_time": "2025-07-07T17:03:01.155631"
+    },
+    "CRHCT25 401": {
+        "status": "completed",
+        "detection_time": "2025-07-07T16:58:39.602833",
+        "dicom_context": {
+            "PatientID": "343906 MH",
+            "PatientName": "HEWITT MONIQUE",
+            "AccessionNumber": "CRHCT25 401",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.11147117131965632227378123535150021896",
+            "StudyDate": "20250707",
+            "StudyTime": "164744.000000",
+            "StudyDescription": "BRAIN C+",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 401"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 403": {
+        "status": "completed",
+        "detection_time": "2025-07-07T16:59:50.237863",
+        "dicom_context": {
+            "PatientID": "674115 PW",
+            "PatientName": "WILLIE PATRIKA",
+            "AccessionNumber": "CRHCT25 403",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.7387074057006056665993440014864336499",
+            "StudyDate": "20250707",
+            "StudyTime": "164555.000000",
+            "StudyDescription": "BRAIN C-",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 403"
+        },
+        "search_attempts": 2,
+        "last_search_time": "2025-07-07T17:01:47.114024"
+    },
+    "CRHCT25 0389": {
+        "status": "timed_out",
+        "detection_time": "2025-07-07T17:14:34.720314",
+        "dicom_context": {
+            "PatientID": "TV CT398 TB",
+            "PatientName": "BERNARD TISA",
+            "AccessionNumber": "CRHCT25 0389",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.20347053755708600521777610428637936897",
+            "StudyDate": "20250707",
+            "StudyTime": "144111.000000",
+            "StudyDescription": "MAXILLA, MANDIBLE",
+            "ReferringPhysicianName": "DENTAL",
+            "StudyID": "CRHCT25 0389"
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-07T21:05:39.243118"
+    },
+    "CRHCT25 404": {
+        "status": "timed_out",
+        "detection_time": "2025-07-08T09:43:25.776722",
+        "dicom_context": {
+            "PatientID": "043454 LHP",
+            "PatientName": "HUDSON-PETGRAVE LISA",
+            "AccessionNumber": "CRHCT25 404",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.93428241197483310982965563911060590767",
+            "StudyDate": "20250708",
+            "StudyTime": "091139.000000",
+            "StudyDescription": "CAP",
+            "ReferringPhysicianName": "ONC",
+            "StudyID": "CRHCT25 404"
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-08T13:39:13.979767"
+    },
+    "CRHCT25 405": {
+        "status": "completed",
+        "detection_time": "2025-07-08T10:07:06.274435",
+        "dicom_context": {
+            "PatientID": "470368 AH",
+            "PatientName": "HAMILTON ANECHIA",
+            "AccessionNumber": "CRHCT25 405",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.40987875973845032638847654196115526924",
+            "StudyDate": "20250708",
+            "StudyTime": "095247.000000",
+            "StudyDescription": "CAP",
+            "ReferringPhysicianName": "ONCOLOGY",
+            "StudyID": "CRHCT25 405"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 407": {
+        "status": "completed",
+        "detection_time": "2025-07-08T10:26:44.149872",
+        "dicom_context": {
+            "PatientID": "710809 PM",
+            "PatientName": "MORRISON PHILLIP",
+            "AccessionNumber": "CRHCT25 407",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.44767766422855951090442615478888483973",
+            "StudyDate": "20250708",
+            "StudyTime": "102254.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 407"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 406": {
+        "status": "completed",
+        "detection_time": "2025-07-08T10:45:11.887691",
+        "dicom_context": {
+            "PatientID": "430007 CB",
+            "PatientName": "BROWN CYNTHIA",
+            "AccessionNumber": "CRHCT25 406",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.23621490405460348268250070959887129851",
+            "StudyDate": "20250708",
+            "StudyTime": "103620.000000",
+            "StudyDescription": "KUB",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 406"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 408": {
+        "status": "completed",
+        "detection_time": "2025-07-08T11:13:45.042293",
+        "dicom_context": {
+            "PatientID": "357653 MW",
+            "PatientName": "WALKER MATTHEW",
+            "AccessionNumber": "CRHCT25 408",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.25111639278335911381836901703975868527",
+            "StudyDate": "20250708",
+            "StudyTime": "110743.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "HDU",
+            "StudyID": "CRHCT25 408"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT 410": {
+        "status": "timed_out",
+        "detection_time": "2025-07-08T11:22:04.832118",
+        "dicom_context": {
+            "PatientID": "050397 SC",
+            "PatientName": "CLARKE SHANNETTE",
+            "AccessionNumber": "CRHCT 410",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.93912718999631504710522673770314791612",
+            "StudyDate": "20250708",
+            "StudyTime": "111944.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "KIRNON",
+            "StudyID": "CRHCT 410"
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-08T15:16:57.953714"
+    },
+    "CRHCT25 409": {
+        "status": "completed",
+        "detection_time": "2025-07-08T11:26:50.785014",
+        "dicom_context": {
+            "PatientID": "311531 IM",
+            "PatientName": "MALCOLM IMANI",
+            "AccessionNumber": "CRHCT25 409",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.16602794071721612754735347190661713860",
+            "StudyDate": "20250708",
+            "StudyTime": "112357.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "KIRNON",
+            "StudyID": "CRHCT25 409"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 411": {
+        "status": "completed",
+        "detection_time": "2025-07-08T11:59:47.929319",
+        "dicom_context": {
+            "PatientID": "064112 IE",
+            "PatientName": "EBANKS IVETTE",
+            "AccessionNumber": "CRHCT25 411",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.33245366408934533767181934087691522661",
+            "StudyDate": "20250708",
+            "StudyTime": "113615.000000",
+            "StudyDescription": "CAP",
+            "ReferringPhysicianName": "ONC",
+            "StudyID": "CRHCT25 411"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 413": {
+        "status": "completed",
+        "detection_time": "2025-07-08T12:12:22.466768",
+        "dicom_context": {
+            "PatientID": "317085 HW",
+            "PatientName": "WALLACE HAROLD",
+            "AccessionNumber": "CRHCT25 413",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.40953618132807073616284209244252031724",
+            "StudyDate": "20250708",
+            "StudyTime": "115515.000000",
+            "StudyDescription": "CAP",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 413"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 414": {
+        "status": "timed_out",
+        "detection_time": "2025-07-08T14:02:38.939618",
+        "dicom_context": {
+            "PatientID": "656294 KT",
+            "PatientName": "TITER KINGSLEY",
+            "AccessionNumber": "CRHCT25 414",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.98114402884859370289657990297841753838",
+            "StudyDate": "20250708",
+            "StudyTime": "134600.000000",
+            "StudyDescription": "PA",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 414"
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-08T17:58:49.224053"
+    },
+    "CRHCT25 0417": {
+        "status": "completed",
+        "detection_time": "2025-07-08T15:01:20.208183",
+        "dicom_context": {
+            "PatientID": "508399 SC",
+            "PatientName": "CLARKE STAINTON",
+            "AccessionNumber": "CRHCT25 0417",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.28370948966676756903601157234710120625",
+            "StudyDate": "20250708",
+            "StudyTime": "144423.000000",
+            "StudyDescription": "CTA CHEST",
+            "ReferringPhysicianName": "A E T2",
+            "StudyID": "CRHCT25 0417"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 416": {
+        "status": "timed_out",
+        "detection_time": "2025-07-08T15:18:45.623661",
+        "dicom_context": {
+            "PatientID": "710825 UM",
+            "PatientName": "MALE UNKNOWN (SMITH EDSON)",
+            "AccessionNumber": "CRHCT25 416",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.95697804104396114477264435311815794714",
+            "StudyDate": "20250708",
+            "StudyTime": "150928.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "HAMILTON",
+            "StudyID": "CRHCT25 416"
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-08T19:15:37.216824"
+    },
+    "CRHCT25 415": {
+        "status": "timed_out",
+        "detection_time": "2025-07-08T15:39:46.843763",
+        "dicom_context": {
+            "PatientID": "710963 AA",
+            "PatientName": "ARIS ABE",
+            "AccessionNumber": "CRHCT25 415",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.70984338972457110274443954793687205859",
+            "StudyDate": "20250708",
+            "StudyTime": "153516.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 415"
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-08T19:34:10.230816"
+    },
+    "CRHCT25 419": {
+        "status": "completed",
+        "detection_time": "2025-07-08T15:56:40.193734",
+        "dicom_context": {
+            "PatientID": "595658 EC",
+            "PatientName": "CLARKE ERROL",
+            "AccessionNumber": "CRHCT25 419",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.29164421241293870354719433552424152781",
+            "StudyDate": "20250708",
+            "StudyTime": "155050.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E T1",
+            "StudyID": "CRHCT25 419"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 412": {
+        "status": "completed",
+        "detection_time": "2025-07-08T16:30:31.773561",
+        "dicom_context": {
+            "PatientID": "685002 MH",
+            "PatientName": "HAMILTON MARIE",
+            "AccessionNumber": "CRHCT25 412",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.53627913035392009034653927728211458326",
+            "StudyDate": "20250708",
+            "StudyTime": "142309.000000",
+            "StudyDescription": "ABDOMEN",
+            "ReferringPhysicianName": "ONC",
+            "StudyID": "CRHCT25 412"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 418": {
+        "status": "timed_out",
+        "detection_time": "2025-07-08T20:50:46.370870",
+        "dicom_context": {
+            "PatientID": "710959 JM",
+            "PatientName": "MCCOOKE JOSEPH",
+            "AccessionNumber": "CRHCT25 418",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.99351695553075739323943915991961951545",
+            "StudyDate": "20250708",
+            "StudyTime": "155910.000000",
+            "StudyDescription": "A E",
+            "ReferringPhysicianName": "ABD PEL",
+            "StudyID": "CRHCT25 418"
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-09T00:43:00.153869"
+    },
+    "CRHCT25 0419": {
+        "status": "completed",
+        "detection_time": "2025-07-09T11:36:29.944458",
+        "dicom_context": {
+            "PatientID": "535753 AD",
+            "PatientName": "DALEY ABIGAIL",
+            "AccessionNumber": "CRHCT25 0419",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.27365919689779127148515852032410012328",
+            "StudyDate": "20250709",
+            "StudyTime": "100540.000000",
+            "StudyDescription": "CAP",
+            "ReferringPhysicianName": "RADIOTHERAPHY",
+            "StudyID": "CRHCT25 0419"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0422": {
+        "status": "timed_out",
+        "detection_time": "2025-07-09T12:44:43.904980",
+        "dicom_context": {
+            "PatientID": "490979 SC",
+            "PatientName": "CLARKE SHAUN",
+            "AccessionNumber": "CRHCT25 0422",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.77024179646764946186472082257186086178",
+            "StudyDate": "20250709",
+            "StudyTime": "122021.000000",
+            "StudyDescription": "BOTH FEET",
+            "ReferringPhysicianName": "MCH",
+            "StudyID": "CRHCT25 0422"
+        },
+        "search_attempts": 15,
+        "last_search_time": "2025-07-09T16:30:02.793119"
+    },
+    "CRHCT25 423": {
+        "status": "completed",
+        "detection_time": "2025-07-09T13:16:19.922262",
+        "dicom_context": {
+            "PatientID": "696517 TG",
+            "PatientName": "GALLIMORE THALIA",
+            "AccessionNumber": "CRHCT25 423",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.4919564345314064748651481689505107738",
+            "StudyDate": "20250709",
+            "StudyTime": "125939.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 423"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0424": {
+        "status": "timed_out",
+        "detection_time": "2025-07-09T13:32:01.460664",
+        "dicom_context": {
+            "PatientID": "NYR25 424 SGG",
+            "PatientName": "GRANT-GRIFFITHS SANDRA",
+            "AccessionNumber": "CRHCT25 0424",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.68757708732859271033035775772785486870",
+            "StudyDate": "20250709",
+            "StudyTime": "132434.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 0424"
+        },
+        "search_attempts": 15,
+        "last_search_time": "2025-07-09T17:20:42.729272"
+    },
+    "CRHCT25 0420": {
+        "status": "completed",
+        "detection_time": "2025-07-09T14:08:36.634434",
+        "dicom_context": {
+            "PatientID": "695870 JH",
+            "PatientName": "HAUGHTON JAMES",
+            "AccessionNumber": "CRHCT25 0420",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.26228879199378935216886222826541007631",
+            "StudyDate": "20250709",
+            "StudyTime": "115334.000000",
+            "StudyDescription": "CAP",
+            "ReferringPhysicianName": "SOPDB",
+            "StudyID": "CRHCT25 0420"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 421": {
+        "status": "timed_out",
+        "detection_time": "2025-07-09T14:31:36.523247",
+        "dicom_context": {
+            "PatientID": "FAL 210395 RR",
+            "PatientName": "ROSE RICKOY",
+            "AccessionNumber": "CRHCT25 421",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.59912536903795970333505340919357876288",
+            "StudyDate": "20250709",
+            "StudyTime": "111332.000000",
+            "StudyDescription": "CHEST,ABDOMEN,PELVIS",
+            "ReferringPhysicianName": "FALMOUTH",
+            "StudyID": "CRHCT25 421"
+        },
+        "search_attempts": 15,
+        "last_search_time": "2025-07-09T18:27:53.472825"
+    },
+    "CRHCT25 0425": {
+        "status": "timed_out",
+        "detection_time": "2025-07-09T14:58:29.573591",
+        "dicom_context": {
+            "PatientID": "321640 JD",
+            "PatientName": "DALEY JERMAINE",
+            "AccessionNumber": "CRHCT25 0425",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.36023524040259655292074938545922279056",
+            "StudyDate": "20250709",
+            "StudyTime": "134655.000000",
+            "StudyDescription": "RT KNEE",
+            "ReferringPhysicianName": "5E",
+            "StudyID": "CRHCT25 0425"
+        },
+        "search_attempts": 15,
+        "last_search_time": "2025-07-09T18:57:05.641853"
+    },
+    "CRHCT25 428": {
+        "status": "completed",
+        "detection_time": "2025-07-09T16:03:02.204792",
+        "dicom_context": {
+            "PatientID": "015326 LE",
+            "PatientName": "EVANS LINNIE",
+            "AccessionNumber": "CRHCT25 428",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.81712752837535154106718198888138459611",
+            "StudyDate": "20250709",
+            "StudyTime": "155434.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 428"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0429": {
+        "status": "completed",
+        "detection_time": "2025-07-10T08:14:49.742918",
+        "dicom_context": {
+            "PatientID": "394806 BB",
+            "PatientName": "BLAKE BYRON",
+            "AccessionNumber": "CRHCT25 0429",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.70497447857559239578355329175654584400",
+            "StudyDate": "20250710",
+            "StudyTime": "075959.000000",
+            "StudyDescription": "BRAIN, C-SPINE",
+            "ReferringPhysicianName": "GEN SURG",
+            "StudyID": "CRHCT25 0429"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0430": {
+        "status": "timed_out",
+        "detection_time": "2025-07-10T09:50:18.287729",
+        "dicom_context": {
+            "PatientID": "330878 AS",
+            "PatientName": "SANCHEZ ADOLF",
+            "AccessionNumber": "CRHCT25 0430",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.55863571764003614148449495408438524616",
+            "StudyDate": "20250710",
+            "StudyTime": "093335.000000",
+            "StudyDescription": "BRAI, C-SPINE, ABDOMEN, CHEST",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 0430"
+        },
+        "search_attempts": 15,
+        "last_search_time": "2025-07-10T13:38:46.853628"
+    },
+    "CRHCT25 433": {
+        "status": "completed",
+        "detection_time": "2025-07-10T10:48:53.725107",
+        "dicom_context": {
+            "PatientID": "147129 DM",
+            "PatientName": "MOORE DELORIS",
+            "AccessionNumber": "CRHCT25 433",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.37834427045171067458292270381379613770",
+            "StudyDate": "20250710",
+            "StudyTime": "103328.000000",
+            "StudyDescription": "ANGIOGRAM",
+            "ReferringPhysicianName": "7W",
+            "StudyID": "CRHCT25 433"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0434": {
+        "status": "completed",
+        "detection_time": "2025-07-10T11:10:28.964378",
+        "dicom_context": {
+            "PatientID": "644126 SCJ",
+            "PatientName": "COWARD-JONES SHAMARAH",
+            "AccessionNumber": "CRHCT25 0434",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.7475430076684353381954869288661865077",
+            "StudyDate": "20250710",
+            "StudyTime": "110537.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "STAFF CLINIC",
+            "StudyID": "CRHCT25 0434"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0440": {
+        "status": "completed",
+        "detection_time": "2025-07-10T11:41:04.023447",
+        "dicom_context": {
+            "PatientID": "710704 RS",
+            "PatientName": "SALASOR ROBERTO",
+            "AccessionNumber": "CRHCT25 0440",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.56909694221782644617283925484988092241",
+            "StudyDate": "20250710",
+            "StudyTime": "113728.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "9E",
+            "StudyID": "CRHCT25 0440"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0441": {
+        "status": "completed",
+        "detection_time": "2025-07-10T11:41:09.342554",
+        "dicom_context": {
+            "PatientID": "272637 MB",
+            "PatientName": "BRISSETT MONIQUE",
+            "AccessionNumber": "CRHCT25 0441",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.69484670302824948322246725556337176833",
+            "StudyDate": "20250710",
+            "StudyTime": "113300.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E INTRANSIT",
+            "StudyID": "CRHCT25 0441"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0439": {
+        "status": "timed_out",
+        "detection_time": "2025-07-10T11:43:26.200303",
+        "dicom_context": {
+            "PatientID": "128993 MW",
+            "PatientName": "WINT MICHAEL",
+            "AccessionNumber": "CRHCT25 0439",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.35797192249802448719079740151650472448",
+            "StudyDate": "20250710",
+            "StudyTime": "112828.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "9E",
+            "StudyID": "CRHCT25 0439"
+        },
+        "search_attempts": 15,
+        "last_search_time": "2025-07-10T15:34:11.158997"
+    },
+    "CRHCT25 0438": {
+        "status": "timed_out",
+        "detection_time": "2025-07-10T11:44:35.190695",
+        "dicom_context": {
+            "PatientID": "086853 MA",
+            "PatientName": "ATHERTON MANLEY",
+            "AccessionNumber": "CRHCT25 0438",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.88522780159108140322492180559153279086",
+            "StudyDate": "20250710",
+            "StudyTime": "111551.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 0438"
+        },
+        "search_attempts": 15,
+        "last_search_time": "2025-07-10T15:34:11.158997"
+    },
+    "CRHCT25 0436": {
+        "status": "completed",
+        "detection_time": "2025-07-10T12:11:35.925630",
+        "dicom_context": {
+            "PatientID": "587097 LJ",
+            "PatientName": "JULIEN LOUISE",
+            "AccessionNumber": "CRHCT25 0436",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.74533832662138546155493914108827025716",
+            "StudyDate": "20250710",
+            "StudyTime": "114353.000000",
+            "StudyDescription": "UROGRAM",
+            "ReferringPhysicianName": "UOPD",
+            "StudyID": "CRHCT25 0436"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0442": {
+        "status": "completed",
+        "detection_time": "2025-07-10T12:11:35.992733",
+        "dicom_context": {
+            "PatientID": "582967 LS",
+            "PatientName": "STERLING LELAND",
+            "AccessionNumber": "CRHCT25 0442",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.25339340668735097725002367801219637651",
+            "StudyDate": "20250710",
+            "StudyTime": "120856.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 0442"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0435": {
+        "status": "completed",
+        "detection_time": "2025-07-10T14:28:38.220625",
+        "dicom_context": {
+            "PatientID": "710482 SW",
+            "PatientName": "WILLIAMS SHANIKE",
+            "AccessionNumber": "CRHCT25 0435",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.59354890192412175403652741723315202953",
+            "StudyDate": "20250710",
+            "StudyTime": "133349.000000",
+            "StudyDescription": "CHEST,ABDOMEN",
+            "ReferringPhysicianName": "ONC",
+            "StudyID": "CRHCT25 0435"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 437": {
+        "status": "completed",
+        "detection_time": "2025-07-10T14:54:41.395294",
+        "dicom_context": {
+            "PatientID": "369484 YBB",
+            "PatientName": "BARRETT-BOWERS YVONNE",
+            "AccessionNumber": "CRHCT25 437",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.93669324018269587621599394522397886554",
+            "StudyDate": "20250710",
+            "StudyTime": "125801.000000",
+            "StudyDescription": "CAP",
+            "ReferringPhysicianName": "ONC",
+            "StudyID": "CRHCT25 437"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0431": {
+        "status": "timed_out",
+        "detection_time": "2025-07-10T15:25:22.022643",
+        "dicom_context": {
+            "PatientID": "572700 GL",
+            "PatientName": "GARDENER LAVENIA",
+            "AccessionNumber": "CRHCT25 0431",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.5018177533786830721605253512694698831",
+            "StudyDate": "20250710",
+            "StudyTime": "122913.000000",
+            "StudyDescription": "CAP",
+            "ReferringPhysicianName": "ONC",
+            "StudyID": "CRHCT25 0431"
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-10T19:21:46.110355"
+    },
+    "CRHCT25 0444": {
+        "status": "completed",
+        "detection_time": "2025-07-10T16:05:07.470561",
+        "dicom_context": {
+            "PatientID": "323132 GC",
+            "PatientName": "CAMPBELL GEORGE",
+            "AccessionNumber": "CRHCT25 0444",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.68653005934377532088103390632397807645",
+            "StudyDate": "20250710",
+            "StudyTime": "150447.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 0444"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0443": {
+        "status": "completed",
+        "detection_time": "2025-07-10T16:07:24.032390",
+        "dicom_context": {
+            "PatientID": "071975 VP",
+            "PatientName": "PAHALAJANI VIJAY",
+            "AccessionNumber": "CRHCT25 0443",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.64136343929850282633106114011371709264",
+            "StudyDate": "20250710",
+            "StudyTime": "142955.000000",
+            "StudyDescription": "PA",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 0443"
+        },
+        "search_attempts": 6,
+        "last_search_time": "2025-07-10T17:13:41.292069"
+    },
+    "CRHCT25 0445": {
+        "status": "completed",
+        "detection_time": "2025-07-10T16:13:06.943514",
+        "dicom_context": {
+            "PatientID": "437579 PC",
+            "PatientName": "CARGILL PETER",
+            "AccessionNumber": "CRHCT25 0445",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.76878418773844717142660101430129392336",
+            "StudyDate": "20250710",
+            "StudyTime": "154016.000000",
+            "StudyDescription": "ABDOMEN,PELVIS",
+            "ReferringPhysicianName": "BLOCK C",
+            "StudyID": "CRHCT25 0445"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0432": {
+        "status": "completed",
+        "detection_time": "2025-07-10T16:17:41.646799",
+        "dicom_context": {
+            "PatientID": "182797 SM",
+            "PatientName": "MILLWOOD SHELLY-ANN",
+            "AccessionNumber": "CRHCT25 0432",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.57580138809581527939106323118419908925",
+            "StudyDate": "20250710",
+            "StudyTime": "095750.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "7W",
+            "StudyID": "CRHCT25 0432"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT0449": {
+        "status": "completed",
+        "detection_time": "2025-07-11T10:29:42.072056",
+        "dicom_context": {
+            "PatientID": "711024 LS",
+            "PatientName": "SOLER LEONARDO",
+            "AccessionNumber": "CRHCT0449",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.85701381146551443303408135025555803402",
+            "StudyDate": "20250711",
+            "StudyTime": "095946.000000",
+            "StudyDescription": "RT HIP",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT0449"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0447": {
+        "status": "completed",
+        "detection_time": "2025-07-11T11:56:34.392437",
+        "dicom_context": {
+            "PatientID": "334709 CS",
+            "PatientName": "SINCLAIR CHRISTENIA",
+            "AccessionNumber": "CRHCT25 0447",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.43030788056076635527155266189472702357",
+            "StudyDate": "20250711",
+            "StudyTime": "110654.000000",
+            "StudyDescription": "CAP",
+            "ReferringPhysicianName": "SOPD",
+            "StudyID": "CRHCT25 0447"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 451": {
+        "status": "completed",
+        "detection_time": "2025-07-11T11:56:34.461435",
+        "dicom_context": {
+            "PatientID": "694630 GC",
+            "PatientName": "CHAMBERS GHERMA",
+            "AccessionNumber": "CRHCT25 451",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.88453441892238922462635419824160682820",
+            "StudyDate": "20250711",
+            "StudyTime": "110046.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 451"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0446": {
+        "status": "completed",
+        "detection_time": "2025-07-11T12:05:39.388492",
+        "dicom_context": {
+            "PatientID": "132138 PB",
+            "PatientName": "BERNARD PAULINE",
+            "AccessionNumber": "CRHCT25 0446",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.96532933890158874724016982716336684821",
+            "StudyDate": "20250711",
+            "StudyTime": "103106.000000",
+            "StudyDescription": "CAP",
+            "ReferringPhysicianName": "ONCOLOGY",
+            "StudyID": "CRHCT25 0446"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0450": {
+        "status": "timed_out",
+        "detection_time": "2025-07-11T12:40:52.710493",
+        "dicom_context": {
+            "PatientID": "663803 KT",
+            "PatientName": "THORPE KONEISHA",
+            "AccessionNumber": "CRHCT25 0450",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.11586424304278802239402865061423801566",
+            "StudyDate": "20250711",
+            "StudyTime": "120155.000000",
+            "StudyDescription": "UROGRAM",
+            "ReferringPhysicianName": "UROLOGY",
+            "StudyID": "CRHCT25 0450"
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-11T16:38:07.498651"
+    },
+    "CRHCT25 454": {
+        "status": "completed",
+        "detection_time": "2025-07-11T13:44:36.482325",
+        "dicom_context": {
+            "PatientID": "704350 DB",
+            "PatientName": "BLAKE DEVONAE",
+            "AccessionNumber": "CRHCT25 454",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.53985999246219119765514908340417200883",
+            "StudyDate": "20250711",
+            "StudyTime": "133334.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 454"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0453": {
+        "status": "completed",
+        "detection_time": "2025-07-11T14:05:07.428067",
+        "dicom_context": {
+            "PatientID": "389725 TS",
+            "PatientName": "SMITH TREVOR",
+            "AccessionNumber": "CRHCT25 0453",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.24832940736496800040897178544796576242",
+            "StudyDate": "20250711",
+            "StudyTime": "134308.000000",
+            "StudyDescription": "NECK",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 0453"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0456": {
+        "status": "completed",
+        "detection_time": "2025-07-11T14:18:48.152759",
+        "dicom_context": {
+            "PatientID": "204498 MG",
+            "PatientName": "GORDON MONICA",
+            "AccessionNumber": "CRHCT25 0456",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.2125467846600586001684623549182679390",
+            "StudyDate": "20250711",
+            "StudyTime": "140758.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "7W",
+            "StudyID": "CRHCT25 0456"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 457": {
+        "status": "completed",
+        "detection_time": "2025-07-11T15:22:39.871160",
+        "dicom_context": {
+            "PatientID": "595415 JJ",
+            "PatientName": "JAMES JOYCE",
+            "AccessionNumber": "CRHCT25 457",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.38374415529755668565937795993071263079",
+            "StudyDate": "20250711",
+            "StudyTime": "144249.000000",
+            "StudyDescription": "ABD",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 457"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 458": {
+        "status": "timed_out",
+        "detection_time": "2025-07-11T15:38:38.399365",
+        "dicom_context": {
+            "PatientID": "FGPH 172580 KW",
+            "PatientName": "WRIGHT KAREN",
+            "AccessionNumber": "CRHCT25 458",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.14664964825934114593201783492409063506",
+            "StudyDate": "20250711",
+            "StudyTime": "152050.000000",
+            "StudyDescription": "PA",
+            "ReferringPhysicianName": "FGPH",
+            "StudyID": "CRHCT25 458"
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-11T19:36:37.159103"
+    },
+    "CRHCT25 0459": {
+        "status": "completed",
+        "detection_time": "2025-07-11T17:11:02.455907",
+        "dicom_context": {
+            "PatientID": "671685 DS",
+            "PatientName": "SINCLAIR DAVANET",
+            "AccessionNumber": "CRHCT25 0459",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.13595307599995174676431157186014572720",
+            "StudyDate": "20250711",
+            "StudyTime": "154729.000000",
+            "StudyDescription": "PULM ANGIOGRAM",
+            "ReferringPhysicianName": "4W",
+            "StudyID": "CRHCT25 0459"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0455": {
+        "status": "completed",
+        "detection_time": "2025-07-11T18:13:07.236074",
+        "dicom_context": {
+            "PatientID": "710827 NM",
+            "PatientName": "MCNAB NEITA",
+            "AccessionNumber": "CRHCT25 0455",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.12925603226166633418605030277696871887",
+            "StudyDate": "20250711",
+            "StudyTime": "170148.000000",
+            "StudyDescription": "ABDOMEN,PELVIS",
+            "ReferringPhysicianName": "7E",
+            "StudyID": "CRHCT25 0455"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 460": {
+        "status": "completed",
+        "detection_time": "2025-07-11T18:51:06.784849",
+        "dicom_context": {
+            "PatientID": "021570 ED",
+            "PatientName": "DALEY ERIC",
+            "AccessionNumber": "CRHCT25 460",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.36292229633987664397552623251790065562",
+            "StudyDate": "20250711",
+            "StudyTime": "173153.000000",
+            "StudyDescription": "CAP",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 460"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0460": {
+        "status": "timed_out",
+        "detection_time": "2025-07-11T18:55:36.174061",
+        "dicom_context": {
+            "PatientID": "103005 JR",
+            "PatientName": "ROBINSON JENNIFER",
+            "AccessionNumber": "CRHCT25 0460",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.94856071353707416260409787307611379834",
+            "StudyDate": "20250711",
+            "StudyTime": "184821.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "T1",
+            "StudyID": "CRHCT25 0460"
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-11T22:53:23.845702"
+    },
+    "CRHCT25 0461": {
+        "status": "timed_out",
+        "detection_time": "2025-07-11T19:13:50.187184",
+        "dicom_context": {
+            "PatientID": "103005 JR",
+            "PatientName": "ROBINSON JENNIFER",
+            "AccessionNumber": "CRHCT25 0461",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.94856071353707416260409787307611379834",
+            "StudyDate": "20250711",
+            "StudyTime": "184821.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "T1",
+            "StudyID": "CRHCT25 0460"
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-11T23:08:59.119152"
+    },
+    "CRHCT25 462": {
+        "status": "completed",
+        "detection_time": "2025-07-12T11:03:38.654226",
+        "dicom_context": {
+            "PatientID": "664032 OA",
+            "PatientName": "ADLAM ORETTE",
+            "AccessionNumber": "CRHCT25 462",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.92956548983225919816980705054707579314",
+            "StudyDate": "20250712",
+            "StudyTime": "104839.000000",
+            "StudyDescription": "Facial Bones WO",
+            "ReferringPhysicianName": "",
+            "StudyID": "363"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0463": {
+        "status": "completed",
+        "detection_time": "2025-07-12T17:37:15.489742",
+        "dicom_context": {
+            "PatientID": "403002 LM",
+            "PatientName": "MORRIS LEONARDO",
+            "AccessionNumber": "CRHCT25 0463",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.43513810834379461407576234349298465803",
+            "StudyDate": "20250712",
+            "StudyTime": "173130.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 0463"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0464": {
+        "status": "completed",
+        "detection_time": "2025-07-13T08:51:46.124710",
+        "dicom_context": {
+            "PatientID": "711062 JW",
+            "PatientName": "WRIGHT JERMAINE",
+            "AccessionNumber": "CRHCT25 0464",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.72551192917658723280855120760419425083",
+            "StudyDate": "20250713",
+            "StudyTime": "075807.000000",
+            "StudyDescription": "BRAIN, C-SPINE",
+            "ReferringPhysicianName": "AE",
+            "StudyID": "CRHCT25 0464"
+        },
+        "search_attempts": 3,
+        "last_search_time": "2025-07-13T09:08:39.152996"
+    },
+    "CRHCT25 0466": {
+        "status": "timed_out",
+        "detection_time": "2025-07-13T09:08:43.116677",
+        "dicom_context": {
+            "PatientID": "603929 RK",
+            "PatientName": "KELVIN RAYONA",
+            "AccessionNumber": "CRHCT25 0466",
+            "StudyInstanceUID": "1.2.156.112605.137174099554275.250712161122.2.7368.19134",
+            "StudyDate": "20250712",
+            "StudyTime": "111219.000000",
+            "StudyDescription": "BRAIN C-",
+            "ReferringPhysicianName": "PIERRE",
+            "StudyID": "364"
+        },
+        "search_attempts": 14,
+        "last_search_time": "2025-07-13T13:01:55.766460"
+    },
+    "CRHCT 468": {
+        "status": "completed",
+        "detection_time": "2025-07-13T10:32:21.966819",
+        "dicom_context": {
+            "PatientID": "670981 MT",
+            "PatientName": "THORBOURNE MARTIN",
+            "AccessionNumber": "CRHCT 468",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.58130483682474132596785146683905789139",
+            "StudyDate": "20250713",
+            "StudyTime": "102446.000000",
+            "StudyDescription": "PA",
+            "ReferringPhysicianName": "A&E",
+            "StudyID": "CRHCT 468"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 467": {
+        "status": "timed_out",
+        "detection_time": "2025-07-13T11:00:50.581822",
+        "dicom_context": {
+            "PatientID": "711049 RO",
+            "PatientName": "OBIOXA ROSE",
+            "AccessionNumber": "CRHCT25 467",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.74233109914569281927970037014551441233",
+            "StudyDate": "20250713",
+            "StudyTime": "105511.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 467"
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-13T15:00:13.005437"
+    },
+    "CRHCT25 0469": {
+        "status": "completed",
+        "detection_time": "2025-07-13T14:34:12.327851",
+        "dicom_context": {
+            "PatientID": "271816 MS",
+            "PatientName": "STEWART MONICA",
+            "AccessionNumber": "CRHCT25 0469",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.18277274384447329291022929275072535430",
+            "StudyDate": "20250713",
+            "StudyTime": "142246.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 0469"
+        },
+        "search_attempts": 3,
+        "last_search_time": "2025-07-13T14:54:55.668300"
+    },
+    "CRHCT25 0470": {
+        "status": "timed_out",
+        "detection_time": "2025-07-13T18:57:43.017082",
+        "dicom_context": {
+            "PatientID": "453402 SH",
+            "PatientName": "HINES STEVEN",
+            "AccessionNumber": "CRHCT25 0470",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.1514367473461541680174509312702071483",
+            "StudyDate": "20250713",
+            "StudyTime": "175732.000000",
+            "StudyDescription": "ABD,PELVIS",
+            "ReferringPhysicianName": "T1",
+            "StudyID": "CRHCT25 0470"
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-13T22:54:25.963527"
+    },
+    "CRHCT25 0471": {
+        "status": "timed_out",
+        "detection_time": "2025-07-13T19:11:04.935153",
+        "dicom_context": {
+            "PatientID": "656400 JG",
+            "PatientName": "GORDON JEROME",
+            "AccessionNumber": "CRHCT25 0471",
+            "StudyInstanceUID": "1.2.156.112605.137174099554275.250713235706.2.7368.18478",
+            "StudyDate": "20250713",
+            "StudyTime": "185711.000000",
+            "StudyDescription": "RT HIP",
+            "ReferringPhysicianName": "LWIN",
+            "StudyID": "365"
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-13T23:09:51.019328"
+    },
+    "CRHCT25 0472": {
+        "status": "completed",
+        "detection_time": "2025-07-13T20:06:41.799347",
+        "dicom_context": {
+            "PatientID": "441814 AW",
+            "PatientName": "WILLIAMSON ALFRED",
+            "AccessionNumber": "CRHCT25 0472",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.25158828535857572777666834682425340846",
+            "StudyDate": "20250713",
+            "StudyTime": "195542.000000",
+            "StudyDescription": "BRAIN, FACIAL BONES",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 0472"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 473": {
+        "status": "completed",
+        "detection_time": "2025-07-14T02:07:09.932751",
+        "dicom_context": {
+            "PatientID": "208500 DY",
+            "PatientName": "YOUNG DAVIAN",
+            "AccessionNumber": "CRHCT25 473",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.49133119554969896265468556764402484156",
+            "StudyDate": "20250714",
+            "StudyTime": "014341.000000",
+            "StudyDescription": "ARCH ANGIOGRAM, ABDOMEN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 473"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0475": {
+        "status": "timed_out",
+        "detection_time": "2025-07-14T10:33:39.973446",
+        "dicom_context": {
+            "PatientID": "302822 RD",
+            "PatientName": "DUNCAN ROSALIN",
+            "AccessionNumber": "CRHCT25 0475",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.48266698434916328819065095861700657787",
+            "StudyDate": "20250714",
+            "StudyTime": "102546.000000",
+            "StudyDescription": "CT BRAIN",
+            "ReferringPhysicianName": "PP",
+            "StudyID": "CRHCT25 0475"
+        },
+        "search_attempts": 13,
+        "last_search_time": "2025-07-14T14:21:10.701259"
+    },
+    "CRHCT25 0479": {
+        "status": "timed_out",
+        "detection_time": "2025-07-14T11:37:19.745226",
+        "dicom_context": {
+            "PatientID": "430818 CD",
+            "PatientName": "DOBSON CARMEN",
+            "AccessionNumber": "CRHCT25 0479",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.96563055903863491491655665318841752289",
+            "StudyDate": "20250714",
+            "StudyTime": "105915.000000",
+            "StudyDescription": "CT BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 0479"
+        },
+        "search_attempts": 1,
+        "document_paths": [
+            "C:\\Users\\konicaminolta\\Box\\Dr. Palmer\\CT\\DAILY WORKLIST\\TODAY\\DOBSON CARMEN 430818 CD CT AE .jpg",
+            "C:\\Users\\konicaminolta\\Box\\PREFILL REPORT\\DX PREFILL REPORT\\PIGGOT_SHARON_NYR25_13575_SP\\DOBSON CARMEN 430818 CD CT AE .jpg"
+        ],
+        "last_document_found_time": "2025-07-14T11:40:04.920987"
+    },
+    "CRHCT25 0477": {
+        "status": "timed_out",
+        "detection_time": "2025-07-14T12:59:50.694535",
+        "dicom_context": {
+            "PatientID": "381137 LM",
+            "PatientName": "MCINTOSH LEVI",
+            "AccessionNumber": "CRHCT25 0477",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.77527621797424750399503919261741557781",
+            "StudyDate": "20250714",
+            "StudyTime": "120109.000000",
+            "StudyDescription": "CT UROGRAM",
+            "ReferringPhysicianName": "UROLOGY",
+            "StudyID": "CRHCT25 0477"
+        },
+        "search_attempts": 14,
+        "last_search_time": "2025-07-14T16:47:12.551762"
+    },
+    "CRHCT25 482": {
+        "status": "timed_out",
+        "detection_time": "2025-07-14T12:59:50.782113",
+        "dicom_context": {
+            "PatientID": "711061 LG",
+            "PatientName": "GREY LORETA",
+            "AccessionNumber": "CRHCT25 482",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.90591485764194001633635825978040491518",
+            "StudyDate": "20250714",
+            "StudyTime": "122507.000000",
+            "StudyDescription": "CT BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 482"
+        },
+        "search_attempts": 14,
+        "last_search_time": "2025-07-14T16:47:12.551762"
+    },
+    "CRHCT25 483": {
+        "status": "timed_out",
+        "detection_time": "2025-07-14T12:59:50.866649",
+        "dicom_context": {
+            "PatientID": "106624 CR",
+            "PatientName": "REID CAROL",
+            "AccessionNumber": "CRHCT25 483",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.53013108359362701024548085486062957029",
+            "StudyDate": "20250714",
+            "StudyTime": "123830.000000",
+            "StudyDescription": "CT BRAIN",
+            "ReferringPhysicianName": "A E INTRANSIT",
+            "StudyID": "CRHCT25 483"
+        },
+        "search_attempts": 14,
+        "last_search_time": "2025-07-14T16:47:12.551762"
+    },
+    "CRHCT25 0478": {
+        "status": "timed_out",
+        "detection_time": "2025-07-14T12:59:50.951426",
+        "dicom_context": {
+            "PatientID": "664753 MG",
+            "PatientName": "GAYLE MELISSA",
+            "AccessionNumber": "CRHCT25 0478",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.8123821079670301656068825886169822170",
+            "StudyDate": "20250714",
+            "StudyTime": "115158.000000",
+            "StudyDescription": "CT CHEST",
+            "ReferringPhysicianName": "SOPD",
+            "StudyID": "CRHCT25 0478"
+        },
+        "search_attempts": 14,
+        "last_search_time": "2025-07-14T16:47:12.551762"
+    },
+    "CRHCT25 481": {
+        "status": "timed_out",
+        "detection_time": "2025-07-14T12:59:51.034505",
+        "dicom_context": {
+            "PatientID": "513158 MJ",
+            "PatientName": "JONES-GONZALEZ MARY",
+            "AccessionNumber": "CRHCT25 481",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.2067218143179425661590120079505896784",
+            "StudyDate": "20250714",
+            "StudyTime": "114212.000000",
+            "StudyDescription": "CT BRAIN, C-SPINE",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 481"
+        },
+        "search_attempts": 14,
+        "last_search_time": "2025-07-14T16:47:12.551762"
+    },
+    "CRHCT25 480": {
+        "status": "timed_out",
+        "detection_time": "2025-07-14T12:59:51.116461",
+        "dicom_context": {
+            "PatientID": "544363 SB",
+            "PatientName": "BYGRAVE SHANTAE",
+            "AccessionNumber": "CRHCT25 480",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.62013504560800102980168394536776503814",
+            "StudyDate": "20250714",
+            "StudyTime": "113745.000000",
+            "StudyDescription": "CT BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 480"
+        },
+        "search_attempts": 14,
+        "last_search_time": "2025-07-14T16:47:12.551762"
+    },
+    "CRHCT25 0474": {
+        "status": "timed_out",
+        "detection_time": "2025-07-14T13:15:39.786862",
+        "dicom_context": {
+            "PatientID": "167582 CMN",
+            "PatientName": "MCKENZIE-NOBLE CALICE",
+            "AccessionNumber": "CRHCT25 0474",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.99803977560130220819463293420979145523",
+            "StudyDate": "20250714",
+            "StudyTime": "125311.000000",
+            "StudyDescription": "CAP",
+            "ReferringPhysicianName": "RTD",
+            "StudyID": "CRHCT25 0474"
+        },
+        "search_attempts": 15,
+        "last_search_time": "2025-07-14T17:02:44.492825"
+    },
+    "CRHCT25 0485": {
+        "status": "timed_out",
+        "detection_time": "2025-07-14T13:17:57.851041",
+        "dicom_context": {
+            "PatientID": "716738 LC",
+            "PatientName": "COOTE LANZERT",
+            "AccessionNumber": "CRHCT25 0485",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.21558807666459497404623601910693798330",
+            "StudyDate": "20250714",
+            "StudyTime": "131134.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E RTD",
+            "StudyID": "CRHCT25 0485"
+        },
+        "search_attempts": 14,
+        "last_search_time": "2025-07-14T17:02:44.492825"
+    },
+    "CRHCT25 0484": {
+        "status": "timed_out",
+        "detection_time": "2025-07-14T13:41:46.026560",
+        "dicom_context": {
+            "PatientID": "277910 AB",
+            "PatientName": "BLAKE ANEIKA",
+            "AccessionNumber": "CRHCT25 0484",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.24735700962584858351657097511805772553",
+            "StudyDate": "20250714",
+            "StudyTime": "132654.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 0484"
+        },
+        "search_attempts": 1,
+        "document_paths": [
+            "C:\\Users\\konicaminolta\\Box\\Dr. Palmer\\CT\\DAILY WORKLIST\\TODAY\\BLAKE ANEIKA 277910 AB CT AE .jpg"
+        ],
+        "last_document_found_time": "2025-07-14T13:43:25.286264"
+    },
+    "CRHCT25 0486": {
+        "status": "completed",
+        "detection_time": "2025-07-14T14:02:25.666576",
+        "dicom_context": {
+            "PatientID": "711088 TB",
+            "PatientName": "BRISCOE TERRON",
+            "AccessionNumber": "CRHCT25 0486",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.96596843344414134075875973053297308393",
+            "StudyDate": "20250714",
+            "StudyTime": "133751.000000",
+            "StudyDescription": "BRAIN   FACIAL",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 0486"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0476": {
+        "status": "timed_out",
+        "detection_time": "2025-07-14T14:21:22.678766",
+        "dicom_context": {
+            "PatientID": "800460 PA",
+            "PatientName": "ARMSTRONG PATRICK",
+            "AccessionNumber": "CRHCT25 0476",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.24150867980968770542339083227380905112",
+            "StudyDate": "20250714",
+            "StudyTime": "134114.000000",
+            "StudyDescription": "CAP",
+            "ReferringPhysicianName": "ONCOLOGY",
+            "StudyID": "CRHCT25 0476"
+        },
+        "search_attempts": 15,
+        "last_search_time": "2025-07-14T18:20:06.486433"
+    },
+    "CRHCT 487": {
+        "status": "completed",
+        "detection_time": "2025-07-14T16:07:44.309748",
+        "dicom_context": {
+            "PatientID": "272704 GG",
+            "PatientName": "GRANT GARFIELD",
+            "AccessionNumber": "CRHCT 487",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.47748258440642369489402145766524018868",
+            "StudyDate": "20250714",
+            "StudyTime": "160236.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT 487"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 488": {
+        "status": "completed",
+        "detection_time": "2025-07-14T17:08:00.001081",
+        "dicom_context": {
+            "PatientID": "711056 FS",
+            "PatientName": "SIMPSON FRANKLYN",
+            "AccessionNumber": "CRHCT25 488",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.54301147363726195552187697094136252209",
+            "StudyDate": "20250714",
+            "StudyTime": "170253.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 488"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 489": {
+        "status": "completed",
+        "detection_time": "2025-07-14T21:14:42.067339",
+        "dicom_context": {
+            "PatientID": "184831 LL",
+            "PatientName": "LINDO LANCELOT",
+            "AccessionNumber": "CRHCT25 489",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.40809402086319560801859580498297193811",
+            "StudyDate": "20250714",
+            "StudyTime": "210854.000000",
+            "StudyDescription": "CT BRAIN",
+            "ReferringPhysicianName": "A&E",
+            "StudyID": "CRHCT25 489"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0490": {
+        "status": "completed",
+        "detection_time": "2025-07-14T22:18:28.169127",
+        "dicom_context": {
+            "PatientID": "711132 MR",
+            "PatientName": "REID MERVAN",
+            "AccessionNumber": "CRHCT25 0490",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.82436635006309685807519382634565666197",
+            "StudyDate": "20250714",
+            "StudyTime": "220527.000000",
+            "StudyDescription": "PAN CT",
+            "ReferringPhysicianName": "A E NHH",
+            "StudyID": "CRHCT25 0490"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 491": {
+        "status": "completed",
+        "detection_time": "2025-07-15T08:38:40.379403",
+        "dicom_context": {
+            "PatientID": "686913 SB",
+            "PatientName": "BLACK SYLVESTER",
+            "AccessionNumber": "CRHCT25 491",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.86051913089692488544842022200411676901",
+            "StudyDate": "20250715",
+            "StudyTime": "082742.000000",
+            "StudyDescription": "KUB",
+            "ReferringPhysicianName": "A&E",
+            "StudyID": "CRHCT25 491"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 493": {
+        "status": "completed",
+        "detection_time": "2025-07-15T08:50:28.272613",
+        "dicom_context": {
+            "PatientID": "368333 KM",
+            "PatientName": "MCKENZIE KIRRA",
+            "AccessionNumber": "CRHCT25 493",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.56620565673716131252154226953087343865",
+            "StudyDate": "20250715",
+            "StudyTime": "084520.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "10E",
+            "StudyID": "CRHCT25 493"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 492": {
+        "status": "completed",
+        "detection_time": "2025-07-15T08:52:09.572508",
+        "dicom_context": {
+            "PatientID": "071901 VC",
+            "PatientName": "CURTIS VERONICA",
+            "AccessionNumber": "CRHCT25 492",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.21191531798764850340487964161086459200",
+            "StudyDate": "20250715",
+            "StudyTime": "083753.000000",
+            "StudyDescription": "KUB",
+            "ReferringPhysicianName": "A&E",
+            "StudyID": "CRHCT25 492"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 495": {
+        "status": "completed",
+        "detection_time": "2025-07-15T09:36:43.120505",
+        "dicom_context": {
+            "PatientID": "045300 BH",
+            "PatientName": "HAYLES BEVERLY",
+            "AccessionNumber": "CRHCT25 495",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.7463614006091229010755657019045052289",
+            "StudyDate": "20250715",
+            "StudyTime": "092803.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 495"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0291": {
+        "status": "completed",
+        "detection_time": "2025-07-15T10:17:50.233645",
+        "dicom_context": {
+            "PatientID": "018070 SP",
+            "PatientName": "PLUMMER SONIA",
+            "AccessionNumber": "CRHCT25 0291",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.14251717155923040464218256359455816442",
+            "StudyDate": "20250626",
+            "StudyTime": "115044.000000",
+            "StudyDescription": "BRAIN , CAP",
+            "ReferringPhysicianName": "RTD",
+            "StudyID": "CRHCT25 0291"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0497": {
+        "status": "completed",
+        "detection_time": "2025-07-15T12:27:04.431573",
+        "dicom_context": {
+            "PatientID": "711110 UB",
+            "PatientName": "BROWN UNA",
+            "AccessionNumber": "CRHCT25 0497",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.98862363944368899206187721947952697450",
+            "StudyDate": "20250715",
+            "StudyTime": "115728.000000",
+            "StudyDescription": "NECK,CHEST",
+            "ReferringPhysicianName": "T2",
+            "StudyID": "CRHCT25 0497"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 498": {
+        "status": "completed",
+        "detection_time": "2025-07-15T12:35:34.298683",
+        "dicom_context": {
+            "PatientID": "190462 LT",
+            "PatientName": "THOMPSON LUKE",
+            "AccessionNumber": "CRHCT25 498",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.71279761087990058935560764192091033948",
+            "StudyDate": "20250715",
+            "StudyTime": "122933.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT 498"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 499": {
+        "status": "completed",
+        "detection_time": "2025-07-15T12:40:39.692504",
+        "dicom_context": {
+            "PatientID": "486142 VA",
+            "PatientName": "ARTWELL VERNA",
+            "AccessionNumber": "CRHCT25 499",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.24098124864557948170464744832200693557",
+            "StudyDate": "20250715",
+            "StudyTime": "123537.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 499"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 496": {
+        "status": "completed",
+        "detection_time": "2025-07-15T13:26:38.776953",
+        "dicom_context": {
+            "PatientID": "696465 KG",
+            "PatientName": "GRANSTON KIMBERLEY",
+            "AccessionNumber": "CRHCT25 496",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.85067294706171691604144874339052768609",
+            "StudyDate": "20250715",
+            "StudyTime": "125749.000000",
+            "StudyDescription": "NECK+CAP",
+            "ReferringPhysicianName": "ONC",
+            "StudyID": "CRHCT25 496"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT 500": {
+        "status": "completed",
+        "detection_time": "2025-07-15T16:05:34.392161",
+        "dicom_context": {
+            "PatientID": "711055 HG",
+            "PatientName": "GAYLE HEADLEY",
+            "AccessionNumber": "CRHCT 500",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.49128984656798800400138479001194132222",
+            "StudyDate": "20250715",
+            "StudyTime": "154450.000000",
+            "StudyDescription": "ABDOMEN,PELVIS",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT 500"
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 501": {
+        "status": "timed_out",
+        "detection_time": "2025-07-15T16:07:26.171548",
+        "dicom_context": {
+            "PatientID": "492061 TW",
+            "PatientName": "WIGGAN TASHAWNA",
+            "AccessionNumber": "CRHCT25 501",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.79608822504076372758067925185987159870",
+            "StudyDate": "20250715",
+            "StudyTime": "155829.000000",
+            "StudyDescription": "CT C-SPINE",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 501"
+        },
+        "search_attempts": 15,
+        "last_search_time": "2025-07-15T19:58:34.143770"
+    },
+    "CRHCT25 502": {
+        "status": "completed",
+        "detection_time": "2025-07-16T04:15:49.907740",
+        "dicom_context": {
+            "PatientID": "024410 EW",
+            "PatientName": "WEBB ERROL",
+            "AccessionNumber": "CRHCT25 502",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.42377177914823873750020803267676856733",
+            "StudyDate": "20250716",
+            "StudyTime": "021223.000000",
+            "StudyDescription": "ABD, PELVIS",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 502",
+            "PatientSex": "M",
+            "PatientBirthDate": "19501018",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT 0494": {
+        "status": "timed_out",
+        "detection_time": "2025-07-16T11:15:00.562039",
+        "dicom_context": {
+            "PatientID": "415532 SB",
+            "PatientName": "BENNETT SHELLIAN",
+            "AccessionNumber": "CRHCT 0494",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.86749402361365678774910809884970766271",
+            "StudyDate": "20250716",
+            "StudyTime": "110029.000000",
+            "StudyDescription": "CAP",
+            "ReferringPhysicianName": "RTD",
+            "StudyID": "CRHCT 0494",
+            "PatientSex": "F",
+            "PatientBirthDate": "19871227",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-16T15:12:32.683420"
+    },
+    "CRHCT25 503": {
+        "status": "completed",
+        "detection_time": "2025-07-16T11:31:51.633068",
+        "dicom_context": {
+            "PatientID": "393369 EL",
+            "PatientName": "LAWRENCE EUNICE",
+            "AccessionNumber": "CRHCT25 503",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.79157636988890869430725917816294748853",
+            "StudyDate": "20250716",
+            "StudyTime": "110839.000000",
+            "StudyDescription": "CAP",
+            "ReferringPhysicianName": "RTD",
+            "StudyID": "CRHCT25 503",
+            "PatientSex": "F",
+            "PatientBirthDate": "19610105",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 505": {
+        "status": "completed",
+        "detection_time": "2025-07-16T11:34:06.288528",
+        "dicom_context": {
+            "PatientID": "645425 AR",
+            "PatientName": "REID ANNETTE",
+            "AccessionNumber": "CRHCT25 505",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.95796275189716086546006493736766609682",
+            "StudyDate": "20250716",
+            "StudyTime": "112952.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 505",
+            "PatientSex": "F",
+            "PatientBirthDate": "19560114",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 506": {
+        "status": "completed",
+        "detection_time": "2025-07-16T11:55:42.362931",
+        "dicom_context": {
+            "PatientID": "037031 FW",
+            "PatientName": "WATSON FRANCIKA",
+            "AccessionNumber": "CRHCT25 506",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.5354822309710694667672344225895597894",
+            "StudyDate": "20250716",
+            "StudyTime": "114237.000000",
+            "StudyDescription": "CAP",
+            "ReferringPhysicianName": "ONC",
+            "StudyID": "CRHCT25 506",
+            "PatientSex": "F",
+            "PatientBirthDate": "19550311",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 504": {
+        "status": "timed_out",
+        "detection_time": "2025-07-16T12:39:37.605170",
+        "dicom_context": {
+            "PatientID": "618218 LD",
+            "PatientName": "DEWAR LEONIE",
+            "AccessionNumber": "CRHCT25 504",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.53556475541036513184177471476281705249",
+            "StudyDate": "20250716",
+            "StudyTime": "115625.000000",
+            "StudyDescription": "UROGRAM",
+            "ReferringPhysicianName": "UROLOGY",
+            "StudyID": "CRHCT25 504",
+            "PatientSex": "F",
+            "PatientBirthDate": "19421127",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 15,
+        "last_search_time": "2025-07-16T16:25:24.868285"
+    },
+    "CRHCT25 509": {
+        "status": "completed",
+        "detection_time": "2025-07-16T12:52:18.361739",
+        "dicom_context": {
+            "PatientID": "083765 GC",
+            "PatientName": "COOKE GWENDOLYN",
+            "AccessionNumber": "CRHCT25 509",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.99395406002106523423295779347724541781",
+            "StudyDate": "20250716",
+            "StudyTime": "124710.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 509",
+            "PatientSex": "F",
+            "PatientBirthDate": "19630612",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 508": {
+        "status": "completed",
+        "detection_time": "2025-07-16T12:52:18.472850",
+        "dicom_context": {
+            "PatientID": "086811 AC",
+            "PatientName": "CAMPBELL ALBERT",
+            "AccessionNumber": "CRHCT25 508",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.91511268516595037095316456326820503704",
+            "StudyDate": "20250716",
+            "StudyTime": "123658.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 508",
+            "PatientSex": "F",
+            "PatientBirthDate": "19460110",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 507": {
+        "status": "completed",
+        "detection_time": "2025-07-16T14:35:41.638110",
+        "dicom_context": {
+            "PatientID": "711174 LH",
+            "PatientName": "HAUGHTON LINCOLN",
+            "AccessionNumber": "CRHCT25 507",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.73991439554099222739539208137764195553",
+            "StudyDate": "20250716",
+            "StudyTime": "130603.000000",
+            "StudyDescription": "RT HIP,BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 507",
+            "PatientSex": "M",
+            "PatientBirthDate": "19660816",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 510": {
+        "status": "completed",
+        "detection_time": "2025-07-16T15:57:11.854971",
+        "dicom_context": {
+            "PatientID": "502967 LD",
+            "PatientName": "DENNIS LOTAYA",
+            "AccessionNumber": "CRHCT25 510",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.7040702127115206800193719836942829427",
+            "StudyDate": "20250716",
+            "StudyTime": "154534.000000",
+            "StudyDescription": "ABDOMEN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 510",
+            "PatientSex": "F",
+            "PatientBirthDate": "19870827",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 511": {
+        "status": "completed",
+        "detection_time": "2025-07-16T16:14:15.109369",
+        "dicom_context": {
+            "PatientID": "698291 AV",
+            "PatientName": "VELLON RUIZ ADA",
+            "AccessionNumber": "CRHCT25 511",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.61608412331607527758216206292672904986",
+            "StudyDate": "20250716",
+            "StudyTime": "155642.000000",
+            "StudyDescription": "CTPA",
+            "ReferringPhysicianName": "7W",
+            "StudyID": "CRHCT25 511",
+            "PatientSex": "F",
+            "PatientBirthDate": "19390214",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 514": {
+        "status": "completed",
+        "detection_time": "2025-07-17T09:56:53.977390",
+        "dicom_context": {
+            "PatientID": "271070 LN",
+            "PatientName": "NELSON LINDEL",
+            "AccessionNumber": "CRHCT25 514",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.94128793650913583055492850179813805391",
+            "StudyDate": "20250717",
+            "StudyTime": "095249.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 514",
+            "PatientSex": "M",
+            "PatientBirthDate": "19610705",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 217": {
+        "status": "completed",
+        "detection_time": "2025-07-17T10:19:59.232244",
+        "dicom_context": {
+            "PatientID": "711140 CC",
+            "PatientName": "COLQUHOUN COLLIA",
+            "AccessionNumber": "CRHCT25 217",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.59485691993744243590358368512380935936",
+            "StudyDate": "20250717",
+            "StudyTime": "101618.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 217",
+            "PatientSex": "F",
+            "PatientBirthDate": "20040525",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 518": {
+        "status": "completed",
+        "detection_time": "2025-07-17T10:47:16.391433",
+        "dicom_context": {
+            "PatientID": "092089 AB",
+            "PatientName": "BROWN ANGELLA",
+            "AccessionNumber": "CRHCT25 518",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.41491257603430690334692948202960576868",
+            "StudyDate": "20250717",
+            "StudyTime": "102459.000000",
+            "StudyDescription": "CT BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 518",
+            "PatientSex": "F",
+            "PatientBirthDate": "19620908",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 519": {
+        "status": "completed",
+        "detection_time": "2025-07-17T10:48:23.987816",
+        "dicom_context": {
+            "PatientID": "599914 DR",
+            "PatientName": "REID DONOVAN",
+            "AccessionNumber": "CRHCT25 519",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.83079767997117662981662986926757394711",
+            "StudyDate": "20250717",
+            "StudyTime": "104351.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 519",
+            "PatientSex": "M",
+            "PatientBirthDate": "19660222",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 513": {
+        "status": "completed",
+        "detection_time": "2025-07-17T11:38:10.775914",
+        "dicom_context": {
+            "PatientID": "029589 IB",
+            "PatientName": "BRISSETT IVY",
+            "AccessionNumber": "CRHCT25 513",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.71596283025696622696704074917768849435",
+            "StudyDate": "20250717",
+            "StudyTime": "104909.000000",
+            "StudyDescription": "BRAIN, CAP",
+            "ReferringPhysicianName": "ONC",
+            "StudyID": "CRHCT25 513",
+            "PatientSex": "F",
+            "PatientBirthDate": "19490109",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0521": {
+        "status": "timed_out",
+        "detection_time": "2025-07-17T11:45:00.486553",
+        "dicom_context": {
+            "PatientID": "NYRCT25 0521",
+            "PatientName": "CUVILLE NYOKA",
+            "AccessionNumber": "CRHCT25 0521",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.8974563992006324771868927791992882950",
+            "StudyDate": "20250717",
+            "StudyTime": "113155.000000",
+            "StudyDescription": "MANDIBLE",
+            "ReferringPhysicianName": "HC",
+            "StudyID": "CRHCT25 0521",
+            "PatientSex": "F",
+            "PatientBirthDate": "20020906",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 15,
+        "last_search_time": "2025-07-17T15:36:06.111272"
+    },
+    "CRHCT25 515": {
+        "status": "completed",
+        "detection_time": "2025-07-17T12:34:56.947547",
+        "dicom_context": {
+            "PatientID": "184336 DG",
+            "PatientName": "GRANT DAPHNE",
+            "AccessionNumber": "CRHCT25 515",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.59448801187156765429665558005453350172",
+            "StudyDate": "20250717",
+            "StudyTime": "114453.000000",
+            "StudyDescription": "CT CAP",
+            "ReferringPhysicianName": "CLINIC",
+            "StudyID": "CRHCT25 515",
+            "PatientSex": "F",
+            "PatientBirthDate": "19731014",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 524": {
+        "status": "completed",
+        "detection_time": "2025-07-17T12:58:50.885747",
+        "dicom_context": {
+            "PatientID": "708260 KT",
+            "PatientName": "TRACEY KEMAR",
+            "AccessionNumber": "CRHCT25 524",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.18114914243975069532703064950467515975",
+            "StudyDate": "20250717",
+            "StudyTime": "123339.000000",
+            "StudyDescription": "PA",
+            "ReferringPhysicianName": "B C",
+            "StudyID": "CRHCT25 524",
+            "PatientSex": "M",
+            "PatientBirthDate": "19930121",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 12,
+        "last_search_time": "2025-07-17T15:48:25.887639"
+    },
+    "CRHCT25 523": {
+        "status": "timed_out",
+        "detection_time": "2025-07-17T13:01:07.234789",
+        "dicom_context": {
+            "PatientID": "584983 RW",
+            "PatientName": "WYNTER ROWAN",
+            "AccessionNumber": "CRHCT25 523",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.59751247307447505999520338115295304726",
+            "StudyDate": "20250717",
+            "StudyTime": "125511.000000",
+            "StudyDescription": "KUB",
+            "ReferringPhysicianName": "URO",
+            "StudyID": "CRHCT25 523",
+            "PatientSex": "M",
+            "PatientBirthDate": "19680615",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 15,
+        "last_search_time": "2025-07-17T16:58:49.759821"
+    },
+    "CRHCT25 516": {
+        "status": "completed",
+        "detection_time": "2025-07-17T13:10:13.700964",
+        "dicom_context": {
+            "PatientID": "588405 SF",
+            "PatientName": "FYFFE SAMANTHA",
+            "AccessionNumber": "CRHCT25 516",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.59635877521499085106713531850457148051",
+            "StudyDate": "20250717",
+            "StudyTime": "120758.000000",
+            "StudyDescription": "CT CAP",
+            "ReferringPhysicianName": "ONCOLOGY",
+            "StudyID": "CRHCT25 516",
+            "PatientSex": "F",
+            "PatientBirthDate": "19860420",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25  0520": {
+        "status": "completed",
+        "detection_time": "2025-07-17T13:31:53.453154",
+        "dicom_context": {
+            "PatientID": "012132 NW",
+            "PatientName": "WATSON NORMA",
+            "AccessionNumber": "CRHCT25  0520",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.64325521791061738246364154310241551880",
+            "StudyDate": "20250717",
+            "StudyTime": "130747.000000",
+            "StudyDescription": "NECK",
+            "ReferringPhysicianName": "ENT",
+            "StudyID": "CRHCT25  0520",
+            "PatientSex": "F",
+            "PatientBirthDate": "19570921",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 522": {
+        "status": "completed",
+        "detection_time": "2025-07-17T13:54:44.974398",
+        "dicom_context": {
+            "PatientID": "226431 VV",
+            "PatientName": "VINCENT VERONICA",
+            "AccessionNumber": "CRHCT25 522",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.98491168213914117286116776086793299077",
+            "StudyDate": "20250717",
+            "StudyTime": "134225.000000",
+            "StudyDescription": "BRAIN C+",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 522",
+            "PatientSex": "F",
+            "PatientBirthDate": "19590423",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 512": {
+        "status": "completed",
+        "detection_time": "2025-07-17T13:57:03.334993",
+        "dicom_context": {
+            "PatientID": "145400 KP",
+            "PatientName": "PENNYCOOK KERON",
+            "AccessionNumber": "CRHCT25 512",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.72954184663092567965214961262337932455",
+            "StudyDate": "20250717",
+            "StudyTime": "132226.000000",
+            "StudyDescription": "ABD, PELVIS",
+            "ReferringPhysicianName": "7W",
+            "StudyID": "CRHCT25 512",
+            "PatientSex": "F",
+            "PatientBirthDate": "19671103",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 526": {
+        "status": "completed",
+        "detection_time": "2025-07-17T14:03:45.779989",
+        "dicom_context": {
+            "PatientID": "710187 OM",
+            "PatientName": "MCDONALD ORVILLE",
+            "AccessionNumber": "CRHCT25 526",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.84681238100213535811374621881210357561",
+            "StudyDate": "20250717",
+            "StudyTime": "135111.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "HDU",
+            "StudyID": "CRHCT25 526",
+            "PatientSex": "M",
+            "PatientBirthDate": "19690615",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 525": {
+        "status": "completed",
+        "detection_time": "2025-07-17T14:25:47.682552",
+        "dicom_context": {
+            "PatientID": "179922 PW",
+            "PatientName": "WALKER PAMELLA",
+            "AccessionNumber": "CRHCT25 525",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.12521636949544006090662974855891892591",
+            "StudyDate": "20250717",
+            "StudyTime": "140254.000000",
+            "StudyDescription": "NECK,CAP",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 525",
+            "PatientSex": "F",
+            "PatientBirthDate": "19730506",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 527": {
+        "status": "timed_out",
+        "detection_time": "2025-07-17T14:28:05.397740",
+        "dicom_context": {
+            "PatientID": "367697 SF",
+            "PatientName": "FORBES SHERRY-GAE",
+            "AccessionNumber": "CRHCT25 527",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.58737252971458813359108299542061524665",
+            "StudyDate": "20250717",
+            "StudyTime": "141748.000000",
+            "StudyDescription": "L-SPINE",
+            "ReferringPhysicianName": "STAFF CLINIC",
+            "StudyID": "CRHCT25 527",
+            "PatientSex": "F",
+            "PatientBirthDate": "19901003",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 15,
+        "last_search_time": "2025-07-17T18:18:52.957789"
+    },
+    "CRHCT25 528": {
+        "status": "timed_out",
+        "detection_time": "2025-07-17T15:18:47.822376",
+        "dicom_context": {
+            "PatientID": "224370 CR",
+            "PatientName": "ROSE CRYSTAL",
+            "AccessionNumber": "CRHCT25 528",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.15330285887565147898430698530473827726",
+            "StudyDate": "20250717",
+            "StudyTime": "142449.000000",
+            "StudyDescription": "HI-RES CHEST",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 528",
+            "PatientSex": "F",
+            "PatientBirthDate": "19860624",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 15,
+        "last_search_time": "2025-07-17T19:12:30.676549"
+    },
+    "CRHCT25 0529": {
+        "status": "completed",
+        "detection_time": "2025-07-17T15:36:05.905350",
+        "dicom_context": {
+            "PatientID": "707437 LC",
+            "PatientName": "CLARKE LEROY",
+            "AccessionNumber": "CRHCT25 0529",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.46434029529207860606039315960932424082",
+            "StudyDate": "20250717",
+            "StudyTime": "145421.000000",
+            "StudyDescription": "CTPA & NECK",
+            "ReferringPhysicianName": "B C",
+            "StudyID": "CRHCT25 0529",
+            "PatientSex": "M",
+            "PatientBirthDate": "19611022",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0530": {
+        "status": "completed",
+        "detection_time": "2025-07-17T15:36:06.014914",
+        "dicom_context": {
+            "PatientID": "540264 RB",
+            "PatientName": "BELL RONALDO",
+            "AccessionNumber": "CRHCT25 0530",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.12774721792219599806182812535101257249",
+            "StudyDate": "20250717",
+            "StudyTime": "152359.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "9E",
+            "StudyID": "CRHCT25 0530",
+            "PatientSex": "M",
+            "PatientBirthDate": "20110811",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 531": {
+        "status": "completed",
+        "detection_time": "2025-07-17T16:59:13.837157",
+        "dicom_context": {
+            "PatientID": "384517 KF",
+            "PatientName": "FERGUSON KEDISHA",
+            "AccessionNumber": "CRHCT25 531",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.82511908893298928871507969913142691029",
+            "StudyDate": "20250717",
+            "StudyTime": "161552.000000",
+            "StudyDescription": "BRAIN C+",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 531",
+            "PatientSex": "F",
+            "PatientBirthDate": "19851002",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 532": {
+        "status": "completed",
+        "detection_time": "2025-07-17T17:47:49.609711",
+        "dicom_context": {
+            "PatientID": "621468 LW",
+            "PatientName": "WHITTINGHAM LARRY",
+            "AccessionNumber": "CRHCT25 532",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.59825506006838928176921015735532679844",
+            "StudyDate": "20250717",
+            "StudyTime": "170604.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 532",
+            "PatientSex": "M",
+            "PatientBirthDate": "19590601",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0534": {
+        "status": "timed_out",
+        "detection_time": "2025-07-18T09:27:14.350554",
+        "dicom_context": {
+            "PatientID": "706448 DB",
+            "PatientName": "BECKFORD DUETON",
+            "AccessionNumber": "CRHCT25 0534",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.37399931982026458889525112245021400415",
+            "StudyDate": "20250718",
+            "StudyTime": "092052.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "10 WEST",
+            "StudyID": "CRHCT25 0534",
+            "PatientSex": "M",
+            "PatientBirthDate": "19731004",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 15,
+        "last_search_time": "2025-07-18T13:22:30.298507"
+    },
+    "CRHCT25 0535": {
+        "status": "completed",
+        "detection_time": "2025-07-18T10:01:25.874124",
+        "dicom_context": {
+            "PatientID": "064635 EB",
+            "PatientName": "BRISSETT EVANNE",
+            "AccessionNumber": "CRHCT25 0535",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.14369852841436998636645619292547444091",
+            "StudyDate": "20250718",
+            "StudyTime": "092936.000000",
+            "StudyDescription": "CTPA",
+            "ReferringPhysicianName": "A&E",
+            "StudyID": "CRHCT25 0535",
+            "PatientSex": "F",
+            "PatientBirthDate": "19470425",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0537": {
+        "status": "completed",
+        "detection_time": "2025-07-18T10:50:16.678676",
+        "dicom_context": {
+            "PatientID": "711235 DC",
+            "PatientName": "CHUNG DERRICK",
+            "AccessionNumber": "CRHCT25 0537",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.49148363315774103620639755195259976366",
+            "StudyDate": "20250718",
+            "StudyTime": "103436.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E INTRANSIT",
+            "StudyID": "CRHCT25 0537",
+            "PatientSex": "M",
+            "PatientBirthDate": "19450720",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0536": {
+        "status": "completed",
+        "detection_time": "2025-07-18T10:50:19.183048",
+        "dicom_context": {
+            "PatientID": "702090 NB",
+            "PatientName": "BLOOMFIELD NICHOLE",
+            "AccessionNumber": "CRHCT25 0536",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.474071774703924856178840188018803909",
+            "StudyDate": "20250718",
+            "StudyTime": "104054.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 0536",
+            "PatientSex": "F",
+            "PatientBirthDate": "20040502",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0538": {
+        "status": "completed",
+        "detection_time": "2025-07-18T10:58:30.098065",
+        "dicom_context": {
+            "PatientID": "392213 SA",
+            "PatientName": "ALLEN SIMONE",
+            "AccessionNumber": "CRHCT25 0538",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.75438106044531086619847678142863231087",
+            "StudyDate": "20250718",
+            "StudyTime": "104838.000000",
+            "StudyDescription": "LEFT WRIST",
+            "ReferringPhysicianName": "10 EAST",
+            "StudyID": "CRHCT25 0538",
+            "PatientSex": "F",
+            "PatientBirthDate": "19800119",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0539": {
+        "status": "completed",
+        "detection_time": "2025-07-18T11:04:24.695257",
+        "dicom_context": {
+            "PatientID": "683197 NC",
+            "PatientName": "COLEMAN NORMA",
+            "AccessionNumber": "CRHCT25 0539",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.35960659349095064181908879992835856255",
+            "StudyDate": "20250718",
+            "StudyTime": "105637.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 0539",
+            "PatientSex": "F",
+            "PatientBirthDate": "19740929",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0540": {
+        "status": "completed",
+        "detection_time": "2025-07-18T11:11:34.903471",
+        "dicom_context": {
+            "PatientID": "133444 DM",
+            "PatientName": "MORRIS DASLYN",
+            "AccessionNumber": "CRHCT25 0540",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.36313023939171730685711385540381474443",
+            "StudyDate": "20250718",
+            "StudyTime": "110633.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 0540",
+            "PatientSex": "F",
+            "PatientBirthDate": "19691202",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0541": {
+        "status": "completed",
+        "detection_time": "2025-07-18T11:44:56.331645",
+        "dicom_context": {
+            "PatientID": "509796 RD",
+            "PatientName": "DYER ROSEMARIE",
+            "AccessionNumber": "CRHCT25 0541",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.44431493643603287779988955318895519098",
+            "StudyDate": "20250718",
+            "StudyTime": "111050.000000",
+            "StudyDescription": "RT HIP",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 0541",
+            "PatientSex": "F",
+            "PatientBirthDate": "19610830",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT 0533": {
+        "status": "completed",
+        "detection_time": "2025-07-18T12:41:41.070028",
+        "dicom_context": {
+            "PatientID": "219543 MP",
+            "PatientName": "PETERKIN MARTIN",
+            "AccessionNumber": "CRHCT 0533",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.9757951134314491313126104402308431406",
+            "StudyDate": "20250718",
+            "StudyTime": "121549.000000",
+            "StudyDescription": "CAP",
+            "ReferringPhysicianName": "ONCOLOGY",
+            "StudyID": "CRHCT 0533",
+            "PatientSex": "M",
+            "PatientBirthDate": "19420923",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 543": {
+        "status": "completed",
+        "detection_time": "2025-07-18T12:58:09.415920",
+        "dicom_context": {
+            "PatientID": "039153 DJ",
+            "PatientName": "JOHNSON  DULCIE",
+            "AccessionNumber": "CRHCT25 543",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.88411445238788574230070882779760557503",
+            "StudyDate": "20250718",
+            "StudyTime": "125419.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 543",
+            "PatientSex": "F",
+            "PatientBirthDate": "19610109",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 542": {
+        "status": "timed_out",
+        "detection_time": "2025-07-18T13:06:24.019626",
+        "dicom_context": {
+            "PatientID": "NHH 054357 GR",
+            "PatientName": "REID GAURNETT",
+            "AccessionNumber": "CRHCT25 542",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.1747101052934474583219136906397699198",
+            "StudyDate": "20250718",
+            "StudyTime": "125842.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "NHH",
+            "StudyID": "CRHCT25 542",
+            "PatientSex": "M",
+            "PatientBirthDate": "19600616",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 14,
+        "last_search_time": "2025-07-18T16:59:30.292140"
+    },
+    "CRHCT25 544": {
+        "status": "completed",
+        "detection_time": "2025-07-18T13:18:18.473362",
+        "dicom_context": {
+            "PatientID": "410773 CG",
+            "PatientName": "GRANT CALVIN",
+            "AccessionNumber": "CRHCT25 544",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.85782240050902959079607635432039878909",
+            "StudyDate": "20250718",
+            "StudyTime": "130811.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 544",
+            "PatientSex": "M",
+            "PatientBirthDate": "19730704",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 545": {
+        "status": "completed",
+        "detection_time": "2025-07-18T13:24:13.523160",
+        "dicom_context": {
+            "PatientID": "044342 SC",
+            "PatientName": "CURTIS SYLVIA",
+            "AccessionNumber": "CRHCT25 545",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.63925123253671537944369822530749883198",
+            "StudyDate": "20250718",
+            "StudyTime": "132121.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 545",
+            "PatientSex": "F",
+            "PatientBirthDate": "19560220",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 546": {
+        "status": "completed",
+        "detection_time": "2025-07-18T14:12:44.668515",
+        "dicom_context": {
+            "PatientID": "273826 JS",
+            "PatientName": "SWABY JODI-ANNE",
+            "AccessionNumber": "CRHCT25 546",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.42326393334981042340666464639070407876",
+            "StudyDate": "20250718",
+            "StudyTime": "140857.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 546",
+            "PatientSex": "M",
+            "PatientBirthDate": "19870610",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 00547": {
+        "status": "completed",
+        "detection_time": "2025-07-18T17:41:26.926300",
+        "dicom_context": {
+            "PatientID": "267335 IF",
+            "PatientName": "FLETCHER INDIRA",
+            "AccessionNumber": "CRHCT25 00547",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.30859021994559762493777371493764050582",
+            "StudyDate": "20250718",
+            "StudyTime": "173352.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 00547",
+            "PatientSex": "F",
+            "PatientBirthDate": "19800529",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 00548": {
+        "status": "timed_out",
+        "detection_time": "2025-07-19T08:29:28.368698",
+        "dicom_context": {
+            "PatientID": "NYRCT25 0548 VG",
+            "PatientName": "GREEN VANESSA",
+            "AccessionNumber": "CRHCT25 00548",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.92199774621333736578882562834462127601",
+            "StudyDate": "20250719",
+            "StudyTime": "074838.000000",
+            "StudyDescription": "BRAIN   FACIAL",
+            "ReferringPhysicianName": "A E T1",
+            "StudyID": "CRHCT25 00548",
+            "PatientSex": "F",
+            "PatientBirthDate": "20000718",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-19T12:26:39.955707"
+    },
+    "CRHCT25 549": {
+        "status": "completed",
+        "detection_time": "2025-07-19T09:56:03.502770",
+        "dicom_context": {
+            "PatientID": "007901 AR",
+            "PatientName": "ROBINSON AMELIA",
+            "AccessionNumber": "CRHCT25 549",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.88995778135623620253933141784309134052",
+            "StudyDate": "20250719",
+            "StudyTime": "094913.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 549",
+            "PatientSex": "M",
+            "PatientBirthDate": "19440807",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 550": {
+        "status": "timed_out",
+        "detection_time": "2025-07-19T13:35:42.062820",
+        "dicom_context": {
+            "PatientID": "FPGH 262551 RJ",
+            "PatientName": "JACKSON ROUSHANE",
+            "AccessionNumber": "CRHCT25 550",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.67545398568505090132607584984594994908",
+            "StudyDate": "20250719",
+            "StudyTime": "132348.000000",
+            "StudyDescription": "CHEST",
+            "ReferringPhysicianName": "FPGH",
+            "StudyID": "CRHCT25 550",
+            "PatientSex": "M",
+            "PatientBirthDate": "20240703",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-19T17:31:15.943067"
+    },
+    "CRHCT25 551": {
+        "status": "completed",
+        "detection_time": "2025-07-19T15:34:33.848221",
+        "dicom_context": {
+            "PatientID": "711279 VG",
+            "PatientName": "GREEN VANESSA",
+            "AccessionNumber": "CRHCT25 551",
+            "StudyInstanceUID": "1.2.156.112605.137174099554275.250719195343.2.14084.19389",
+            "StudyDate": "20250719",
+            "StudyTime": "150405.000000",
+            "StudyDescription": "CT ABD PELVIS + C SPINE",
+            "ReferringPhysicianName": "",
+            "StudyID": "367",
+            "PatientSex": "F",
+            "PatientBirthDate": "20000718",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-19T19:13:34.032343"
+    },
+    "CRHCT25 552": {
+        "status": "completed",
+        "detection_time": "2025-07-19T23:17:06.000757",
+        "dicom_context": {
+            "PatientID": "648269 KL",
+            "PatientName": "LEWIS KRSYSANNA",
+            "AccessionNumber": "CRHCT25 552",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.29391673491486381982289101935124502104",
+            "StudyDate": "20250719",
+            "StudyTime": "224554.000000",
+            "StudyDescription": "BRAIN ORBIT",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 552",
+            "PatientSex": "F",
+            "PatientBirthDate": "19971107",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 553": {
+        "status": "completed",
+        "detection_time": "2025-07-20T10:52:22.820075",
+        "dicom_context": {
+            "PatientID": "303640 DP",
+            "PatientName": "PATTERSON DELTA",
+            "AccessionNumber": "CRHCT25 553",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.88579150021285555476199712953560803869",
+            "StudyDate": "20250720",
+            "StudyTime": "103819.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 553",
+            "PatientSex": "F",
+            "PatientBirthDate": "19690506",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 554": {
+        "status": "completed",
+        "detection_time": "2025-07-20T11:15:53.625432",
+        "dicom_context": {
+            "PatientID": "666880 SB",
+            "PatientName": "BROWN SASHA-KAY",
+            "AccessionNumber": "CRHCT25 554",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.38877257539179874152620707277686952813",
+            "StudyDate": "20250720",
+            "StudyTime": "110557.000000",
+            "StudyDescription": "CTPA",
+            "ReferringPhysicianName": "4E",
+            "StudyID": "CRHCT25 554",
+            "PatientSex": "F",
+            "PatientBirthDate": "20041105",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 555": {
+        "status": "timed_out",
+        "detection_time": "2025-07-20T16:23:55.067803",
+        "dicom_context": {
+            "PatientID": "027921 DL",
+            "PatientName": "LOUTON DARIUS",
+            "AccessionNumber": "CRHCT25 555",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.49720194453845419305682530632775734499",
+            "StudyDate": "20250720",
+            "StudyTime": "161221.000000",
+            "StudyDescription": "BRAIN, FACIAL BONES",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 555",
+            "PatientSex": "M",
+            "PatientBirthDate": "19900323",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 15,
+        "last_search_time": "2025-07-20T20:06:51.122329"
+    },
+    "CRHCT25 557": {
+        "status": "completed",
+        "detection_time": "2025-07-20T19:59:07.485801",
+        "dicom_context": {
+            "PatientID": "253370 JR",
+            "PatientName": "ROACHE JASON",
+            "AccessionNumber": "CRHCT25 557",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.34521402129365075312411334494429068620",
+            "StudyDate": "20250720",
+            "StudyTime": "192640.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 557",
+            "PatientSex": "M",
+            "PatientBirthDate": "19901128",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0556": {
+        "status": "completed",
+        "detection_time": "2025-07-20T20:07:11.436825",
+        "dicom_context": {
+            "PatientID": "040166 JM",
+            "PatientName": "MAINE JOY",
+            "AccessionNumber": "CRHCT25 0556",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.513149113265456824123755902147482945",
+            "StudyDate": "20250720",
+            "StudyTime": "191356.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 0556",
+            "PatientSex": "F",
+            "PatientBirthDate": "19590831",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0558": {
+        "status": "completed",
+        "detection_time": "2025-07-20T21:49:19.893727",
+        "dicom_context": {
+            "PatientID": "427959 MS",
+            "PatientName": "SMITH MAVIS",
+            "AccessionNumber": "CRHCT25 0558",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.96437317352779934646791581813718624395",
+            "StudyDate": "20250720",
+            "StudyTime": "214326.000000",
+            "StudyDescription": "ABDOMEN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 0558",
+            "PatientSex": "F",
+            "PatientBirthDate": "19341212",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 1
+    },
+    "CRHCT25 0559": {
+        "status": "timed_out",
+        "detection_time": "2025-07-21T06:58:45.117898",
+        "dicom_context": {
+            "PatientID": "321684 JT",
+            "PatientName": "THORPE JEROME",
+            "AccessionNumber": "CRHCT25 0559",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.43485750498790541048164292641641578036",
+            "StudyDate": "20250721",
+            "StudyTime": "062002.000000",
+            "StudyDescription": "PAN CT",
+            "ReferringPhysicianName": "A E - SURG",
+            "StudyID": "CRHCT25 0559",
+            "PatientSex": "M",
+            "PatientBirthDate": "20000520",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-21T10:49:44.468290"
+    },
+    "CRHCT25 0560": {
+        "status": "timed_out",
+        "detection_time": "2025-07-21T07:44:14.507044",
+        "dicom_context": {
+            "PatientID": "711283 WW",
+            "PatientName": "WILLIAMS WINFORD",
+            "AccessionNumber": "CRHCT25 0560",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.38813413529894256435776348207532109576",
+            "StudyDate": "20250721",
+            "StudyTime": "073103.000000",
+            "StudyDescription": "PULMONARY ANGIOGRAM",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 0560",
+            "PatientSex": "M",
+            "PatientBirthDate": "19581028",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-21T11:35:17.180903"
+    },
+    "CRHCT25 561": {
+        "status": "timed_out",
+        "detection_time": "2025-07-21T11:05:01.805450",
+        "dicom_context": {
+            "PatientID": "156718 GJ",
+            "PatientName": "JAMES GRACE",
+            "AccessionNumber": "CRHCT25 561",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.31141664759813868822601932632640492452",
+            "StudyDate": "20250721",
+            "StudyTime": "105327.000000",
+            "StudyDescription": "NECK C+",
+            "ReferringPhysicianName": "ENT",
+            "StudyID": "CRHCT25 561",
+            "PatientSex": "F",
+            "PatientBirthDate": "19640303",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-21T14:57:02.449966"
+    },
+    "CRHCT25 564": {
+        "status": "timed_out",
+        "detection_time": "2025-07-21T11:15:49.818954",
+        "dicom_context": {
+            "PatientID": "053637 BH",
+            "PatientName": "HILL BENTLEY",
+            "AccessionNumber": "CRHCT25 564",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.61532676228874486883813637232352105018",
+            "StudyDate": "20250721",
+            "StudyTime": "110749.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 564",
+            "PatientSex": "M",
+            "PatientBirthDate": "19610516",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-21T15:06:59.211894"
+    },
+    "CRHCT25 563": {
+        "status": "timed_out",
+        "detection_time": "2025-07-21T11:31:44.618025",
+        "dicom_context": {
+            "PatientID": "072302 AT",
+            "PatientName": "THOMAS AUDREY",
+            "AccessionNumber": "CRHCT25 563",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.13580589864093502618530178073603002865",
+            "StudyDate": "20250721",
+            "StudyTime": "111414.000000",
+            "StudyDescription": "CAP",
+            "ReferringPhysicianName": "RTD",
+            "StudyID": "CRHCT25 563",
+            "PatientSex": "F",
+            "PatientBirthDate": "19700311",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-21T15:24:21.820567"
+    },
+    "CRHCT25 562": {
+        "status": "timed_out",
+        "detection_time": "2025-07-21T11:58:42.745019",
+        "dicom_context": {
+            "PatientID": "036830 HL",
+            "PatientName": "LEE HAZEL",
+            "AccessionNumber": "CRHCT25 562",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.44837835380240808548979724336733751328",
+            "StudyDate": "20250721",
+            "StudyTime": "113951.000000",
+            "StudyDescription": "CAP",
+            "ReferringPhysicianName": "MOPD",
+            "StudyID": "CRHCT25 562",
+            "PatientSex": "F",
+            "PatientBirthDate": "19521115",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-21T15:50:29.137158"
+    },
+    "CRHCT25 565": {
+        "status": "timed_out",
+        "detection_time": "2025-07-21T12:04:10.382589",
+        "dicom_context": {
+            "PatientID": "583908 SB",
+            "PatientName": "BACHELOR SHAMAR",
+            "AccessionNumber": "CRHCT25 565",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.85267737878701196182553225170461317369",
+            "StudyDate": "20250721",
+            "StudyTime": "115644.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 565",
+            "PatientSex": "M",
+            "PatientBirthDate": "19990116",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-21T15:56:58.087279"
+    },
+    "CRHCT25 566": {
+        "status": "timed_out",
+        "detection_time": "2025-07-21T12:09:34.037120",
+        "dicom_context": {
+            "PatientID": "419590 EB",
+            "PatientName": "BROWN EVERTON",
+            "AccessionNumber": "CRHCT25 566",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.61096959581285877762904920008550486862",
+            "StudyDate": "20250721",
+            "StudyTime": "120222.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 566",
+            "PatientSex": "M",
+            "PatientBirthDate": "19690412",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-21T16:01:58.146782"
+    },
+    "CRHCT25 567": {
+        "status": "timed_out",
+        "detection_time": "2025-07-21T12:58:24.787734",
+        "dicom_context": {
+            "PatientID": "123056 MJ",
+            "PatientName": "JONES MAVIS",
+            "AccessionNumber": "CRHCT25 567",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.82462931914351805339718456184454144256",
+            "StudyDate": "20250721",
+            "StudyTime": "124832.000000",
+            "StudyDescription": "BRAIN C+",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 567",
+            "PatientSex": "F",
+            "PatientBirthDate": "19620701",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-21T16:53:08.633741"
+    },
+    "CRHCT25 568": {
+        "status": "timed_out",
+        "detection_time": "2025-07-21T13:58:24.761483",
+        "dicom_context": {
+            "PatientID": "441145 NS",
+            "PatientName": "STERLING NORMAN",
+            "AccessionNumber": "CRHCT25 568",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.94204136631933194581318563877879199833",
+            "StudyDate": "20250721",
+            "StudyTime": "134732.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 568",
+            "PatientSex": "M",
+            "PatientBirthDate": "19400308",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-21T17:53:30.536670"
+    },
+    "CRHCT25 569": {
+        "status": "timed_out",
+        "detection_time": "2025-07-21T15:14:53.237168",
+        "dicom_context": {
+            "PatientID": "347669 RS",
+            "PatientName": "SKEINE ROMIANE",
+            "AccessionNumber": "CRHCT25 569",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.47049587195144811629346183982689823177",
+            "StudyDate": "20250721",
+            "StudyTime": "150533.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 569",
+            "PatientSex": "M",
+            "PatientBirthDate": "20001024",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-21T19:03:42.524099"
+    },
+    "CRHCT25 570": {
+        "status": "timed_out",
+        "detection_time": "2025-07-21T15:52:57.931143",
+        "dicom_context": {
+            "PatientID": "694506 KG",
+            "PatientName": "GILZEEN KHELENA",
+            "AccessionNumber": "CRHCT25 570",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.11146227831204881516235383260507605610",
+            "StudyDate": "20250721",
+            "StudyTime": "154146.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 570",
+            "PatientSex": "F",
+            "PatientBirthDate": "20190922",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-21T19:44:00.953939"
+    },
+    "CRHCT25 0571": {
+        "status": "timed_out",
+        "detection_time": "2025-07-21T22:00:45.228566",
+        "dicom_context": {
+            "PatientID": "458900 TB",
+            "PatientName": "BIRCH TAHIRA",
+            "AccessionNumber": "CRHCT25 0571",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.9772484022567085367904311705170727148",
+            "StudyDate": "20250721",
+            "StudyTime": "215318.000000",
+            "StudyDescription": "ABDOMEN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 0571",
+            "PatientSex": "F",
+            "PatientBirthDate": "20061120",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-22T01:50:35.577036"
+    },
+    "CRHCT25 0572": {
+        "status": "timed_out",
+        "detection_time": "2025-07-21T22:24:52.753724",
+        "dicom_context": {
+            "PatientID": "282365",
+            "PatientName": "TUCKER DELROY",
+            "AccessionNumber": "CRHCT25 0572",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.1012742904431664111032126445581783806",
+            "StudyDate": "20250721",
+            "StudyTime": "221256.000000",
+            "StudyDescription": "ABDOMEN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 0572",
+            "PatientSex": "M",
+            "PatientBirthDate": "19480409",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-22T02:15:35.646211"
+    },
+    "CRHCT25 573": {
+        "status": "timed_out",
+        "detection_time": "2025-07-22T09:55:49.036196",
+        "dicom_context": {
+            "PatientID": "678286 MK",
+            "PatientName": "KERR MICHELLE",
+            "AccessionNumber": "CRHCT25 573",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.53803061062268033429825568930521602263",
+            "StudyDate": "20250722",
+            "StudyTime": "093736.000000",
+            "StudyDescription": "CAP",
+            "ReferringPhysicianName": "ONCOLOGY",
+            "StudyID": "CRHCT25 573",
+            "PatientSex": "F",
+            "PatientBirthDate": "19680629",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-22T13:45:56.378448"
+    },
+    "CRHCT25 574": {
+        "status": "timed_out",
+        "detection_time": "2025-07-22T11:06:48.125937",
+        "dicom_context": {
+            "PatientID": "163034 DW",
+            "PatientName": "WEDDERBURN DONNA",
+            "AccessionNumber": "CRHCT25 574",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.18736526216226636743174952028857921492",
+            "StudyDate": "20250722",
+            "StudyTime": "104945.000000",
+            "StudyDescription": "CAP",
+            "ReferringPhysicianName": "ONCOLOGY",
+            "StudyID": "CRHCT25 574",
+            "PatientSex": "F",
+            "PatientBirthDate": "19610101",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-22T14:55:56.944684"
+    },
+    "CRHCT25 576": {
+        "status": "timed_out",
+        "detection_time": "2025-07-22T11:46:33.726909",
+        "dicom_context": {
+            "PatientID": "460663 BW",
+            "PatientName": "WILLIAMS BEYON-KAYE",
+            "AccessionNumber": "CRHCT25 576",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.31542726070602814188234160351334463819",
+            "StudyDate": "20250722",
+            "StudyTime": "113753.000000",
+            "StudyDescription": "ABDOPEL",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 576",
+            "PatientSex": "F",
+            "PatientBirthDate": "20061221",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-22T15:35:57.249769"
+    },
+    "CRHCT25 577": {
+        "status": "timed_out",
+        "detection_time": "2025-07-22T12:07:25.542248",
+        "dicom_context": {
+            "PatientID": "011952 NC",
+            "PatientName": "CLARKE NICIOLA",
+            "AccessionNumber": "CRHCT25 577",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.62257511400778208945639401697831592121",
+            "StudyDate": "20250722",
+            "StudyTime": "114910.000000",
+            "StudyDescription": "C-SPINE",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 577",
+            "PatientSex": "F",
+            "PatientBirthDate": "19720630",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-22T15:55:57.394039"
+    },
+    "CRHCT25 579": {
+        "status": "timed_out",
+        "detection_time": "2025-07-22T12:11:49.208209",
+        "dicom_context": {
+            "PatientID": "654311 MD",
+            "PatientName": "DACOSTA MAKEDA",
+            "AccessionNumber": "CRHCT25 579",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.66787711396658794231509811122336336839",
+            "StudyDate": "20250722",
+            "StudyTime": "120010.000000",
+            "StudyDescription": "CTPA",
+            "ReferringPhysicianName": "4 WEST",
+            "StudyID": "CRHCT25 579",
+            "PatientSex": "F",
+            "PatientBirthDate": "19950326",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-22T16:00:57.435021"
+    },
+    "CRHCT25 575": {
+        "status": "timed_out",
+        "detection_time": "2025-07-22T13:05:24.543484",
+        "dicom_context": {
+            "PatientID": "077248 CF",
+            "PatientName": "FOSTER CLAUDETTE",
+            "AccessionNumber": "CRHCT25 575",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.94463911243386909538577804474210853827",
+            "StudyDate": "20250722",
+            "StudyTime": "121923.000000",
+            "StudyDescription": "CT CAP",
+            "ReferringPhysicianName": "ONCOLOGY",
+            "StudyID": "CRHCT25 575",
+            "PatientSex": "F",
+            "PatientBirthDate": "19761122",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-22T16:55:57.811357"
+    },
+    "CRHCT25 578": {
+        "status": "timed_out",
+        "detection_time": "2025-07-22T13:25:21.254785",
+        "dicom_context": {
+            "PatientID": "553772 CM",
+            "PatientName": "MILLER COURTNEY",
+            "AccessionNumber": "CRHCT25 578",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.71996815816138262460439162303324244974",
+            "StudyDate": "20250722",
+            "StudyTime": "131112.000000",
+            "StudyDescription": "TEMPORAL BONES",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 578",
+            "PatientSex": "M",
+            "PatientBirthDate": "19590921",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-22T17:15:57.953246"
+    },
+    "CRHCT25 580": {
+        "status": "timed_out",
+        "detection_time": "2025-07-22T14:03:28.709779",
+        "dicom_context": {
+            "PatientID": "390742 JR",
+            "PatientName": "REID JAVAUGHN",
+            "AccessionNumber": "CRHCT25 580",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.30706029897923881524628087791690715443",
+            "StudyDate": "20250722",
+            "StudyTime": "134828.000000",
+            "StudyDescription": "BRAIN, C-SPINE",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 580",
+            "PatientSex": "M",
+            "PatientBirthDate": "19971023",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-22T17:50:58.126714"
+    },
+    "CRHCT25 581": {
+        "status": "timed_out",
+        "detection_time": "2025-07-22T16:03:52.677821",
+        "dicom_context": {
+            "PatientID": "711274 MW",
+            "PatientName": "WILLIAMS MARLANDO",
+            "AccessionNumber": "CRHCT25 581",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.85569130430736079712014850613129637271",
+            "StudyDate": "20250722",
+            "StudyTime": "155400.000000",
+            "StudyDescription": "HIP",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 581",
+            "PatientSex": "M",
+            "PatientBirthDate": "19840923",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-22T19:53:49.736637"
+    },
+    "CRHCT25 0582": {
+        "status": "timed_out",
+        "detection_time": "2025-07-22T16:54:11.241868",
+        "dicom_context": {
+            "PatientID": "557942 NH",
+            "PatientName": "HARTY NOEL",
+            "AccessionNumber": "CRHCT25 0582",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.37978116833650947911004902527081251321",
+            "StudyDate": "20250722",
+            "StudyTime": "164205.000000",
+            "StudyDescription": "PULMONARY ANGIOGRAM",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 0582",
+            "PatientSex": "M",
+            "PatientBirthDate": "19701225",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-22T20:44:17.741055"
+    },
+    "CRHCT25 583": {
+        "status": "timed_out",
+        "detection_time": "2025-07-22T17:47:20.823293",
+        "dicom_context": {
+            "PatientID": "546137 GW",
+            "PatientName": "WATSON GODFREY",
+            "AccessionNumber": "CRHCT25 583",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.5219168420007400174870546098360620096",
+            "StudyDate": "20250722",
+            "StudyTime": "171157.000000",
+            "StudyDescription": "CT CAP",
+            "ReferringPhysicianName": "HAEM ONC",
+            "StudyID": "CRHCT25 583",
+            "PatientSex": "M",
+            "PatientBirthDate": "19630313",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-22T21:39:17.923887"
+    },
+    "CRHCT25 584": {
+        "status": "timed_out",
+        "detection_time": "2025-07-22T17:47:21.189924",
+        "dicom_context": {
+            "PatientID": "205374 MM",
+            "PatientName": "MULLINGS MONICA",
+            "AccessionNumber": "CRHCT25 584",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.58748198784243126425896447369835774048",
+            "StudyDate": "20250722",
+            "StudyTime": "174139.000000",
+            "StudyDescription": "CT BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 584",
+            "PatientSex": "F",
+            "PatientBirthDate": "19890207",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-22T21:39:17.923887"
+    },
+    "CRHCT25 585": {
+        "status": "timed_out",
+        "detection_time": "2025-07-23T09:41:35.106615",
+        "dicom_context": {
+            "PatientID": "547947 MS",
+            "PatientName": "SHARPE MELBOURNE",
+            "AccessionNumber": "CRHCT25 585",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.7943475976500351966564497027063265628",
+            "StudyDate": "20250723",
+            "StudyTime": "091432.000000",
+            "StudyDescription": "CT BRAIN & FACIAL BONES",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 585",
+            "PatientSex": "M",
+            "PatientBirthDate": "19260726",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-23T13:34:08.060620"
+    },
+    "CRHCT25 586": {
+        "status": "timed_out",
+        "detection_time": "2025-07-23T09:41:35.467459",
+        "dicom_context": {
+            "PatientID": "323385 DM",
+            "PatientName": "MILLER DAVID",
+            "AccessionNumber": "CRHCT25 586",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.67505012333489982854215258239387473179",
+            "StudyDate": "20250723",
+            "StudyTime": "092459.000000",
+            "StudyDescription": "KUB",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 586",
+            "PatientSex": "M",
+            "PatientBirthDate": "19670209",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-23T13:34:08.060620"
+    },
+    "CRHCT25 587": {
+        "status": "timed_out",
+        "detection_time": "2025-07-23T10:39:55.758534",
+        "dicom_context": {
+            "PatientID": "111099 BS",
+            "PatientName": "SCOTT BRENDA",
+            "AccessionNumber": "CRHCT25 587",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.949225925461123738157035564267129188",
+            "StudyDate": "20250723",
+            "StudyTime": "095944.000000",
+            "StudyDescription": "BRAIN+CAP",
+            "ReferringPhysicianName": "ONCOLOGY",
+            "StudyID": "CRHCT25 587",
+            "PatientSex": "F",
+            "PatientBirthDate": "19520414",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-23T14:29:45.839154"
+    },
+    "CRHCT25 589": {
+        "status": "timed_out",
+        "detection_time": "2025-07-23T10:44:19.710065",
+        "dicom_context": {
+            "PatientID": "489599 KT",
+            "PatientName": "TOMLINSON KEVERN",
+            "AccessionNumber": "CRHCT25 589",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.10955257098928069268655507005114392780",
+            "StudyDate": "20250723",
+            "StudyTime": "102112.000000",
+            "StudyDescription": "CAP",
+            "ReferringPhysicianName": "SOPD  C",
+            "StudyID": "CRHCT25 589",
+            "PatientSex": "M",
+            "PatientBirthDate": "19790408",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-23T14:34:45.902888"
+    },
+    "CRHCT25 590": {
+        "status": "timed_out",
+        "detection_time": "2025-07-23T10:58:22.339489",
+        "dicom_context": {
+            "PatientID": "628433",
+            "PatientName": "ROBINSON RITANNIA",
+            "AccessionNumber": "CRHCT25 590",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.43571410376789123940049775751119559854",
+            "StudyDate": "20250723",
+            "StudyTime": "104920.000000",
+            "StudyDescription": "CT BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 590",
+            "PatientSex": "F",
+            "PatientBirthDate": "20170919",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-23T14:49:54.846131"
+    },
+    "CRHCT25 588": {
+        "status": "timed_out",
+        "detection_time": "2025-07-23T11:37:39.871346",
+        "dicom_context": {
+            "PatientID": "239015 HR",
+            "PatientName": "RUSSELL HYACINTH",
+            "AccessionNumber": "CRHCT25 588",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.26353725112211310397508654941533377338",
+            "StudyDate": "20250723",
+            "StudyTime": "111116.000000",
+            "StudyDescription": "NECK,CAP",
+            "ReferringPhysicianName": "ENT",
+            "StudyID": "CRHCT25 588",
+            "PatientSex": "F",
+            "PatientBirthDate": "19650311",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-23T15:30:35.708544"
+    },
+    "CRHCT25 591": {
+        "status": "timed_out",
+        "detection_time": "2025-07-23T12:57:27.197784",
+        "dicom_context": {
+            "PatientID": "242335 LM",
+            "PatientName": "MURRAY LINDA",
+            "AccessionNumber": "CRHCT25 591",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.46585927119223934760549182932166358",
+            "StudyDate": "20250723",
+            "StudyTime": "122344.000000",
+            "StudyDescription": "CT BRAIN",
+            "ReferringPhysicianName": "AET2",
+            "StudyID": "CRHCT25 591",
+            "PatientSex": "F",
+            "PatientBirthDate": "19890207",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-23T16:45:36.233681"
+    },
+    "CRHCT25 592": {
+        "status": "timed_out",
+        "detection_time": "2025-07-23T12:57:27.617556",
+        "dicom_context": {
+            "PatientID": "711251 B O JJ",
+            "PatientName": "JOSEPHS B O JAHNEL",
+            "AccessionNumber": "CRHCT25 592",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.10614582923886482979397322057660900804",
+            "StudyDate": "20250723",
+            "StudyTime": "124906.000000",
+            "StudyDescription": "PNS",
+            "ReferringPhysicianName": "SCN",
+            "StudyID": "CRHCT25 592",
+            "PatientSex": "M",
+            "PatientBirthDate": "20250717",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-23T16:45:36.233681"
+    },
+    "CRHCT25 276": {
+        "status": "timed_out",
+        "detection_time": "2025-07-23T15:04:50.564332",
+        "dicom_context": {
+            "PatientID": "486449 DJ",
+            "PatientName": "JACKSON DEXTER",
+            "AccessionNumber": "CRHCT25 276",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.42519343421421044903200513345391163798",
+            "StudyDate": "20250625",
+            "StudyTime": "140542.000000",
+            "StudyDescription": "HEAD,NECK,CHEST,ABD",
+            "ReferringPhysicianName": "ONC",
+            "StudyID": "CRHCT25 276",
+            "PatientSex": "M",
+            "PatientBirthDate": "19480429",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-23T18:55:37.367703"
+    },
+    "CRHCT25 0593": {
+        "status": "timed_out",
+        "detection_time": "2025-07-23T15:39:20.535854",
+        "dicom_context": {
+            "PatientID": "212650 VT",
+            "PatientName": "TOMLINSON VINCENT",
+            "AccessionNumber": "CRHCT25 0593",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.9488673369834866258244826582609477532",
+            "StudyDate": "20250723",
+            "StudyTime": "153202.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A&E",
+            "StudyID": "CRHCT25 0593",
+            "PatientSex": "M",
+            "PatientBirthDate": "19470220",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-23T19:26:25.252894"
+    },
+    "CRHCT25 0595": {
+        "status": "timed_out",
+        "detection_time": "2025-07-23T16:02:44.870571",
+        "dicom_context": {
+            "PatientID": "444166 TH",
+            "PatientName": "HERBERT TIANNA",
+            "AccessionNumber": "CRHCT25 0595",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.18892070818353505240114108910947379724",
+            "StudyDate": "20250723",
+            "StudyTime": "154459.000000",
+            "StudyDescription": "BRAIN , C-SPINE",
+            "ReferringPhysicianName": "A&E",
+            "StudyID": "CRHCT25 0595",
+            "PatientSex": "F",
+            "PatientBirthDate": "20010713",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-23T19:52:10.816333"
+    },
+    "CRHCT25 0596": {
+        "status": "timed_out",
+        "detection_time": "2025-07-23T16:02:45.164361",
+        "dicom_context": {
+            "PatientID": "419812 AS",
+            "PatientName": "STEELE AUBREY",
+            "AccessionNumber": "CRHCT25 0596",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.15898495906600020812495662526324675543",
+            "StudyDate": "20250723",
+            "StudyTime": "155135.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A&E",
+            "StudyID": "CRHCT25 0596",
+            "PatientSex": "M",
+            "PatientBirthDate": "19430608",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-23T19:52:10.816333"
+    },
+    "CRHCT25 0597": {
+        "status": "timed_out",
+        "detection_time": "2025-07-23T16:12:55.859057",
+        "dicom_context": {
+            "PatientID": "711372 GL",
+            "PatientName": "LEE GEORGE",
+            "AccessionNumber": "CRHCT25 0597",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.36581983025635035160614362423797954781",
+            "StudyDate": "20250723",
+            "StudyTime": "155518.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A&E",
+            "StudyID": "CRHCT25 0597",
+            "PatientSex": "M",
+            "PatientBirthDate": "19411003",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-23T20:02:28.397263"
+    },
+    "CRHCT25 0594": {
+        "status": "timed_out",
+        "detection_time": "2025-07-23T16:12:56.269415",
+        "dicom_context": {
+            "PatientID": "698818 SB",
+            "PatientName": "BLAKE SARA",
+            "AccessionNumber": "CRHCT25 0594",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.62016532364881660409456291107922137468",
+            "StudyDate": "20250723",
+            "StudyTime": "160010.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A&E",
+            "StudyID": "CRHCT25 0594",
+            "PatientSex": "F",
+            "PatientBirthDate": "20240412",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-23T20:02:28.397263"
+    },
+    "CRHCT25 0598": {
+        "status": "timed_out",
+        "detection_time": "2025-07-23T16:27:02.347330",
+        "dicom_context": {
+            "PatientID": "347669 RS",
+            "PatientName": "SKEINE ROMAINE",
+            "AccessionNumber": "CRHCT25 0598",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.88450207449367692084461813558832731801",
+            "StudyDate": "20250723",
+            "StudyTime": "160956.000000",
+            "StudyDescription": "BRAIN VENOGRAM",
+            "ReferringPhysicianName": "A&E",
+            "StudyID": "CRHCT25 0598",
+            "PatientSex": "M",
+            "PatientBirthDate": "20001024",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-23T20:17:55.576709"
+    },
+    "CRHCT25 0599": {
+        "status": "timed_out",
+        "detection_time": "2025-07-23T17:12:28.934669",
+        "dicom_context": {
+            "PatientID": "478878 VA",
+            "PatientName": "ALLEN VINCENT",
+            "AccessionNumber": "CRHCT25 0599",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.78950535144476923923735938774520485827",
+            "StudyDate": "20250723",
+            "StudyTime": "170326.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A&E",
+            "StudyID": "CRHCT25 0599",
+            "PatientSex": "M",
+            "PatientBirthDate": "19290209",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 16,
+        "last_search_time": "2025-07-23T21:04:15.224467"
+    },
+    "CRHCT25 0600": {
+        "status": "timed_out",
+        "detection_time": "2025-07-24T00:42:40.035097",
+        "dicom_context": {
+            "PatientID": "457395 DN",
+            "PatientName": "NELSON DAVAINE",
+            "AccessionNumber": "CRHCT25 0600",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.49355819649968835121964989588366626273",
+            "StudyDate": "20250724",
+            "StudyTime": "000957.000000",
+            "StudyDescription": "BRAIN,C-SPINE,CAP",
+            "ReferringPhysicianName": "A&E",
+            "StudyID": "CRHCT25 0600",
+            "PatientSex": "M",
+            "PatientBirthDate": "20030923",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 14,
+        "last_search_time": "2025-07-24T04:39:08.575825"
+    },
+    "CRHCT25 0603": {
+        "status": "timed_out",
+        "detection_time": "2025-07-24T10:03:45.233918",
+        "dicom_context": {
+            "PatientID": "508368",
+            "PatientName": "TENNANT KEITH",
+            "AccessionNumber": "CRHCT25 0603",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.34185831209114415672316115484967381693",
+            "StudyDate": "20250724",
+            "StudyTime": "094858.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "MOPD",
+            "StudyID": "CRHCT25 0603",
+            "PatientSex": "M",
+            "PatientBirthDate": "19471224",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 15,
+        "last_search_time": "2025-07-24T13:52:57.148213"
+    },
+    "CRHCT25 0604": {
+        "status": "timed_out",
+        "detection_time": "2025-07-24T10:03:45.686659",
+        "dicom_context": {
+            "PatientID": "667622 OL",
+            "PatientName": "LAWRENCE OSHANE",
+            "AccessionNumber": "CRHCT25 0604",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.18273508245829100078405498046106438646",
+            "StudyDate": "20250724",
+            "StudyTime": "091350.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "9E",
+            "StudyID": "CRHCT25 0604",
+            "PatientSex": "M",
+            "PatientBirthDate": "19940108",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 15,
+        "last_search_time": "2025-07-24T13:52:57.148213"
+    },
+    "CRHCT25 0602": {
+        "status": "timed_out",
+        "detection_time": "2025-07-24T10:44:32.258755",
+        "dicom_context": {
+            "PatientID": "189926 MB",
+            "PatientName": "BOWLIN MAISELIN",
+            "AccessionNumber": "CRHCT25 0602",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.91525235372207113693569059652575305712",
+            "StudyDate": "20250724",
+            "StudyTime": "101831.000000",
+            "StudyDescription": "CT CAP",
+            "ReferringPhysicianName": "ONCOLOGY",
+            "StudyID": "CRHCT25 0602",
+            "PatientSex": "F",
+            "PatientBirthDate": "19650701",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 15,
+        "last_search_time": "2025-07-24T14:33:48.150709"
+    },
+    "CRHCT25 0605": {
+        "status": "timed_out",
+        "detection_time": "2025-07-24T10:46:45.163790",
+        "dicom_context": {
+            "PatientID": "492010 LM",
+            "PatientName": "MCDONALD LAWRENCE",
+            "AccessionNumber": "CRHCT25 0605",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.62226129728629261409883231112071802254",
+            "StudyDate": "20250724",
+            "StudyTime": "095908.000000",
+            "StudyDescription": "KUB",
+            "ReferringPhysicianName": "UOPD",
+            "StudyID": "CRHCT25 0605",
+            "PatientSex": "M",
+            "PatientBirthDate": "19580310",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 15,
+        "last_search_time": "2025-07-24T14:36:38.605028"
+    },
+    "CRHCT25 0608": {
+        "status": "timed_out",
+        "detection_time": "2025-07-24T11:46:01.454184",
+        "dicom_context": {
+            "PatientID": "188400 CP",
+            "PatientName": "PALMER CORRINE",
+            "AccessionNumber": "CRHCT25 0608",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.42165518557413578037658989424964431242",
+            "StudyDate": "20250724",
+            "StudyTime": "112232.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 0608",
+            "PatientSex": "F",
+            "PatientBirthDate": "19710706",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 15,
+        "last_search_time": "2025-07-24T15:34:59.517247"
+    },
+    "CRHCT25 0606": {
+        "status": "timed_out",
+        "detection_time": "2025-07-24T11:56:21.909187",
+        "dicom_context": {
+            "PatientID": "283627 AV",
+            "PatientName": "VASICANNA ANDREW",
+            "AccessionNumber": "CRHCT25 0606",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.94508905289157737780968124909410672240",
+            "StudyDate": "20250724",
+            "StudyTime": "112942.000000",
+            "StudyDescription": "CT CAP",
+            "ReferringPhysicianName": "NSOPD",
+            "StudyID": "CRHCT25 0606",
+            "PatientSex": "M",
+            "PatientBirthDate": "19730613",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 15,
+        "last_search_time": "2025-07-24T15:46:19.387584"
+    },
+    "CRHCT25 0607": {
+        "status": "timed_out",
+        "detection_time": "2025-07-24T13:46:39.149848",
+        "dicom_context": {
+            "PatientID": "151785 SB",
+            "PatientName": "BECKFORD STEPHEN",
+            "AccessionNumber": "CRHCT25 0607",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.28571708961523032061262415205982043794",
+            "StudyDate": "20250724",
+            "StudyTime": "104730.000000",
+            "StudyDescription": "CAP",
+            "ReferringPhysicianName": "ONCOLOGY",
+            "StudyID": "CRHCT25 0607",
+            "PatientSex": "M",
+            "PatientBirthDate": "19701119",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 15,
+        "last_search_time": "2025-07-24T17:37:59.977238"
+    },
+    "CRHCT25 0601": {
+        "status": "timed_out",
+        "detection_time": "2025-07-24T13:53:17.707855",
+        "dicom_context": {
+            "PatientID": "496095 MW",
+            "PatientName": "WILSON MARVIN",
+            "AccessionNumber": "CRHCT25 0601",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.66795429331883373316486664838965638320",
+            "StudyDate": "20250724",
+            "StudyTime": "115055.000000",
+            "StudyDescription": "ABDOMEN+PELVIS",
+            "ReferringPhysicianName": "RTD",
+            "StudyID": "CRHCT25 0601",
+            "PatientSex": "M",
+            "PatientBirthDate": "19810930",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 14,
+        "last_search_time": "2025-07-24T17:37:59.977238"
+    },
+    "CRHCT25 611": {
+        "status": "timed_out",
+        "detection_time": "2025-07-24T13:53:17.827835",
+        "dicom_context": {
+            "PatientID": "439404 MG",
+            "PatientName": "GORDON MAISIE",
+            "AccessionNumber": "CRHCT25 611",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.54048770082540423378540503853725049211",
+            "StudyDate": "20250724",
+            "StudyTime": "130050.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A&E",
+            "StudyID": "CRHCT25 611",
+            "PatientSex": "F",
+            "PatientBirthDate": "19480915",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 14,
+        "last_search_time": "2025-07-24T17:37:59.977238"
+    },
+    "CRHCT25 609": {
+        "status": "timed_out",
+        "detection_time": "2025-07-24T14:07:52.382609",
+        "dicom_context": {
+            "PatientID": "667895 HE",
+            "PatientName": "EVANS HUGH",
+            "AccessionNumber": "CRHCT25 609",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.28986880829684469786073278692210751469",
+            "StudyDate": "20250724",
+            "StudyTime": "123853.000000",
+            "StudyDescription": "CHEST",
+            "ReferringPhysicianName": "A&E",
+            "StudyID": "CRHCT25 609",
+            "PatientSex": "M",
+            "PatientBirthDate": "19520903",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 13,
+        "last_search_time": "2025-07-24T17:37:59.977238"
+    },
+    "CRHCT25 610": {
+        "status": "timed_out",
+        "detection_time": "2025-07-24T14:10:04.344217",
+        "dicom_context": {
+            "PatientID": "711215 ST",
+            "PatientName": "THOMPSON SIMONE",
+            "AccessionNumber": "CRHCT25 610",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.98781891155507537009188750226634494916",
+            "StudyDate": "20250724",
+            "StudyTime": "131054.000000",
+            "StudyDescription": "NECK",
+            "ReferringPhysicianName": "7E",
+            "StudyID": "CRHCT25 610",
+            "PatientSex": "F",
+            "PatientBirthDate": "19831017",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 13,
+        "last_search_time": "2025-07-24T17:37:59.977238"
+    },
+    "CRHCT25 613": {
+        "status": "timed_out",
+        "detection_time": "2025-07-24T14:20:09.689518",
+        "dicom_context": {
+            "PatientID": "711389 AW",
+            "PatientName": "WATT ANTHONY",
+            "AccessionNumber": "CRHCT25 613",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.4598014195497169216529019577929747993",
+            "StudyDate": "20250724",
+            "StudyTime": "141028.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A&E",
+            "StudyID": "CRHCT25 613",
+            "PatientSex": "M",
+            "PatientBirthDate": "20221220",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 13,
+        "last_search_time": "2025-07-24T17:37:59.977238"
+    },
+    "CRHCT25 612": {
+        "status": "timed_out",
+        "detection_time": "2025-07-24T14:27:19.703873",
+        "dicom_context": {
+            "PatientID": "094552 SW",
+            "PatientName": "WALLACE SIMONE",
+            "AccessionNumber": "CRHCT25 612",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.67946762818965396934995314804466559663",
+            "StudyDate": "20250724",
+            "StudyTime": "142207.000000",
+            "StudyDescription": "BRAIN",
+            "ReferringPhysicianName": "A&E",
+            "StudyID": "CRHCT25 612",
+            "PatientSex": "F",
+            "PatientBirthDate": "19801028",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 12,
+        "last_search_time": "2025-07-24T17:37:59.977238"
+    },
+    "CRHCT25 614": {
+        "status": "searching",
+        "detection_time": "2025-07-24T15:16:49.410518",
+        "dicom_context": {
+            "PatientID": "794694 JB",
+            "PatientName": "BROWN JEREMIAH",
+            "AccessionNumber": "CRHCT25 614",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.7285968724765704782319217639656017567",
+            "StudyDate": "20250724",
+            "StudyTime": "143942.000000",
+            "StudyDescription": "ABDOMEN PELVIS",
+            "ReferringPhysicianName": "BLOCK C",
+            "StudyID": "CRHCT25 614",
+            "PatientSex": "M",
+            "PatientBirthDate": "19620317",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 10,
+        "last_search_time": "2025-07-24T18:32:08.276368"
+    },
+    "CRHCT25 615": {
+        "status": "searching",
+        "detection_time": "2025-07-24T16:38:19.764965",
+        "dicom_context": {
+            "PatientID": "503245 GH",
+            "PatientName": "HUIE GIPTON",
+            "AccessionNumber": "CRHCT25 615",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.84184155750818483673555331723158508177",
+            "StudyDate": "20250724",
+            "StudyTime": "151458.000000",
+            "StudyDescription": "NECK,CAP",
+            "ReferringPhysicianName": "BLOCKC",
+            "StudyID": "CRHCT25 615",
+            "PatientSex": "M",
+            "PatientBirthDate": "19521005",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 5,
+        "last_search_time": "2025-07-24T18:32:08.276368"
+    },
+    "CRHCT25 616": {
+        "status": "searching",
+        "detection_time": "2025-07-24T16:41:36.459349",
+        "dicom_context": {
+            "PatientID": "180431 RC",
+            "PatientName": "CLARKE ROSE",
+            "AccessionNumber": "CRHCT25 616",
+            "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.29363104646188278893957299728874616202",
+            "StudyDate": "20250724",
+            "StudyTime": "155508.000000",
+            "StudyDescription": "CTPA",
+            "ReferringPhysicianName": "A E",
+            "StudyID": "CRHCT25 616",
+            "PatientSex": "F",
+            "PatientBirthDate": "19730701",
+            "Modality": "",
+            "RequestingPhysician": ""
+        },
+        "search_attempts": 5,
+        "last_search_time": "2025-07-24T18:32:08.276368"
+    }
+}

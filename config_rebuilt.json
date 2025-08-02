@@ -1,0 +1,28 @@
+{
+    "PACS_IP": "10.0.0.100",
+    "PACS_PORT": 11112,
+    "PACS_AE_TITLE": "PACS_AE",
+    "LOCAL_AE_TITLE": "CT_TRACKER",
+    "SIGNED_REPORT_FOLDERS": [
+        "C:\\Reports\\Signed"
+    ],
+    "APPROVAL_CARD_FOLDERS": [
+        "C:\\Requests\\Pending"
+    ],
+    "PACS_POLL_INTERVAL_SECONDS": 300,
+    "NOTIFICATION_SETTINGS": {
+        "ENABLED": false,
+        "SMTP_SERVER": "smtp.gmail.com",
+        "SMTP_PORT": 587,
+        "SMTP_USER": "your_email@gmail.com",
+        "SMTP_PASSWORD": "your_gmail_app_password",
+        "SMTP_USE_TLS": true,
+        "SENDER_EMAIL": "your_email@gmail.com",
+        "RECIPIENT_EMAILS": [
+            "radiologist1@example.com",
+            "radiologist2@example.com"
+        ],
+        "IMMEDIATE_CHECK_DELAY_MINUTES": 5,
+        "BATCH_INTERVAL_HOURS": 1
+    }
+}

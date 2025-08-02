@@ -1,0 +1,860 @@
+[
+    {
+        "question": "A 1-year-old child presents with a limp after a fall. The parents are very anxious. The physical exam is reassuring with no obvious deformity. What is the most appropriate initial step?",
+        "options": [
+            "A) Order a CT scan of the leg to rule out a hairline fracture with maximum sensitivity.",
+            "B) Send the patient for an urgent MRI to evaluate for potential soft tissue or ligamentous injury.",
+            "C) Perform an X-ray of the affected leg, including the joints above and below.",
+            "D) Reassure the parents and recommend observation, as this is likely a minor sprain that will resolve on its own."
+        ],
+        "answer": "C) Perform an X-ray of the affected leg, including the joints above and below.",
+        "explanation": "Correct. While many minor injuries in toddlers resolve, a limp warrants a basic X-ray to rule out a subtle fracture (like a toddler's fracture of the tibia). It is a low-cost, low-radiation study that provides definitive information and reassurance. CT/MRI are not indicated as first-line tests for this presentation."
+    },
+    {
+        "question": "A 2-year-old child is suspected of aspirating a small plastic toy. The initial chest X-ray is inconclusive. What specialized X-ray view can help diagnose airway obstruction?",
+        "options": [
+            "A) Bilateral lateral decubitus views.",
+            "B) A high-resolution apical view to better penetrate the upper airways.",
+            "C) A lordotic view to assess the lung apices, where small objects often lodge.",
+            "D) An oblique view to separate the main bronchi from the spine."
+        ],
+        "answer": "A) Bilateral lateral decubitus views.",
+        "explanation": "Correct. On decubitus views, the dependent lung should normally deflate due to gravity. If a foreign body is causing air-trapping, the dependent lung will remain hyperinflated. This is a classic, low-radiation technique for this scenario."
+    },
+    {
+        "question": "A 22-year-old female presents to the emergency department with non-specific, mild lower abdominal pain. Blood tests are normal. What is the justification for preferring ultrasound over an immediate CT scan?",
+        "options": [
+            "A) Ultrasound is faster and can definitively visualize the appendix and ureters better than CT in all cases.",
+            "B) To avoid significant radiation dose to the ovaries in a young patient when a lower-dose alternative can effectively evaluate the pelvic organs.",
+            "C) CT scans are generally unable to diagnose common gynaecological issues like ovarian cysts.",
+            "D) It is a mandatory department policy to perform a pre-scan ultrasound before any CT is performed, regardless of indication."
+        ],
+        "answer": "B) To avoid significant radiation dose to the ovaries in a young patient when a lower-dose alternative can effectively evaluate the pelvic organs.",
+        "explanation": "Correct. Protecting the gonads from unnecessary radiation is a key principle, especially in young patients. Since ultrasound provides excellent visualization of the pelvic organs (uterus, ovaries) without any radiation, it is the strongly preferred first-line modality."
+    },
+    {
+        "question": "A 25-year-old female presents with signs of a first-time kidney stone, including severe flank pain and hematuria. What is the most appropriate and resource-conscious first imaging test?",
+        "options": [
+            "A) A formal CT urogram with and without contrast to fully characterize the stone and renal function.",
+            "B) An urgent MRI of the abdomen and pelvis to avoid all radiation while assessing for obstruction.",
+            "C) An ultrasound of the kidneys and bladder.",
+            "D) A plain abdominal X-ray (KUB) to directly visualize the calcified stone."
+        ],
+        "answer": "C) An ultrasound of the kidneys and bladder.",
+        "explanation": "Correct. Ultrasound can readily detect hydronephrosis (swelling of the kidney), which is the key secondary sign of an obstructing stone. It also avoids radiation in a young patient. While a non-contrast CT is more sensitive for the stone itself, ultrasound is an excellent, low-cost, and radiation-free first step."
+    },
+    {
+        "question": "A 28-year-old female who is 20 weeks pregnant presents with flank pain, query renal colic. What is the most appropriate first-line imaging modality to investigate this?",
+        "options": [
+            "A) An ultrasound of the kidneys.",
+            "B) A low-dose non-contrast CT KUB, as the fetal risk is negligible after the first trimester.",
+            "C) A plain X-ray of the abdomen (KUB), which has a very low radiation dose.",
+            "D) An MRI of the abdomen without contrast, as it is the most sensitive non-radiation test."
+        ],
+        "answer": "A) An ultrasound of the kidneys.",
+        "explanation": "Correct. Ultrasound is the primary imaging modality for this scenario as it completely avoids ionizing radiation to the fetus. It can effectively assess for hydronephrosis, the main sign of an obstructing stone. MRI or low-dose CT are reserved for equivocal cases where the diagnosis remains unclear."
+    },
+    {
+        "question": "A 30-year-old female who is 15 weeks pregnant needs a scan for suspected PE. What is the department's stance on performing a CTPA?",
+        "options": [
+            "A) The scan can proceed after a risk/benefit discussion with the radiologist.",
+            "B) CT is absolutely contraindicated in all trimesters of pregnancy due to fetal radiation risk.",
+            "C) An ultrasound of the chest should be done first to look for lung consolidation.",
+            "D) A V/Q scan must always be performed first as it carries zero risk to the mother or fetus."
+        ],
+        "answer": "A) The scan can proceed after a risk/benefit discussion with the radiologist.",
+        "explanation": "Correct. An untreated PE is life-threatening to the mother. A CTPA is often the best diagnostic test. The decision is made jointly between the clinical team and the radiologist, weighing the small radiation risk against the major risk of a missed PE."
+    },
+    {
+        "question": "A 4-year-old falls from a chair and has a large bump on their forehead but is otherwise acting normally. What is the appropriate imaging recommendation?",
+        "options": [
+            "A) Skull X-rays to check for a linear skull fracture.",
+            "B) An immediate CT Head without contrast to rule out any intracranial injury.",
+            "C) Observation by the clinical team, with imaging only if symptoms worsen.",
+            "D) An ultrasound of the head to visualize the brain surface through the fontanelle."
+        ],
+        "answer": "C) Observation by the clinical team, with imaging only if symptoms worsen.",
+        "explanation": "Correct. In cases of minor head trauma in children without any 'red flag' signs (e.g., loss of consciousness, vomiting, seizure), clinical decision rules recommend observation. The risk from radiation outweighs the very low probability of finding a significant injury requiring intervention."
+    },
+    {
+        "question": "A 5-year-old has a minor head injury with no loss of consciousness or neurological signs. The family insists on a CT scan for reassurance. What is the most important radiological consideration?",
+        "options": [
+            "A) The scan should be done to satisfy the family's request and provide legal protection for the hospital.",
+            "B) The scan is not clinically justified, and the lifetime cancer risk from radiation outweighs the negligible benefit.",
+            "C) A CT with IV contrast should be performed to get more detailed information about the brain.",
+            "D) An MRI is a better and faster alternative for this type of acute injury assessment."
+        ],
+        "answer": "B) The scan is not clinically justified, and the lifetime cancer risk from radiation outweighs the negligible benefit.",
+        "explanation": "Correct. This highlights the core principle of justification in medical imaging. Unnecessary radiation exposure, especially in children who are more radiosensitive, must be avoided. The lack of clinical indication means the risk of the scan is greater than its potential benefit."
+    },
+    {
+        "question": "A 50-year-old female presents with vague abdominal bloating. A pelvic ultrasound is performed first. What is the main advantage of this approach over going directly to CT?",
+        "options": [
+            "A) Ultrasound provides an excellent initial evaluation of the ovaries and uterus without radiation.",
+            "B) CT is known to be unable to detect most forms of gynaecological pathology.",
+            "C) Ultrasound is significantly more expensive but is more accurate for all abdominal issues.",
+            "D) This approach allows the patient to drink the required oral contrast for the CT while they are waiting."
+        ],
+        "answer": "A) Ultrasound provides an excellent initial evaluation of the ovaries and uterus without radiation.",
+        "explanation": "Correct. For many gynaecological symptoms, ultrasound is the ideal first-line test. It is low-cost, accessible, uses no radiation, and provides detailed images of the pelvic organs. CT is reserved for problem-solving or staging if a significant issue is found."
+    },
+    {
+        "question": "A 6-week-old infant presents with projectile vomiting. Pyloric stenosis is suspected. What is the imaging modality of choice?",
+        "options": [
+            "A) An abdominal ultrasound.",
+            "B) A low-dose abdominal CT scan with oral contrast.",
+            "C) A barium swallow study to visualize the stomach outlet.",
+            "D) An abdominal X-ray to look for a dilated stomach."
+        ],
+        "answer": "A) An abdominal ultrasound.",
+        "explanation": "Correct. Ultrasound is the definitive, radiation-free, and highly accurate method for diagnosing hypertrophic pyloric stenosis in infants by directly measuring the pyloric muscle. CT is inappropriate due to the high radiation dose to a small child."
+    },
+    {
+        "question": "A 60-year-old man with known alcoholic liver disease presents with increasing abdominal girth. What is the best initial imaging test to confirm and quantify ascites?",
+        "options": [
+            "A) A contrast-enhanced CT of the abdomen to assess the liver and portal vein.",
+            "B) An abdominal ultrasound.",
+            "C) A plain abdominal X-ray (supine and erect) to look for fluid levels.",
+            "D) An MRI of the abdomen to characterize the liver parenchyma."
+        ],
+        "answer": "B) An abdominal ultrasound.",
+        "explanation": "Correct. Ultrasound is extremely sensitive for detecting fluid (ascites). It is fast, cheap, portable (can be done at the bedside), and involves no radiation. It can confirm the diagnosis and guide a therapeutic tap without the need for a more resource-intensive CT scan."
+    },
+    {
+        "question": "A 65-year-old patient with a history of smoking presents with a new cough. A chest X-ray is performed. What is the primary role of the chest X-ray in this scenario?",
+        "options": [
+            "A) To definitively diagnose or rule out early-stage lung cancer.",
+            "B) To act as a low-cost, initial screening tool to identify large nodules, masses, or signs of pneumonia.",
+            "C) To accurately measure the patient's total lung capacity and expiratory flow rates.",
+            "D) To replace the need for a CT scan in all cases of suspected lung pathology."
+        ],
+        "answer": "B) To act as a low-cost, initial screening tool to identify large nodules, masses, or signs of pneumonia.",
+        "explanation": "Correct. The chest X-ray is an invaluable first-line investigation. While not as sensitive as CT, it can detect many significant pathologies at a low cost and with a low radiation dose, guiding the decision of whether a more advanced scan is warranted."
+    },
+    {
+        "question": "A 70-year-old patient presents with several days of left lower quadrant pain and fever. You suspect diverticulitis. In a resource-limited setting, what might be a reasonable alternative to an immediate CT?",
+        "options": [
+            "A) An abdominal ultrasound of the left lower quadrant.",
+            "B) A barium enema, which is effective for showing inflamed diverticula.",
+            "C) An urgent colonoscopy to directly visualize the inflamed bowel.",
+            "D) A plain abdominal X-ray to look for signs of bowel inflammation."
+        ],
+        "answer": "A) An abdominal ultrasound of the left lower quadrant.",
+        "explanation": "Correct. While CT is the gold standard for diverticulitis, in the hands of a skilled operator, ultrasound can identify inflamed diverticula, mural thickening, and even small abscesses. It serves as an excellent, low-cost initial test that avoids radiation."
+    },
+    {
+        "question": "A clinician orders a 'CT Abdomen with IV contrast'. The patient's eGFR is 40 mL/min. Who makes the final decision on administering contrast?",
+        "options": [
+            "A) The radiologist.",
+            "B) The referring clinician, as they have the ultimate responsibility for the patient.",
+            "C) The patient, after being informed of all the potential risks and benefits.",
+            "D) The senior CT technologist performing the scan."
+        ],
+        "answer": "A) The radiologist.",
+        "explanation": "Correct. The radiologist is considered the prescribing physician for IV contrast media. They are legally and ethically responsible for the final risk/benefit assessment and decision to proceed, especially in cases of renal impairment."
+    },
+    {
+        "question": "A patient arrives for a barium swallow study. Why are they asked to drink fizzy granules at the start?",
+        "options": [
+            "A) To improve the flavor of the barium suspension.",
+            "B) To neutralize stomach acid for better coating.",
+            "C) To introduce gas into the stomach to provide a 'double contrast' view.",
+            "D) To act as a laxative and speed up the transit of barium through the bowel."
+        ],
+        "answer": "C) To introduce gas into the stomach to provide a 'double contrast' view.",
+        "explanation": "Correct. This is a 'double-contrast' technique. The carbon dioxide gas (which appears black on X-ray) distends the esophagus and stomach, while the dense barium (white) coats the lining. This combination allows for much better visualization of subtle mucosal abnormalities like ulcers or small masses."
+    },
+    {
+        "question": "A patient has a CT that shows a 'Bosniak I' cyst in the kidney. What is the recommended follow-up?",
+        "options": [
+            "A) No follow-up is required as it is benign.",
+            "B) Immediate referral for surgical or percutaneous removal.",
+            "C) A follow-up contrast-enhanced CT in 3 months to ensure stability.",
+            "D) An urgent ultrasound to better characterize the cyst walls."
+        ],
+        "answer": "A) No follow-up is required as it is benign.",
+        "explanation": "Correct. The Bosniak classification is a system used to categorize renal cysts based on their CT appearance and risk of malignancy. A Bosniak I cyst is a simple benign cyst with a 0% chance of being cancerous, and it requires no follow-up imaging."
+    },
+    {
+        "question": "A patient has a CT that shows a 'sentinel loop' in the upper abdomen. This is often associated with what condition?",
+        "options": [
+            "A) A large, obstructing kidney stone.",
+            "B) Acute pancreatitis.",
+            "C) A normal anatomical variant in some patients.",
+            "D) A simple, uncomplicated liver cyst."
+        ],
+        "answer": "B) Acute pancreatitis.",
+        "explanation": "Correct. A 'sentinel loop' is a localized segment of dilated, air-filled small bowel that is seen near an area of intra-abdominal inflammation. When seen in the epigastrium or left upper quadrant, it is a classic indirect sign of acute pancreatitis causing a focal ileus."
+    },
+    {
+        "question": "A patient has a history of severe anaphylaxis to IV contrast. Which statement is true?",
+        "options": [
+            "A) They can be premedicated with a double dose of steroids and antihistamines.",
+            "B) IV contrast is absolutely contraindicated for life.",
+            "C) They can have oral contrast agents safely.",
+            "D) Both B and C are correct."
+        ],
+        "answer": "D) Both B and C are correct.",
+        "explanation": "Correct. A prior severe anaphylactic reaction is an absolute contraindication to re-administering IV iodinated contrast, as premedication does not guarantee safety. However, standard oral contrast agents are formulated differently (usually barium or dilute iodinated contrast that is not absorbed) and do not typically cross-react."
+    },
+    {
+        "question": "A patient has a large, central lung mass seen on a chest X-ray, touching the main bronchus. A tissue sample is needed. What is the most direct next step for diagnosis?",
+        "options": [
+            "A) A repeat chest X-ray in 1 week to check for any change.",
+            "B) A referral for bronchoscopy.",
+            "C) A PET/CT scan to assess for metastatic disease before biopsy.",
+            "D) A contrast-enhanced CT of the chest to better delineate the mass."
+        ],
+        "answer": "B) A referral for bronchoscopy.",
+        "explanation": "Correct. While a CT would be done for staging the cancer, the most direct and often safest way to obtain a tissue diagnosis for a central (endobronchial) lesion is via bronchoscopy. This allows a pulmonologist to directly visualize the tumor and take a biopsy."
+    },
+    {
+        "question": "A patient had a mild reaction (hives) to IV contrast 5 years ago. What is the standard policy?",
+        "options": [
+            "A) The patient can never have IV contrast again due to the risk of a more severe reaction.",
+            "B) Proceed with the scan without any precautions as the reaction was mild and long ago.",
+            "C) Administer a premedication protocol (e.g., oral steroids).",
+            "D) Use a different brand of contrast agent, as reactions are brand-specific."
+        ],
+        "answer": "C) Administer a premedication protocol (e.g., oral steroids).",
+        "explanation": "Correct. A prior mild allergic-like reaction is a risk factor for a future reaction. Standard protocols involve premedication with corticosteroids and sometimes antihistamines to significantly reduce the risk of a repeat reaction."
+    },
+    {
+        "question": "A patient needs a CTA of the neck but only has a 22G (blue) IV in their foot. Why will the department request a new IV?",
+        "options": [
+            "A) The contrast has too far to travel from the foot, making timing impossible.",
+            "B) The cannula is too small for the required injection rate and the location is not ideal for a quality scan.",
+            "C) Hospital policy prohibits technologists from using IV lines placed in the foot.",
+            "D) Foot veins are known to have a much higher rate of contrast reaction than arm veins."
+        ],
+        "answer": "B) The cannula is too small for the required injection rate and the location is not ideal for a quality scan.",
+        "explanation": "Correct. Angiography (CTA) requires a large-bore cannula (ideally 18G or 20G) in a large antecubital vein to handle the high flow rate of contrast injection (4-6 mL/sec). A small, distant IV would result in a poor quality, non-diagnostic study due to slow contrast delivery and streak artifact."
+    },
+    {
+        "question": "A patient needs a CT urogram for hematuria. Why must they have a full bladder for the delayed phase images?",
+        "options": [
+            "A) To distend the bladder so its walls and any potential masses can be seen.",
+            "B) A full bladder pushes the small bowel superiorly, out of the field of view.",
+            "C) This maneuver helps to concentrate the excreted contrast within the kidneys.",
+            "D) This is primarily done to ensure the patient is comfortable and can wait for the scan."
+        ],
+        "answer": "A) To distend the bladder so its walls and any potential masses can be seen.",
+        "explanation": "Correct. On the excretory phase of a CT urogram, the bladder is filled with contrast-opacified urine. A fully distended bladder is essential for a diagnostic study because a collapsed bladder can hide or mimic wall thickening or masses."
+    },
+    {
+        "question": "A patient on Metformin is scheduled for a CT with IV contrast. Their eGFR is 40 mL/min. What is the correct action?",
+        "options": [
+            "A) Reduce the dose of IV contrast by half to protect the kidneys.",
+            "B) Proceed with the scan as normal, as Metformin is not a contraindication.",
+            "C) Cancel the CT scan, as the risk of kidney injury is too high.",
+            "D) Hold Metformin for 48 hours post-scan and check renal function before restarting."
+        ],
+        "answer": "D) Hold Metformin for 48 hours post-scan and check renal function before restarting.",
+        "explanation": "Correct. In patients with pre-existing renal impairment (e.g., eGFR < 60), there is a risk of contrast-induced nephropathy (CIN). If this occurs, Metformin can accumulate and cause lactic acidosis, a rare but serious complication. Guidelines recommend holding the drug until renal function is confirmed to be stable."
+    },
+    {
+        "question": "A patient with right upper quadrant pain is suspected of having acute cholecystitis. What is the correct first-line imaging test?",
+        "options": [
+            "A) Abdominal Ultrasound.",
+            "B) CT abdomen with IV contrast to see inflammation.",
+            "C) A HIDA scan to assess gallbladder function.",
+            "D) A plain abdominal X-ray to look for gallstones."
+        ],
+        "answer": "A) Abdominal Ultrasound.",
+        "explanation": "Correct. Ultrasound is the primary imaging modality for evaluating the gallbladder and biliary tree. It is fast, inexpensive, uses no radiation, and can dynamically assess for gallstones, wall thickening, pericholecystic fluid, and a sonographic Murphy's sign, which are all key features of acute cholecystitis."
+    },
+    {
+        "question": "A post-operative patient has a suspected partial small bowel obstruction. What is a potential therapeutic (treatment) use of Gastrografin contrast?",
+        "options": [
+            "A) The contrast agent can lubricate the bowel lining to help impacted stool move more easily.",
+            "B) Its hyperosmolar nature can draw fluid into the bowel, helping to resolve the obstruction.",
+            "C) The agent can help to dissolve or break down post-operative adhesions.",
+            "D) It has no therapeutic use; it is purely diagnostic for locating the point of obstruction."
+        ],
+        "answer": "B) Its hyperosmolar nature can draw fluid into the bowel, helping to resolve the obstruction.",
+        "explanation": "Correct. Gastrografin (diatrizoate meglumine) is a hypertonic, water-soluble contrast agent. When it reaches the small bowel, its high osmolarity draws fluid from the bloodstream into the bowel lumen. This increases intraluminal pressure and flow, which can sometimes medically resolve a partial small bowel obstruction, potentially avoiding surgery."
+    },
+    {
+        "question": "A request for a CT Abdomen/Pelvis is submitted with the history 'Abdominal Pain'. Why is this insufficient?",
+        "options": [
+            "A) It prevents protocol optimization (e.g., for stones vs. abscess).",
+            "B) The referring clinician must include a pain score from 1 to 10.",
+            "C) This history is too short for the system to generate a billing code.",
+            "D) The computer system requires a minimum of five words in the clinical history field."
+        ],
+        "answer": "A) It prevents protocol optimization (e.g., for stones vs. abscess).",
+        "explanation": "Correct. The 'right' CT protocol depends heavily on the clinical question. For example, suspected kidney stones require a non-contrast scan. A suspected abscess or vascular issue requires IV contrast and specific timing. A vague history like 'pain' prevents the radiologist from choosing the most appropriate and highest-yield protocol."
+    },
+    {
+        "question": "A request is made for a CT to 'rule out appendicitis' in a 12-year-old boy. Why will the radiologist always recommend an ultrasound first?",
+        "options": [
+            "A) To minimize radiation dose to a young patient, as children are more radiosensitive.",
+            "B) Because the main CT scanner is usually reserved for adult patients.",
+            "C) Because ultrasound examinations are significantly cheaper for the hospital to perform.",
+            "D) Because children are often unable to hold still for the duration of a CT scan."
+        ],
+        "answer": "A) To minimize radiation dose to a young patient, as children are more radiosensitive.",
+        "explanation": "Correct. Children have a longer life expectancy and their developing tissues are more sensitive to the effects of ionizing radiation. Ultrasound is an excellent, radiation-free first-line test for appendicitis in pediatric patients. This follows the ALARA (As Low As Reasonably Achievable) principle."
+    },
+    {
+        "question": "A trauma patient has a CT showing a splenic laceration with active bleeding. What is the next likely step involving radiology?",
+        "options": [
+            "A) A follow-up contrast-enhanced CT in 24 hours to monitor the bleeding.",
+            "B) An urgent ultrasound of the spleen to better characterize the laceration.",
+            "C) A nuclear medicine tagged red blood cell scan to quantify the rate of blood loss.",
+            "D) An urgent consultation with Interventional Radiology for possible embolization."
+        ],
+        "answer": "D) An urgent consultation with Interventional Radiology for possible embolization.",
+        "explanation": "Correct. For active arterial bleeding from a solid organ (like the spleen or liver) in a hemodynamically stable patient, Interventional Radiology can often perform embolization. This is a minimally invasive procedure where a catheter is guided to the bleeding artery, which is then blocked off, thus stopping the hemorrhage and often avoiding a major open surgery (splenectomy)."
+    },
+    {
+        "question": "A woman in a remote clinic is 30 weeks pregnant and presents with vaginal bleeding. There is no ultrasound machine available. Which of the following is absolutely contraindicated?",
+        "options": [
+            "A) A digital vaginal examination.",
+            "B) Placing the patient on strict bed rest and monitoring vital signs.",
+            "C) Administering IV fluids to maintain hemodynamic stability.",
+            "D) Performing an external fetal heart rate check with a Doppler device."
+        ],
+        "answer": "A) A digital vaginal examination.",
+        "explanation": "Correct. In a patient with third-trimester bleeding, a digital or speculum exam must not be performed until a placenta previa (where the placenta covers the cervix) has been definitively ruled out, ideally by ultrasound. Performing an exam in the presence of a previa can disrupt the placenta and cause catastrophic maternal and fetal hemorrhage."
+    },
+    {
+        "question": "A young female patient presents with pelvic pain. Why is ultrasound the preferred initial imaging modality over CT?",
+        "options": [
+            "A) CT scanners have a 'blind spot' in the pelvis that limits visualization.",
+            "B) Ultrasound provides superior visualization of the uterus and ovaries without radiation.",
+            "C) The IV contrast used in CT is known to be dangerous for the female reproductive system.",
+            "D) An ultrasound examination is always faster to perform from start to finish than a CT scan."
+        ],
+        "answer": "B) Ultrasound provides superior visualization of the uterus and ovaries without radiation.",
+        "explanation": "Correct. Ultrasound is the ideal first-line test for evaluating gynaecological structures. It provides excellent soft-tissue contrast and detail of the uterine endometrium and ovarian follicles, and completely avoids ionizing radiation to the gonads in a young patient. CT is typically reserved as a second-line or problem-solving tool if the ultrasound is inconclusive."
+    },
+    {
+        "question": "A young man presents with acute testicular pain. What is the most appropriate imaging study to order urgently?",
+        "options": [
+            "A) A contrast-enhanced CT of the pelvis to evaluate for referred pain.",
+            "B) An X-ray of the pelvis to rule out any bony abnormality.",
+            "C) An urgent Doppler Ultrasound of the scrotum.",
+            "D) A thorough clinical exam is sufficient and imaging is not required."
+        ],
+        "answer": "C) An urgent Doppler Ultrasound of the scrotum.",
+        "explanation": "Correct. The primary clinical concern in acute scrotal pain is testicular torsion, which is a surgical emergency requiring immediate intervention to save the testicle. Doppler ultrasound is the modality of choice as it is fast, uses no radiation, and can definitively assess blood flow to the testicle. The phrase 'time is testicle' underscores the urgency."
+    },
+    {
+        "question": "A young, healthy patient presents with classic signs of a simple urinary tract infection (UTI) - dysuria and frequency. What is the correct approach to imaging?",
+        "options": [
+            "A) No imaging is required for uncomplicated UTI; treat based on clinical findings.",
+            "B) An urgent CT urogram should be performed to check for early signs of kidney involvement.",
+            "C) An ultrasound of the kidneys and bladder is always required to establish a baseline.",
+            "D) A plain X-ray KUB is needed to ensure a small stone is not the cause of the symptoms."
+        ],
+        "answer": "A) No imaging is required for uncomplicated UTI; treat based on clinical findings.",
+        "explanation": "Correct. For a typical, uncomplicated lower urinary tract infection in a healthy, non-pregnant patient, imaging is not necessary and constitutes a low-yield use of resources. Imaging is reserved for cases that are severe, recurrent, associated with signs of pyelonephritis (fever, flank pain), or in patients with other complicating factors."
+    },
+    {
+        "question": "An abdominal X-ray shows a massively dilated loop of colon in the shape of an inverted 'U', arising from the left lower quadrant. What is this classic sign called?",
+        "options": [
+            "A) The 'steeple sign', which relates to airway narrowing.",
+            "B) The 'coffee bean sign'.",
+            "C) The 'thumbprint sign', indicating bowel wall thickening.",
+            "D) The 'double bubble sign', seen in duodenal atresia."
+        ],
+        "answer": "B) The 'coffee bean sign'.",
+        "explanation": "Correct. The 'coffee bean sign' is the characteristic radiographic appearance of a sigmoid volvulus. In this condition, the sigmoid colon twists on its mesentery, creating a large, closed-loop obstruction. The walls of the apposed loops of bowel form a line down the middle, resembling the crease in a coffee bean."
+    },
+    {
+        "question": "An elderly patient with dementia falls and hits their head. A non-contrast CT head is performed. What is the primary purpose of this scan?",
+        "options": [
+            "A) To definitively diagnose the specific cause and type of the patient's dementia.",
+            "B) To look for a treatable cause of cognitive decline, such as a chronic subdural hematoma or hydrocephalus.",
+            "C) To assess the function of the patient's cranial nerves and visual pathways.",
+            "D) To measure the brain's electrical activity and check for seizure focus."
+        ],
+        "answer": "B) To look for a treatable cause of cognitive decline, such as a chronic subdural hematoma or hydrocephalus.",
+        "explanation": "Correct. While a CT scan cannot diagnose a neurodegenerative disease like Alzheimer's, its crucial role in this context is to identify structural abnormalities. In an elderly patient with a fall, there is a high suspicion for a chronic subdural hematoma (a slow bleed) which can mimic or worsen dementia but is potentially treatable with surgery."
+    },
+    {
+        "question": "An otherwise healthy 25-year-old presents with a headache, but has no neurological deficits or red flag symptoms (e.g., thunderclap onset, fever). What is the appropriate next step?",
+        "options": [
+            "A) An immediate non-contrast CT head to provide reassurance.",
+            "B) An urgent MRI of the brain to rule out underlying pathology.",
+            "C) Reassurance and conservative management (e.g., analgesics).",
+            "D) Skull X-rays to check for any signs of increased intracranial pressure."
+        ],
+        "answer": "C) Reassurance and conservative management (e.g., analgesics).",
+        "explanation": "Correct. The vast majority of headaches in young, healthy individuals are primary headaches (like tension-type or migraine) and do not require neuroimaging. In the absence of 'red flag' symptoms, performing a CT or MRI is a low-yield use of resources and may lead to incidental findings. A good clinical assessment is key."
+    },
+    {
+        "question": "CT Pulmonary Angiogram (CTPA) is the gold standard for diagnosing a pulmonary embolism (PE). However, in many settings, it's not immediately available. What is a valuable bedside test that can help risk-stratify?",
+        "options": [
+            "A) A plain chest X-ray to check for Hampton's hump or Westermark's sign.",
+            "B) A bedside cardiac ultrasound (echocardiogram).",
+            "C) An arterial blood gas (ABG) measurement to check for hypoxia.",
+            "D) A D-dimer blood test, which if positive confirms the presence of a PE."
+        ],
+        "answer": "B) A bedside cardiac ultrasound (echocardiogram).",
+        "explanation": "Correct. In a patient suspected of having a large, hemodynamically significant PE, a bedside echo can rapidly show signs of acute right heart strain (e.g., a dilated right ventricle, paradoxical septal motion). This finding dramatically increases the likelihood of a life-threatening PE and can prompt urgent treatment (e.g., thrombolysis) even before definitive imaging is completed."
+    },
+    {
+        "question": "For a CT Pulmonary Angiogram (CTPA), what is the MINIMUM required IV cannula size?",
+        "options": [
+            "A) 24G (yellow), as long as it flushes well with saline.",
+            "B) 22G (blue), which is sufficient for most contrast injections.",
+            "C) 20G (pink) or 18G (green)",
+            "D) Any size is acceptable; the technologist can adjust the injection rate."
+        ],
+        "answer": "C) 20G (pink) or 18G (green)",
+        "explanation": "Correct. A high-quality CTPA requires a rapid injection of a compact bolus of contrast at a flow rate of 4-6 mL/sec to densely opacify the pulmonary arteries. A small cannula (22G or smaller) cannot handle this flow rate, which would result in a non-diagnostic scan and a wasted radiation dose for the patient."
+    },
+    {
+        "question": "For a patient with a suspected scaphoid fracture but a normal initial X-ray, what is a practical and effective next step if an MRI is not available?",
+        "options": [
+            "A) Discharge the patient with advice to return if the pain does not improve in a few weeks.",
+            "B) Immobilize the thumb in a spica splint and repeat the X-ray in 10-14 days.",
+            "C) Order an immediate CT scan of the wrist for definitive diagnosis.",
+            "D) Tell the patient to exercise the wrist gently to prevent stiffness and promote healing."
+        ],
+        "answer": "B) Immobilize the thumb in a spica splint and repeat the X-ray in 10-14 days.",
+        "explanation": "Correct. Scaphoid fractures are notoriously difficult to see on initial X-rays. Missing this diagnosis can lead to non-union and long-term wrist problems. The standard, resource-conscious approach is to treat empirically based on clinical suspicion (snuffbox tenderness), immobilize the wrist, and repeat imaging after 10-14 days, by which time bone resorption may make the fracture line visible."
+    },
+    {
+        "question": "For non-urgent, high-dose examinations in a female of childbearing age, the '10-day rule' is a safety guideline that suggests scheduling the procedure:",
+        "options": [
+            "A) Within the first 10 days of the menstrual cycle.",
+            "B) At any point in the cycle, as long as a urine pregnancy test is negative on the day.",
+            "C) Only during the last 10 days of the menstrual cycle, when conception is least likely.",
+            "D) At least 10 days after her last known menstrual period has ended."
+        ],
+        "answer": "A) Within the first 10 days of the menstrual cycle.",
+        "explanation": "Correct. This is a long-standing radiation protection guideline. The '10-day rule' states that for non-emergency high-dose procedures (like an abdominal/pelvic CT), it is safest to schedule them in the first 10 days following the onset of menstruation. This is the time when the patient is least likely to have an undetected early pregnancy, thus minimizing the risk of irradiating a fetus."
+    },
+    {
+        "question": "In a patient with suspected thyroid nodules, what is the best initial imaging modality?",
+        "options": [
+            "A) A CT scan of the neck with contrast to see the nodule's blood supply.",
+            "B) A thyroid uptake scan (nuclear medicine) to determine if nodules are 'hot' or 'cold'.",
+            "C) A high-resolution thyroid ultrasound.",
+            "D) An MRI of the neck for the best soft tissue characterization."
+        ],
+        "answer": "C) A high-resolution thyroid ultrasound.",
+        "explanation": "Correct. Ultrasound is the primary modality for evaluating thyroid nodules. It is inexpensive, uses no radiation, provides excellent anatomical detail, can characterize nodules based on features suspicious for malignancy (e.g., microcalcifications, irregular margins), and can be used to guide a fine-needle aspiration (FNA) biopsy if necessary."
+    },
+    {
+        "question": "In MRI safety, which Zone is the restricted area where the general public is not permitted and where all patients must be screened before entering?",
+        "options": [
+            "A) Zone I, which includes all areas freely accessible to the public.",
+            "B) Zone II, which is the interface between the public area and the restricted zones.",
+            "C) Zone III",
+            "D) Zone IV, which is the magnet room itself and is the most dangerous area."
+        ],
+        "answer": "C) Zone III",
+        "explanation": "Correct. Zone III is the control room area, which is a strictly restricted region. Unscreened individuals or ferromagnetic objects must not enter this zone, as they would then have direct access to Zone IV (the magnet room) where the magnetic field is active. Access to Zone III must be tightly controlled by MR staff."
+    },
+    {
+        "question": "In the context of a 'FAST' scan (Focused Assessment with Sonography for Trauma), what is the primary question being answered?",
+        "options": [
+            "A) Is there evidence of a bone fracture in the long bones?",
+            "B) Is there free fluid (i.e., blood) in the peritoneum or pericardium?",
+            "C) Has the patient suffered an acute ischemic stroke?",
+            "D) Is there evidence of a large pulmonary embolism?"
+        ],
+        "answer": "B) Is there free fluid (i.e., blood) in the peritoneum or pericardium?",
+        "explanation": "Correct. The FAST scan is a rapid bedside ultrasound protocol used in the initial assessment of trauma patients. Its primary goal is to detect hemoperitoneum (blood in the abdomen) or pericardial effusion/tamponade (blood around the heart), which can indicate life-threatening internal bleeding requiring urgent surgical intervention."
+    },
+    {
+        "question": "What is the primary principle that guides radiation dose levels in pediatric imaging?",
+        "options": [
+            "A) The 'As Fast As Possible' (AFAP) principle to minimize motion.",
+            "B) The ALARA (As Low As Reasonably Achievable) principle.",
+            "C) The principle of using standardized adult doses for consistency and comparison.",
+            "D) The 'Image Once, Diagnose Twice' principle, which encourages multiple interpretations."
+        ],
+        "answer": "B) The ALARA (As Low As Reasonably Achievable) principle.",
+        "explanation": "Correct. ALARA is the cornerstone of radiation safety, particularly in children. It means that every effort must be made to use the lowest possible radiation dose that will still produce images of diagnostic quality. This is critical because children are more sensitive to the long-term risks of radiation (like cancer) and have a longer lifespan for those risks to manifest."
+    },
+    {
+        "question": "When performing a chest X-ray on a neonate in an incubator, which technical factor is most critical for minimizing radiation dose?",
+        "options": [
+            "A) Using the largest possible focal spot to shorten the exposure time.",
+            "B) Using an anti-scatter grid to improve image contrast and reduce noise.",
+            "C) Accurate collimation to the area of interest.",
+            "D) Using a long exposure time with a low mA to reduce quantum mottle."
+        ],
+        "answer": "C) Accurate collimation to the area of interest.",
+        "explanation": "Correct. Collimation, which means tightening the X-ray beam to only the specific area being imaged (e.g., the chest), is one of the single most effective ways to reduce the overall radiation dose to the patient. It prevents unnecessary radiation exposure to other parts of the infant's body, such as the thyroid and gonads."
+    },
+    {
+        "question": "What does the 'Image Gently' campaign in radiology promote?",
+        "options": [
+            "A) The development of lower-strength magnets for pediatric MRI scans.",
+            "B) Training technologists to use a soft, gentle voice when speaking to pediatric patients.",
+            "C) Raising awareness and promoting radiation protection in pediatric imaging.",
+            "D) Mandating the use of less IV contrast media in all pediatric examinations."
+        ],
+        "answer": "C) Raising awareness and promoting radiation protection in pediatric imaging.",
+        "explanation": "Correct. 'Image Gently' is a major international initiative focused on education and advocacy to improve radiation safety in pediatric imaging. Its core message is the need to adjust and tailor CT and other imaging protocols specifically for children to use the lowest possible radiation dose while still maintaining diagnostic quality, based on the ALARA principle."
+    },
+    {
+        "question": "What does the term 'artifact' mean in radiology?",
+        "options": [
+            "A) Any part of the image that does not accurately represent the patient's true anatomy.",
+            "B) An old, archived study that is used for comparison with a new scan.",
+            "C) A radiological finding that has been confirmed to be benign by follow-up.",
+            "D) The preliminary report dictated by the technologist before the radiologist reads the scan."
+        ],
+        "answer": "A) Any part of the image that does not accurately represent the patient's true anatomy.",
+        "explanation": "Correct. An artifact is a distortion or error in the image that is not a real anatomical structure. Common examples include motion blur from breathing, streak artifacts from metal implants or dental fillings, or 'beam hardening' artifacts on a CT scan."
+    },
+    {
+        "question": "What does the term 'NPO for 4 hours' mean on a CT prep instruction?",
+        "options": [
+            "A) 'Nil Per Os' - nothing by mouth for at least 4 hours.",
+            "B) The patient is allowed to drink clear fluids like water but cannot eat solid food.",
+            "C) The patient may have a light, non-fatty meal up to 2 hours before the scan.",
+            "D) The patient should drink extra fluids to ensure good hydration before the scan."
+        ],
+        "answer": "A) 'Nil Per Os' - nothing by mouth for at least 4 hours.",
+        "explanation": "Correct. NPO is a medical abbreviation for the Latin phrase 'Nil Per Os', which literally means 'nothing by mouth'. This instruction means the patient should not eat or drink anything. This is crucial for many abdominal scans to reduce the risk of aspiration if IV contrast causes nausea, and to ensure an empty stomach for better visualization."
+    },
+    {
+        "question": "What does the term 'windowing' refer to in CT imaging?",
+        "options": [
+            "A) Adjusting the brightness and contrast of the image to best display different tissues (e.g., bone vs. lung).",
+            "B) The physical lead-glass window in the control room that the technologist looks through.",
+            "C) The critical time window for administering IV contrast to see a specific pathology.",
+            "D) The physical diameter of the gantry opening where the patient lies."
+        ],
+        "answer": "A) Adjusting the brightness and contrast of the image to best display different tissues (e.g., bone vs. lung).",
+        "explanation": "Correct. A CT scanner acquires data across a huge range of tissue densities. 'Windowing' is the process of adjusting the displayed greyscale (brightness/contrast) on the viewing monitor to optimize the visibility of specific tissues. For example, 'lung windows' make the lung parenchyma clear, while 'bone windows' make the skeleton sharp, even though it's all from the same scan data."
+    },
+    {
+        "question": "What is a 'hot' spot on a technetium-99m bone scan most likely to represent?",
+        "options": [
+            "A) An area of decreased bone metabolic activity, often seen in avascular necrosis.",
+            "B) A normal finding in an adult skeleton without pathology.",
+            "C) An area of increased bone turnover, such as a fracture, infection, or metastasis.",
+            "D) A metallic artifact from a previous surgery that is absorbing the radiotracer."
+        ],
+        "answer": "C) An area of increased bone turnover, such as a fracture, infection, or metastasis.",
+        "explanation": "Correct. A bone scan is a functional study that shows bone metabolism. The radiotracer (technetium-99m MDP) is taken up by osteoblasts in areas of high bone activity. Therefore, 'hot spots' (areas of increased uptake) are non-specific but indicate an underlying pathological process like a fracture, infection (osteomyelitis), or cancerous lesion."
+    },
+    {
+        "question": "What is a 'split-bolus' CT urogram protocol designed to do?",
+        "options": [
+            "A) Acquire nephrographic and excretory phase images simultaneously in a single scan.",
+            "B) Require the technologist to use two separate IVs in the patient.",
+            "C) Reduce the total amount of IV contrast used by splitting it over a longer time.",
+            "D) Split the total radiation dose into two separate, lower-dose scanning sessions."
+        ],
+        "answer": "A) Acquire nephrographic and excretory phase images simultaneously in a single scan.",
+        "explanation": "Correct. A traditional CT urogram requires multiple scans, leading to a higher radiation dose. A split-bolus technique involves giving a portion of the contrast, waiting a few minutes for it to be excreted by the kidneys, then giving the rest of the bolus and scanning once. This clever timing allows the single scan to capture the kidneys enhancing (nephrographic phase) and the ureters filled with contrast (excretory phase) in one pass, significantly reducing the radiation dose."
+    },
+    {
+        "question": "What is a deterministic effect of radiation?",
+        "options": [
+            "A) An effect, such as cancer, that is certain to happen after any amount of radiation exposure.",
+            "B) Cancer, because its development is pre-determined by the patient's genetic code.",
+            "C) An effect that has a threshold dose below which it is not observed, like skin erythema.",
+            "D) The probability of a random effect occurring, which cannot be predicted for an individual."
+        ],
+        "answer": "C) An effect that has a threshold dose below which it is not observed, like skin erythema.",
+        "explanation": "Correct. Radiation effects are divided into two types. Deterministic effects (e.g., skin burns, cataracts, hair loss) have a minimum threshold dose required to produce them, and the severity of the effect increases as the dose increases above that threshold. This is different from stochastic effects (e.g., cancer induction), which have no known threshold and are based on probability."
+    },
+    {
+        "question": "What is a major advantage of a fluoroscopy C-arm machine in the operating theatre?",
+        "options": [
+            "A) It provides real-time, dynamic X-ray imaging to guide procedures.",
+            "B) It is a novel technology that uses no ionizing radiation, making it safe for all staff.",
+            "C) It has the same high-resolution image quality as a modern diagnostic CT scanner.",
+            "D) It is a lightweight, handheld device that can be easily operated by a single surgeon."
+        ],
+        "answer": "A) It provides real-time, dynamic X-ray imaging to guide procedures.",
+        "explanation": "Correct. The C-arm's key function is to provide live, video-like X-ray imaging (fluoroscopy). This allows surgeons, especially in orthopaedics (e.g., fixing fractures), vascular surgery (e.g., placing stents), and pain management (e.g., injections), to visualize instruments and anatomy in real-time during a procedure."
+    },
+    {
+        "question": "What is interventional radiology?",
+        "options": [
+            "A) The field of radiology focused primarily on interpreting complex CT and MRI scans.",
+            "B) A subspecialty that uses imaging guidance to perform minimally invasive procedures.",
+            "C) The branch of radiology dedicated to pediatric imaging and radiation safety.",
+            "D) The use of radiological images and expert testimony in a courtroom setting."
+        ],
+        "answer": "B) A subspecialty that uses imaging guidance to perform minimally invasive procedures.",
+        "explanation": "Correct. Interventional Radiologists (IRs) are doctors who use imaging tools like ultrasound, CT, and fluoroscopy to guide needles and catheters inside the body. They can diagnose and treat a wide variety of diseases (e.g., blockages, bleeds, tumors) without the need for major, open surgery. Examples include biopsies, angioplasty, and tumor ablation."
+    },
+    {
+        "question": "What is the key difference between a standard 'CT Chest with contrast' and a 'CTPA' protocol?",
+        "options": [
+            "A) There is no significant difference; the terms are used interchangeably.",
+            "B) The CTPA uses a much faster contrast injection and specific timing to see the pulmonary arteries.",
+            "C) The CTPA protocol does not require an IV line or contrast media.",
+            "D) The CTPA scans a larger area of the body, including the upper abdomen."
+        ],
+        "answer": "B) The CTPA uses a much faster contrast injection and specific timing to see the pulmonary arteries.",
+        "explanation": "Correct. While both are contrast-enhanced chest CTs, the protocol is very different. A standard chest CT is timed for general organ and mediastinal enhancement (venous phase). A CTPA (CT Pulmonary Angiogram) is a highly specialized study timed precisely to capture the peak density of contrast in the pulmonary arteries. Ordering the wrong test will likely miss the diagnosis of a pulmonary embolism."
+    },
+    {
+        "question": "What is the main reason a patient is asked to hold their breath during a chest or abdominal CT?",
+        "options": [
+            "A) To make the scanner gantry rotate faster and shorten the overall scan time.",
+            "B) To slow the patient's heart rate, which can improve cardiac imaging.",
+            "C) To prevent motion artifact, which blurs the images.",
+            "D) To test their lung capacity as part of a respiratory assessment."
+        ],
+        "answer": "C) To prevent motion artifact, which blurs the images.",
+        "explanation": "Correct. Breathing causes the diaphragm and internal organs to move up and down. If the patient breathes during the scan, this movement causes significant blurring and streak artifacts on the reconstructed images, which can hide or mimic pathology. Holding the breath keeps the organs still, resulting in sharp, clear images."
+    },
+    {
+        "question": "What is the primary limitation of CT in the first 6 hours of an ischemic stroke?",
+        "options": [
+            "A) The scan is unable to reliably detect an acute intracranial hemorrhage.",
+            "B) The CT scan may appear completely normal in the early hours.",
+            "C) Performing the scan is too slow to be useful in the hyperacute setting.",
+            "D) Ultrasound is always the preferred and more sensitive imaging modality."
+        ],
+        "answer": "B) The CT scan may appear completely normal in the aearly hours.",
+        "explanation": "Correct. While a non-contrast CT is essential for ruling out a bleed, its primary limitation in ischemic stroke is its low sensitivity in the first few hours. The brain tissue may not have had enough time to develop cytotoxic edema and become visibly less dense (hypoattenuating). Early signs can be very subtle or absent."
+    },
+    {
+        "question": "What is the primary reason for using a non-contrast CT head as the first imaging test in a patient with a new stroke?",
+        "options": [
+            "A) It is the fastest possible CT scan for the technologist to perform on the machine.",
+            "B) It is the best test to clearly visualize the area of ischemic brain tissue.",
+            "C) To quickly and reliably rule out a hemorrhage.",
+            "D) It uses a significantly lower amount of radiation than a contrast-enhanced scan."
+        ],
+        "answer": "C) To quickly and reliably rule out a hemorrhage.",
+        "explanation": "Correct. The immediate management of acute stroke differs drastically for ischemic versus hemorrhagic types. Thrombolysis ('clot-busting' drugs) can be life-saving for an ischemic stroke but would be catastrophic in a patient with a hemorrhage. A non-contrast CT is extremely fast and sensitive for detecting acute blood, making it the essential first step to guide therapy."
+    },
+    {
+        "question": "What is the purpose of the 'power injector' used by CT technologists?",
+        "options": [
+            "A) It is the main power supply unit for the rotating CT gantry and X-ray tube.",
+            "B) To deliver IV contrast at a precise, rapid, and consistent flow rate.",
+            "C) An automated device used to draw up medications like steroids for premedication.",
+            "D) A two-way communication system for the technologist to speak with the patient during the scan."
+        ],
+        "answer": "B) To deliver IV contrast at a precise, rapid, and consistent flow rate.",
+        "explanation": "Correct. A power injector is an essential piece of equipment for contrast-enhanced CT, particularly for angiography (CTA). It allows the technologist to inject IV contrast at a pre-programmed, high flow rate (e.g., 5 mL/sec) that is impossible to achieve by hand. This ensures that the contrast arrives in the target artery or organ at the perfect time for optimal imaging."
+    },
+    {
+        "question": "What is the role of a 'scout' or 'topogram' image in CT?",
+        "options": [
+            "A) Both B and C are correct.",
+            "B) It is a low-dose X-ray used to plan the range of the CT scan.",
+            "C) It is used to check the patient's alignment and centering.",
+            "D) It is the main, high-resolution diagnostic image from the examination."
+        ],
+        "answer": "A) Both B and C are correct.",
+        "explanation": "Correct. The scout image is a preliminary, low-dose radiograph (similar to a plain X-ray) that is taken before the main spiral CT acquisition. The technologist uses this image on their console to define the start and end points ('range') of the diagnostic scan and to ensure the patient is positioned correctly in the center of the gantry."
+    },
+    {
+        "question": "When ordering a CT head for stroke, what single piece of information is most critical?",
+        "options": [
+            "A) The patient's most recent blood pressure reading.",
+            "B) The patient's current blood sugar level.",
+            "C) The 'Last Known Well' time.",
+            "D) Whether the patient has an associated headache."
+        ],
+        "answer": "C) The 'Last Known Well' time.",
+        "explanation": "Correct. The 'Last Known Well' time (or time of symptom onset) is the single most critical piece of clinical information because it determines the patient's eligibility for time-sensitive treatments like thrombolysis (typically within 4.5 hours) or thrombectomy. This information allows the radiology team to prioritize the scan and interpretation accordingly."
+    },
+    {
+        "question": "Which of these requests for a CT chest is most appropriate?",
+        "options": [
+            "A) 'Patient is short of breath, please scan'.",
+            "B) 'Rule out PE, D-dimer is elevated'.",
+            "C) 'Query pneumonia, patient has fever and cough'.",
+            "D) 'Chest pain, ECG is normal'."
+        ],
+        "answer": "C) 'Query pneumonia, patient has fever and cough'.",
+        "explanation": "Correct. This request is the most helpful because it provides a clear clinical question (pneumonia) and relevant symptoms (fever, cough). This allows the radiologist to tailor the scan protocol if needed (though a standard contrast CT is usual for this) and focus the diagnostic search pattern effectively, leading to a more accurate and relevant report."
+    },
+    {
+        "question": "Which of the following describes a key hallmark of a benign bone lesion on an X-ray?",
+        "options": [
+            "A) A wide, ill-defined zone of transition between the lesion and normal bone.",
+            "B) A well-defined, sclerotic border.",
+            "C) An aggressive, interrupted periosteal reaction like a 'sunburst' pattern.",
+            "D) The presence of a large associated soft tissue mass."
+        ],
+        "answer": "B) A well-defined, sclerotic border.",
+        "explanation": "Correct. Benign (slow-growing) bone lesions often have a sharp, thin, or thick 'sclerotic' (white) margin. This indicates that the bone has had sufficient time to react to the slow process and 'wall off' the lesion. In contrast, aggressive lesions grow too quickly for the bone to react, resulting in ill-defined borders and a wide zone of transition."
+    },
+    {
+        "question": "Which of the following is a critical reason to obtain two orthogonal views (e.g., AP and lateral) on a plain X-ray?",
+        "options": [
+            "A) To double the radiation dose to the patient to ensure pathology is not missed.",
+            "B) To better assess the three-dimensional nature of anatomy and the alignment of fractures.",
+            "C) To make the examination take longer and meet billing code requirements for time.",
+            "D) It is only required for extremity imaging and is optional for spine or chest X-rays."
+        ],
+        "answer": "B) To better assess the three-dimensional nature of anatomy and the alignment of fractures.",
+        "explanation": "Correct. An X-ray is a 2D projection of a 3D object. A single view can be misleading; it can hide the true displacement or angulation of a fracture, or misrepresent the location of a foreign body. Obtaining two views at 90 degrees (orthogonal) to each other is a fundamental principle of radiography that allows for a more accurate three-dimensional assessment."
+    },
+    {
+        "question": "Which of the following is an absolute contraindication for an MRI scan?",
+        "options": [
+            "A) A modern aortic stent graft placed within the last 5 years.",
+            "B) A cochlear implant.",
+            "C) A titanium hip replacement from a recent surgery.",
+            "D) Pregnancy in the first trimester, due to concerns about heat deposition."
+        ],
+        "answer": "B) A cochlear implant.",
+        "explanation": "Correct. The powerful magnetic field of an MRI scanner can damage the sensitive electronic components of a cochlear implant, potentially causing irreversible hearing loss or requiring surgical replacement. Most modern orthopaedic implants (like hip replacements) and vascular stents are MRI safe or conditional. While caution is used in pregnancy, it is not an absolute contraindication."
+    },
+    {
+        "question": "Which person is generally credited with the discovery of X-rays in 1895?",
+        "options": [
+            "A) Marie Curie, for her work on radioactivity.",
+            "B) Thomas Edison, for his extensive work on fluoroscopy.",
+            "C) Wilhelm Conrad Röntgen",
+            "D) Alexander Graham Bell, for his experiments with photophones."
+        ],
+        "answer": "C) Wilhelm Conrad Röntgen",
+        "explanation": "Correct. Wilhelm Conrad Röntgen, a German physicist, is credited with first producing and detecting electromagnetic radiation in a wavelength range known today as X-rays on November 8, 1895. This groundbreaking discovery earned him the first-ever Nobel Prize in Physics in 1901."
+    },
+    {
+        "question": "Why is a CT scan generally preferred over an X-ray for diagnosing kidney stones?",
+        "options": [
+            "A) CT is significantly cheaper to perform than a standard KUB X-ray.",
+            "B) Plain X-rays are unable to visualize any types of kidney stones.",
+            "C) CT is much more sensitive and can see nearly all stone types and their exact location.",
+            "D) A non-contrast CT uses less radiation than a series of abdominal X-rays."
+        ],
+        "answer": "C) CT is much more sensitive and can see nearly all stone types and their exact location.",
+        "explanation": "Correct. While a plain X-ray (KUB) can see many calcium-based stones, it can miss smaller stones or those that are not dense (e.g., uric acid stones). A non-contrast CT scan is the gold standard because it is extremely sensitive and can detect stones as small as 1mm, regardless of their composition. It also precisely pinpoints the stone's location in the ureter and can identify secondary signs like hydronephrosis."
+    },
+    {
+        "question": "Why is documenting a patient's Last Menstrual Period (LMP) mandatory on a CT request for a 29-year-old female?",
+        "options": [
+            "A) This information is required for insurance and hospital billing purposes only.",
+            "B) It is used to time the scan with a specific phase of the menstrual cycle for better diagnosis.",
+            "C) To assess the possibility of an early, undetected pregnancy.",
+            "D) It is a government regulation that applies to all imaging requests for women under 50."
+        ],
+        "answer": "C) To assess the possibility of an early, undetected pregnancy.",
+        "explanation": "Correct. This is a critical patient safety check. For any female of childbearing age, it is crucial to assess the possibility of an early, unrecognized pregnancy to avoid inadvertent radiation exposure to a fetus. If pregnancy is possible, the radiologist and clinical team can discuss the risks and benefits and consider alternative, non-radiation imaging modalities like ultrasound or MRI."
+    },
+    {
+        "question": "Why is it important to know if a patient has a history of multiple myeloma before giving IV contrast?",
+        "options": [
+            "A) These patients have a significantly higher likelihood of a severe allergic reaction.",
+            "B) Myeloma can cause renal failure, increasing the risk of contrast-induced nephropathy.",
+            "C) The IV contrast agent is known to interfere with their chemotherapy medications.",
+            "D) It is not important; this history does not change the scanning protocol."
+        ],
+        "answer": "B) Myeloma can cause renal failure, increasing the risk of contrast-induced nephropathy.",
+        "explanation": "Correct. Multiple myeloma can lead to a specific type of renal impairment called 'myeloma kidney' due to the excretion of Bence-Jones proteins, which can damage the renal tubules. This pre-existing kidney damage puts the patient at a higher risk for developing contrast-induced nephropathy (CIN) after receiving IV contrast. Therefore, their renal function must be carefully checked and the risk/benefit assessed."
+    },
+    {
+        "question": "Why is it important to remove metal objects like jewelry and belts before a CT scan?",
+        "options": [
+            "A) These objects can become very hot during the scan, causing burns to the patient.",
+            "B) They can be forcefully pulled into the scanner gantry by a powerful magnetic field.",
+            "C) They cause severe streak artifacts that can obscure anatomy.",
+            "D) The metal interferes with the electronics and can cause the patient's heart rate to fluctuate."
+        ],
+        "answer": "C) They cause severe streak artifacts that can obscure anatomy.",
+        "explanation": "Correct. Dense metal objects absorb the X-ray beam completely. This incomplete data causes the CT reconstruction software to produce prominent dark and light streaks across the image, known as streak artifact. These artifacts can completely obscure adjacent anatomical structures, rendering parts of the scan unreadable and potentially hiding pathology."
+    },
+    {
+        "question": "Why is oral contrast generally NOT given for a CT KUB (for kidney stones)?",
+        "options": [
+            "A) The contrast agent tastes bad and can make a nauseous patient vomit.",
+            "B) Patients presenting with acute renal colic are usually too nauseous to drink the required volume.",
+            "C) Oral contrast can obscure small stones in the ureters.",
+            "D) The iodine in oral contrast can cause a severe allergic reaction."
+        ],
+        "answer": "C) Oral contrast can obscure small stones in the ureters.",
+        "explanation": "Correct. A CT KUB (Kidneys, Ureters, Bladder) is a non-contrast study specifically designed to make dense kidney stones stand out against the soft tissues. Adding oral contrast would opacify the bowel loops. Since the bowel can lie directly over the ureters, the white contrast within the bowel could easily hide or obscure a small, white stone in the underlying ureter, defeating the purpose of the scan."
+    },
+    {
+        "question": "Why might a CT of the abdomen be performed in both arterial and venous phases?",
+        "options": [
+            "A) To double-check the findings from the first phase in case there was an error.",
+            "B) To evaluate structures that enhance differently at different times, like the liver.",
+            "C) To intentionally give the patient a higher radiation dose for therapeutic reasons.",
+            "D) This is only done if the images from the first phase were blurry due to patient motion."
+        ],
+        "answer": "B) To evaluate structures that enhance differently at different times, like the liver.",
+        "explanation": "Correct. Multi-phase imaging is a specific diagnostic tool used to characterize certain pathologies. Different tissues and tumors have unique blood supplies. For example, some liver tumors (like hepatocellular carcinoma) are hypervascular and are most conspicuous on the arterial phase, while others (like metastases) are best seen on the later venous phase. Acquiring multiple phases provides crucial diagnostic information."
+    },
+    {
+        "question": "Why might oral contrast for a CT abdomen be given up to 90 minutes before the scan?",
+        "options": [
+            "A) To allow the patient sufficient time to use the restroom before the procedure begins.",
+            "B) To ensure the contrast has time to fully opacify the distal small bowel and colon.",
+            "C) To carefully check for a potential allergic reaction before the IV contrast is administered.",
+            "D) To allow the contrast to be fully absorbed from the gut into the bloodstream for better imaging."
+        ],
+        "answer": "B) To ensure the contrast has time to fully opacify the distal small bowel and colon.",
+        "explanation": "Correct. Adequate timing is crucial for achieving good opacification of the gastrointestinal tract with oral contrast. A longer delay (typically 60-90 minutes) is necessary to allow the contrast to travel from the stomach through the entire length of the small bowel and into the colon. This is essential for accurately evaluating conditions like appendicitis, diverticulitis, or an abscess."
+    },
+    {
+        "question": "You are shown a frontal neck X-ray of a child with stridor that displays a symmetric, funnel-like narrowing of the subglottic trachea. What is this classic finding known as?",
+        "options": [
+            "A) The 'thumbprint sign', which is characteristic of epiglottitis.",
+            "B) The 'steeple sign'.",
+            "C) The 'coffee bean sign', which is indicative of a sigmoid volvulus.",
+            "D) The 'crescent sign', which can be seen in various bone pathologies."
+        ],
+        "answer": "B) The 'steeple sign'.",
+        "explanation": "Correct. The 'steeple sign' is the characteristic radiographic finding of croup (laryngotracheobronchitis) on an AP or frontal view of the neck. Inflammation and edema cause symmetric narrowing of the airway below the vocal cords (the subglottic region), which makes the air column resemble a church steeple."
+    },
+    {
+        "question": "In MRI, what is the primary danger of bringing a ferromagnetic object (like an oxygen tank or a wrench) into Zone IV?",
+        "options": [
+            "A) It can disrupt the MRI's software and cause the scan to crash.",
+            "B) The object can become a high-speed projectile, posing a lethal threat.",
+            "C) It may cause a mild artifact on the image, slightly reducing quality.",
+            "D) The object will permanently lose its own magnetic properties."
+        ],
+        "answer": "B) The object can become a high-speed projectile, posing a lethal threat.",
+        "explanation": "Correct. This is known as the 'missile effect'. The static magnetic field of the MRI scanner is thousands of times stronger than Earth's gravity and is always on. A ferromagnetic object brought into the room will be violently pulled toward the center of the magnet at high velocity, capable of causing serious injury or death to anyone in its path."
+    },
+    {
+        "question": "Which imaging modality uses non-ionizing radiation?",
+        "options": [
+            "A) Computed Tomography (CT)",
+            "B) General X-ray and Fluoroscopy",
+            "C) Ultrasound",
+            "D) PET/CT"
+        ],
+        "answer": "C) Ultrasound",
+        "explanation": "Correct. Ultrasound imaging uses high-frequency sound waves and their echoes to create images. It does not use ionizing radiation at all. CT, X-ray, and PET/CT all utilize ionizing radiation (X-rays or gamma rays) to generate images, which carries a small but cumulative risk of cellular damage."
+    },
+    {
+        "question": "On a CT scan, tissues are displayed based on their density, which is measured in:",
+        "options": [
+            "A) Teslas (T)",
+            "B) Grays (Gy)",
+            "C) Hounsfield Units (HU)",
+            "D) Becquerels (Bq)"
+        ],
+        "answer": "C) Hounsfield Units (HU)",
+        "explanation": "Correct. The Hounsfield scale is a quantitative scale for describing radiodensity. By definition, air is -1000 HU, water is 0 HU, and dense cortical bone is +1000 HU or more. Radiologists use these values to help characterize tissues; for example, fluid in a cyst will measure near 0 HU, while clotted blood will measure higher."
+    },
+    {
+        "question": "What is the primary purpose of using lead aprons and shields in a fluoroscopy suite?",
+        "options": [
+            "A) To protect the patient from receiving any radiation dose during the procedure.",
+            "B) To absorb scattered radiation, protecting staff and personnel in the room.",
+            "C) To keep the patient warm, as the procedure rooms are often cold.",
+            "D) To prevent motion artifact by gently restraining the patient."
+        ],
+        "answer": "B) To absorb scattered radiation, protecting staff and personnel in the room.",
+        "explanation": "Correct. During fluoroscopy, a significant amount of the primary X-ray beam scatters off the patient in all directions. Lead aprons, thyroid shields, and protective glasses are worn by staff to absorb this scatter radiation, minimizing their occupational dose according to the ALARA principle. The patient is receiving the primary beam as part of the procedure."
+    },
+    {
+        "question": "A patient with a pacemaker needs a CT scan. What is the most important safety consideration?",
+        "options": [
+            "A) The patient must be scheduled for an MRI instead, as it is safer for pacemakers.",
+            "B) The CT's radiation could permanently damage the pacemaker's battery.",
+            "C) Ensure the X-ray beam does not pass directly over the pacemaker device if possible.",
+            "D) The patient should receive a lower dose of IV contrast media."
+        ],
+        "answer": "C) Ensure the X-ray beam does not pass directly over the pacemaker device if possible.",
+        "explanation": "Correct. While modern pacemakers are shielded, direct irradiation from a CT scanner can potentially interfere with their electronic function. While the risk is low, best practice is to avoid including the pacemaker in the primary scan field unless absolutely necessary for diagnosis. CT is generally safe for pacemaker patients, whereas MRI is often contraindicated."
+    }
+]
